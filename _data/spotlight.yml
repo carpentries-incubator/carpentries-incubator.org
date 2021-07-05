@@ -1,0 +1,20 @@
+-
+  title: "Foundational Computer Skills"
+  spotlight: https://carpentries.org/blog/2021/06/incubator-lesson-foundational-computer-skills/
+  slug: foundational-computer-skills
+-
+  title: "Data processing and visualization for metagenomics"
+  spotlight: https://carpentries.org/blog/2021/05/incubator-lesson-spotlight-metagenomics/
+  slug: metagenomics
+-
+  title: "Python for Business"
+  spotlight: https://carpentries.org/blog/2021/04/incubator-lesson-spotlight-python-business/
+  slug: python-business
+-
+  title: "Introduction to Open Data Science with R"
+  spotlight: https://carpentries.org/blog/2021/03/incubator-spotlight-open-science-r/
+  slug: open-science-with-r
+-
+  title: "Reproducible Computational Environments Using Containers: Introduction to Docker"
+  spotlight: https://carpentries.org/blog/2021/02/incubator-spotlight-docker-lesson/
+  slug: docker-introduction

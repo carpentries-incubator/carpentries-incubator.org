@@ -1,0 +1,21 @@
+-
+  country: ee
+  startdate: 2021-08-11
+  enddate: 2021-08-12
+  lesson_title: "Building Websites with Jekyll and GitHub"
+  lesson_slug: jekyll-pages-novice
+  website: https://example.com/
+-
+  country: ee
+  startdate: 2021-09-05
+  enddate: 2021-09-05
+  lesson_title: "Reproducible Computational Environments Using Containers: Introduction to Docker"
+  lesson_slug: docker-introduction
+  website: https://example.com/
+-
+  country: ee
+  startdate: 2021-08-22
+  enddate: 2021-08-24
+  lesson_title: "Single-Cell RNA-Seq Analysis"
+  lesson_slug: scrna-seq-analysis
+  website: https://example.com/
