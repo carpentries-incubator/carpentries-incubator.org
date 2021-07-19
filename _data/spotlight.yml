@@ -1,20 +1,30 @@
 -
   title: "Foundational Computer Skills"
+  teaser: "Help design this lesson, for use as a precursor to a Carpentries workshop."
   spotlight: https://carpentries.org/blog/2021/06/incubator-lesson-foundational-computer-skills/
   slug: foundational-computer-skills
+  life_cycle: pre-alpha
 -
   title: "Data processing and visualization for metagenomics"
+  teaser: "A lesson teaching quality control, contig assembly, and taxonomic assignment and analysis from sequencing data."
   spotlight: https://carpentries.org/blog/2021/05/incubator-lesson-spotlight-metagenomics/
   slug: metagenomics
+  life_cycle: alpha
 -
   title: "Python for Business"
+  teaser: "A lesson to help business students acquire data processing skills that are automated, repeatable, and testable."
   spotlight: https://carpentries.org/blog/2021/04/incubator-lesson-spotlight-python-business/
   slug: python-business
+  life_cycle: alpha
 -
   title: "Introduction to Open Data Science with R"
+  teaser: "A lesson introducing open data science using R, RStudio, and GitHub."
   spotlight: https://carpentries.org/blog/2021/03/incubator-spotlight-open-science-r/
   slug: open-science-with-r
+  life_cycle: alpha
 -
   title: "Reproducible Computational Environments Using Containers: Introduction to Docker"
+  teaser: "A lesson to introduce the use of Docker containers to create reproducible computational environments."
   spotlight: https://carpentries.org/blog/2021/02/incubator-spotlight-docker-lesson/
   slug: docker-introduction
+  life_cycle: beta
