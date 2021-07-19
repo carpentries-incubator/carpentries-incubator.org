@@ -1,18 +1,37 @@
-<div class="container">
+{% assign num_pre_alpha = site.data.lesson-stats.pre-alpha %}
+{% assign num_alpha = site.data.lesson-stats.alpha %}
+{% assign num_beta = site.data.lesson-stats.beta %}
+{% assign num_stable = site.data.lesson-stats.stable %}
+{% assign num_updated = site.data.lesson-stats.recently-updated %}
+{% assign num_help_wanted = site.data.lesson-stats.help-wanted %}
+{% assign total_lessons = site.data.lesson-stats.total %}
+{% assign perc_pre_alpha = site.data.lesson-stats.perc_pre-alpha %}
+{% assign perc_alpha = site.data.lesson-stats.perc_alpha %}
+{% assign perc_beta = site.data.lesson-stats.perc_beta %}
+{% assign perc_stable = site.data.lesson-stats.perc_stable %}
+{% assign most_recently_updated = site.data.lesson-stats.most-recent %}
+
+<div class="container col-xxl-8 px-4 py-5">
   <h2 class="display-5 fw-bold lh-1 mb-3">Stats</h2>
   <div class="progress" style="height: 30px">
-    <div class="progress-bar bg-danger" role="progressbar" style="width: 65%" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100">Pre-alpha</div>
-    <div class="progress-bar bg-warning" role="progressbar" style="width: 20%" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100">Alpha</div>
-    <div class="progress-bar bg-info" role="progressbar" style="width: 10%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">Beta</div>
-    <div class="progress-bar bg-primary" role="progressbar" style="width: 5%" aria-valuenow="5" aria-valuemin="0" aria-valuemax="100">Stable</div>
+    <div class="progress-bar pre-alpha" role="progressbar" data-toggle="popover" data-content="pre-alpha: {{ num_pre_alpha }} lessons" style="width: {{ perc_pre_alpha | floor }}%" aria-valuenow="{{ num_pre_alpha }}" aria-valuemin="0" aria-valuemax="{{ total_lessons }}" title="{{ num_pre_alpha }} lessons in pre-alpha">Pre-alpha</div>
+    <div class="progress-bar alpha" role="progressbar" data-toggle="popover" data-content="alpha: {{ num_alpha }} lessons" style="width: {{ perc_alpha | floor }}%" aria-valuenow="{{ num_alpha }}" aria-valuemin="0" aria-valuemax="{{ total_lessons }}" title="{{ num_alpha }} lessons in alpha">Alpha</div>
+    <div class="progress-bar beta" role="progressbar" data-toggle="popover" data-content="beta: {{ num_beta }} lessons" style="width: {{ perc_beta | floor }}%" aria-valuenow="{{ num_beta }}" aria-valuemin="0" aria-valuemax="{{ total_lessons }}" title="{{ num_beta }} lessons in beta">Beta</div>
+    <div class="progress-bar stable" role="progressbar" data-toggle="popover" data-content="stable: {{ num_stable }} lessons" style="width: {{ perc_stable | floor }}%" aria-valuenow="{{ num_stable }}" aria-valuemin="0" aria-valuemax="{{ total_lessons }}" title="{{ num_stable }} lessons marked stable">Stable</div>
   </div>
-  <p>There are currently:</p>
-  <ul>
-    <li>65 lessons in pre-alpha</li>
-    <li>20 lessons in alpha</li>
-    <li>10 lessons in beta</li>
-    <li>5 lessons marked stable</li>
+  <div class="container">
+  <ul class="list-group">
+  <a href="https://carpentries.org/help-wanted-issues/"><li class="list-group-item d-flex justify-content-between align-items-center">
+    Lessons looking for help
+    <span class="badge lesson-count-badge">{{ num_help_wanted }}</span>
+  </li></a>
+  <a href="https://github.com/carpentries-incubator/"><li class="list-group-item d-flex justify-content-between align-items-center">
+    Lessons updated in the last 30 days
+    <span class="badge lesson-count-badge">{{ num_updated }}</span>
+  </li></a>
+  <a href="{{ most_recently_updated.url }}"><li class="list-group-item d-flex justify-content-between align-items-center">
+    Most recently updated: {{ most_recently_updated.title }}
+  </li></a>
   </ul>
-  <p>Over the last month, 3 lessons have been submitted to the Incubator.</p>
-  <p>25 lessons are currently looking for help.</p>
+  </div>
 </div>
