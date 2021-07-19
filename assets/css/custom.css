@@ -1,3 +1,52 @@
 .caption-background {
     background: rgb(0,0,0,.5);
 }
+
+.pre-alpha {
+    background: #f04124;
+}
+
+.alpha {
+    background: #f08a24;
+}
+
+.beta {
+    background: #a0d3e8;
+}
+
+.stable {
+    background: #43ac6a;
+}
+
+.btn {
+    border-color:    #071159;
+}
+
+.btn-primary {
+    background: #071159;
+}
+
+.btn-primary:hover {
+    background: #3D7BBA;
+    border-color: :  #3D7BBA;
+}
+
+.btn-outline-primary {
+    color: #071159;
+}
+
+.btn-outline-primary:hover {
+  background: #3D7BBA;
+  border-color: :  #3D7BBA;
+}
+
+.lesson-count-badge {
+  background: #071159;
+}
+
+td .oi {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
