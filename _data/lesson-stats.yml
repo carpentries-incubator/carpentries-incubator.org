@@ -9,7 +9,7 @@ perc_pre-alpha: 66
 perc_beta: 2
 help-wanted: 11
 most-recent:
-  title: Metagenomica
-  url: https://github.com/carpentries-incubator/metagenomics
-  isodatetime: 2021-07-19T03:10:24
-recently-updated: 34
+  title: An introduction to singularity
+  url: https://github.com/carpentries-incubator/singularity-introduction
+  isodatetime: 2021-07-22T12:55:55
+recently-updated: 37
