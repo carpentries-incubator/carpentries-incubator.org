@@ -1,3 +1,20 @@
+:root {
+    --cp-blue: #071159;
+    --cp-blue-hover: #3D7BBA;
+}
+
+a {
+    color: var(--cp-blue);
+}
+
+a:hover {
+    color: var(--cp-blue-hover)
+}
+
+.badge a {
+    text-decoration: none;
+}
+
 .caption-background {
     background: rgb(0,0,0,.5);
 }
@@ -19,29 +36,29 @@
 }
 
 .btn {
-    border-color:    #071159;
+    border-color: var(--cp-blue);
 }
 
 .btn-primary {
-    background: #071159;
+    background: var(--cp-blue);
 }
 
 .btn-primary:hover {
-    background: #3D7BBA;
-    border-color: :  #3D7BBA;
+    background: var(--cp-blue-hover);
+    border-color: var(--cp-blue-hover);
 }
 
 .btn-outline-primary {
-    color: #071159;
+    color: var(--cp-blue);
 }
 
 .btn-outline-primary:hover {
-  background: #3D7BBA;
-  border-color: :  #3D7BBA;
+    background: var(--cp-blue-hover);
+    border-color: var(--cp-blue-hover);
 }
 
 .lesson-count-badge {
-  background: #071159;
+    background: var(--cp-blue);
 }
 
 td .oi {

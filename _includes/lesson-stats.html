@@ -12,26 +12,30 @@
 {% assign most_recently_updated = site.data.lesson-stats.most-recent %}
 
 <div class="container col-xxl-8 px-4 py-5">
+
   <h2 class="display-5 fw-bold lh-1 mb-3">Stats</h2>
+
+  <h3 class="display-6 lh-1 mb-3">Life Cycle for Incubator Lessons</h3>
   <div class="progress" style="height: 30px">
     <div class="progress-bar pre-alpha" role="progressbar" data-toggle="popover" data-content="pre-alpha: {{ num_pre_alpha }} lessons" style="width: {{ perc_pre_alpha | floor }}%" aria-valuenow="{{ num_pre_alpha }}" aria-valuemin="0" aria-valuemax="{{ total_lessons }}" title="{{ num_pre_alpha }} lessons in pre-alpha">Pre-alpha</div>
     <div class="progress-bar alpha" role="progressbar" data-toggle="popover" data-content="alpha: {{ num_alpha }} lessons" style="width: {{ perc_alpha | floor }}%" aria-valuenow="{{ num_alpha }}" aria-valuemin="0" aria-valuemax="{{ total_lessons }}" title="{{ num_alpha }} lessons in alpha">Alpha</div>
     <div class="progress-bar beta" role="progressbar" data-toggle="popover" data-content="beta: {{ num_beta }} lessons" style="width: {{ perc_beta | floor }}%" aria-valuenow="{{ num_beta }}" aria-valuemin="0" aria-valuemax="{{ total_lessons }}" title="{{ num_beta }} lessons in beta">Beta</div>
     <div class="progress-bar stable" role="progressbar" data-toggle="popover" data-content="stable: {{ num_stable }} lessons" style="width: {{ perc_stable | floor }}%" aria-valuenow="{{ num_stable }}" aria-valuemin="0" aria-valuemax="{{ total_lessons }}" title="{{ num_stable }} lessons marked stable">Stable</div>
   </div>
-  <div class="container">
-  <ul class="list-group">
-  <a href="https://carpentries.org/help-wanted-issues/"><li class="list-group-item d-flex justify-content-between align-items-center">
-    Lessons looking for help
-    <span class="badge lesson-count-badge">{{ num_help_wanted }}</span>
-  </li></a>
-  <a href="https://github.com/carpentries-incubator/"><li class="list-group-item d-flex justify-content-between align-items-center">
-    Lessons updated in the last 30 days
-    <span class="badge lesson-count-badge">{{ num_updated }}</span>
-  </li></a>
-  <a href="{{ most_recently_updated.url }}"><li class="list-group-item d-flex justify-content-between align-items-center">
-    Most recently updated: {{ most_recently_updated.title }}
-  </li></a>
-  </ul>
-  </div>
+
+    <h3 class="display-6 mb-3 py-5">Activity</h3>
+    <ul class="list-group">
+      <li class="list-group-item d-flex justify-content-between align-items-center">
+        <a href="https://carpentries.org/help-wanted-issues/">Lessons looking for help</a>
+        <span class="badge lesson-count-badge">{{ num_help_wanted }}</span>
+      </li>
+      <li class="list-group-item d-flex justify-content-between align-items-center">
+        <a href="https://github.com/carpentries-incubator/">Lessons updated in the last 30 days</a>
+        <span class="badge lesson-count-badge">{{ num_updated }}</span>
+      </li>
+      <li class="list-group-item d-flex justify-content-between align-items-center">
+        <a href="{{ most_recently_updated.url }}">Most recently updated: {{ most_recently_updated.title }}</a>
+      </li>
+    </ul>
+
 </div>
