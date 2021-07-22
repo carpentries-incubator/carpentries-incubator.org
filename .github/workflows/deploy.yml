@@ -25,6 +25,6 @@ jobs:
           python bin/get_lesson_stats.py ${{ secrets.PAT_USERNAME }} ${{ secrets.PAT }} > _data/lesson-stats.yml
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
-          git add _data/lesson-stats
+          git add _data/lesson-stats.yml
           git commit --allow-empty -m "[Github Actions] update lesson stats (via ${{ github.sha }})"
           git push origin main
