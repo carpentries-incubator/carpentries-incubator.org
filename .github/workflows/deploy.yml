@@ -22,8 +22,7 @@ jobs:
       - name: Run stats script
         if: ${{ github.event_name == 'push' && github.ref != 'refs/heads/gh-pages'}}
         run: |
-          python bin/get_lesson_stats.py ${{ secrets.PAT_USER }}
-          ${{ secrets.PAT }} > _data/lesson-stats.yml
+          python bin/get_lesson_stats.py ${{ secrets.PAT_USERNAME }} ${{ secrets.PAT }} > _data/lesson-stats.yml
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
           git add _data/lesson-stats
