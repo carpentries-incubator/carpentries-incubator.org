@@ -1,0 +1,31 @@
+name: build and deploy carpentries-incubator.org
+
+on:
+  push:
+    branches: main
+  schedule:
+    - cron: '45 */6 * * *'
+
+jobs:
+  build-website:
+    if: github.repository_owner == 'carpentries-incubator'
+    runs-on: ubuntu-latest
+
+    defaults:
+      run:
+        shell: bash
+
+    steps:
+      - name: Checkout the Repository
+        uses: actions/checkout@v2
+
+      - name: Run stats script
+        if: ${{ github.event_name == 'push' && github.ref != 'refs/heads/gh-pages'}}
+        run: |
+          python bin/get_lesson_stats.py ${{ secrets.PAT_USER }}
+          ${{ secrets.PAT }} > _data/lesson-stats.yml
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add _data/lesson-stats
+          git commit --allow-empty -m "[Github Actions] update lesson stats (via ${{ github.sha }})"
+          git push origin main
