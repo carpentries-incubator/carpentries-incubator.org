@@ -1,3 +1,15 @@
+<!-- currently expects a data file, _data/incubator-workshops.yml, listing workshop objects with the following attributes:
+  - startdate: the date of the first session of the workshop, in YYYY-MM-DD format
+  - enddate: (optional) the date of the last session of the workshop, in YYYY-MM-DD format.
+             if enddate is provided, a date range will be displayed for the workshop.
+  - country: a two-letter code for the country of the hosting institution/organisation.
+  - lesson_slug: the slug name of the lesson repository, e.g. jekyll-pages-novice.
+  - lesson_title: the title of the lesson, e.g. "Building Websites with Jekyll and GitHub."
+  - website: the URL of the website for the workshop.
+
+  Note: although this block was tested with YAML data, it should work equally well with a JSON blob e.g. from a data feed.
+-->
+
 <div class="container col-xxl-8 px-4 py-5">
   <h2 class="display-5 fw-bold lh-1 mb-3">Workshops</h2>
   <p>Upcoming Workshops teaching Carpentries Incubator Material{% unless site.data.incubator-workshops %} <strong>coming soon...</strong>{% endunless %}.</p>
