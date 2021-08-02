@@ -133,8 +133,10 @@ if __name__ == "__main__":
     repos = getIncubatorRepos(USERNAME, TOKEN)
     stage_counts = defaultdict(int)
     help_wanted_repos = 0
+    lesson_repos = []
     for repo in repos:
         if isLessonRepo(repo, USERNAME, TOKEN):
+            lesson_repos.append(repo)
             sleep(2) # be nice to GitHub's server, and wait two seconds between each request :)
             life_cycle = getLifeCycleStage(repo, USERNAME, TOKEN)
             if life_cycle:
@@ -156,7 +158,7 @@ if __name__ == "__main__":
     for i in range(len(percs)):
         sys.stdout.write(f'perc_{stages[i]}: {percs[i]}\n')
     sys.stdout.write(f'help-wanted: {help_wanted_repos}\n')
-    most_recent_date, most_recent_repo = mostRecentRepo(repos)
+    most_recent_date, most_recent_repo = mostRecentRepo(lesson_repos)
     sys.stdout.write(f'most-recent:\n  title: {most_recent_repo["description"]}\n  url: {most_recent_repo["html_url"]}\n  isodatetime: {most_recent_date}\n')
-    recently_updated = updatedThisMonth(repos)
+    recently_updated = updatedThisMonth(lesson_repos)
     sys.stdout.write(f'recently-updated: {recently_updated}\n')
