@@ -9,7 +9,7 @@ perc_pre-alpha: 66
 perc_beta: 2
 help-wanted: 11
 most-recent:
-  title: None
-  url: https://github.com/carpentries-incubator/carpentries-incubator.org
-  isodatetime: 2021-07-23T09:09:01
-recently-updated: 38
+  title: Introduction to the Bioconductor project
+  url: https://github.com/carpentries-incubator/bioc-project
+  isodatetime: 2021-08-02T10:10:01
+recently-updated: 29
