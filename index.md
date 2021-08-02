@@ -10,7 +10,7 @@ layout: default
       </div>
       <div class="col-lg-6">
         <h2 class="display-5 fw-bold lh-1 mb-3">About The Carpentries Incubator</h2>
-        <p class="lead">The Carpentries Incubator is a place for collaborative development of new lessons. It provides a space for our community to create, test, and improve lessons, supported by systems, process, and training to foster collaboration and promote better lesson design.</p>
+        <p class="lead">The Carpentries Incubator is a place for collaborative development of new lessons. It provides a space for <a href="https://carpentries.org">The Carpentries</a> community to create, test, and improve lessons, supported by systems, process, and training to foster collaboration and promote better lesson design.</p>
       </div>
     </div>
   </div>
