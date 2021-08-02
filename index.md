@@ -54,3 +54,10 @@ layout: default
 {% include spotlight-carousel.html %}
 
 {% include workshop-listing.html %}
+
+<div class="container col-xxl-8">
+  <h2 class="display-5 fw-bold lh-1 mb-3">Supporters</h2>
+  <p class="lead">
+    The Carpentries Incubator project is generously supported by <a href="https://chanzuckerberg.com/">The Chan Zuckerberg Initiative</a> and <a href="https://www.moore.org/">The Gordon and Betty Moore Foundation</a>.
+  </p>
+</div>
