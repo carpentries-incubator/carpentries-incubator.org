@@ -42,7 +42,7 @@ layout: default
       <div class="feature col">
         <h2>Review</h2>
         <p>Lessons that have been completed and tested can be reviewed for acceptance to The Carpentries Lab. Improve a lesson by participating in open peer review.</p>
-        <a href="https://github.com/carpentrieslab/reviews/" class="btn btn-primary">
+        <a href="https://github.com/carpentries-lab/reviews/" class="btn btn-primary">
             Review a lesson
           </a>
       </div>
