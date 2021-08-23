@@ -5,6 +5,13 @@ on:
     branches: main
   schedule:
     - cron: '45 */6 * * *'
+  workflow_dispatch:
+    inputs:
+      name:
+        description: 'Who triggered this build?'
+        required: true
+        default: 'scheduled build'
+
 
 jobs:
   build-website:
