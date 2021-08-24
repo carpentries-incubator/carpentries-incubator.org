@@ -17,7 +17,7 @@
 
 <div class="container col-xxl-8 px-4 py-5">
   <h2 class="display-5 fw-bold lh-1 mb-3">Workshops</h2>
-  <p>Upcoming Workshops teaching Carpentries Incubator Material{% unless site.data.workshops %} <strong>There are no upcoming workshops right now. Please check back again later, or click the button below to tell us about your workshop.</strong>{% endunless %}.</p>
+  <p>Upcoming Workshops teaching Carpentries Incubator Material</p>
   {% if site.data.workshops %}
   <table class="table table-striped">
     <thead>
@@ -36,7 +36,12 @@
       {% assign future_workshop_count = future_workshop_count | plus: 1 %}
       {% assign workshop = workshop_hash[1] %}
       <tr>
-        <th scope="row">{{workshop.country}}</th>
+        <td>{% unless workshop.country == "" or workshop.country == "W3" %}
+  <img src="{{site.url}}/assets/img/flags/24/{{workshop.country | downcase}}.png" title="{{workshop.country | replace: '-', ' '}}" alt="{{workshop.country | replace: '-', ' ' | downcase}}"  class="flags"/>
+  {% endunless %}
+  {% if workshop.online %}
+  <img src="{{site.url}}/assets/img/flags/24/w3.png" title="Online" alt="online workshop" class="flags"/>
+  {% endif %}</td>
         <td>{{ workshop.startdate }}{% if workshop.startdate != workshop.enddate %} - {{ workshop.enddate }}{% endif %}</td>
         <td><a href="https://carpentries-incubator.github.io/{{ workshop.lesson_slug }}">{{ workshop.lesson_title }}</a></td>
         <td><a href="{{ workshop.website }}"><span class="oi oi-browser" title="Workshop website"></span></a></td>
@@ -57,42 +62,50 @@
     <div class="form-group">
       <input name="options[redirect]" type="hidden" value="https://carpentries-incubator.org/">
     </div>
+    <div class="container">
     <div class="form-group row">
-      <label for="country_code" class="col-sm-2 col-form-label">Two-letter country code</label>
-      <div class="col-sm-10">
+      <label for="country_code" class="col-sm-4 col-form-label"><a href="https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes#Current_ISO_3166_country_codes">Two-letter country code</a> for the host</label>
+      <div class="col-sm-3">
         <input name="fields[country]" type="text" id="country_code" required>
+      </div>
+      <div class="col-sm-4">
+      <div class="form-check">
+        <label for="online" class="form-check-label">Is this an online workshop?</label>
+        <input name="fields[online]" type="checkbox" class="form-check-input" id="online" required>
+      </div>
       </div>
     </div>
     <div class="form-group row">
-      <label for="start_date" class="col-sm-2 col-form-label">Workshop start date</label>
-      <div class="col-sm-10">
+      <label for="start_date" class="col-sm-4 col-form-label">Workshop start date</label>
+      <div class="col-sm-8">
         <input name="fields[startdate]" type="date" id="start_date" required>
       </div>
     </div>
     <div class="form-group row">
-      <label for="end_date" class="col-sm-2 col-form-label">Workshop end date</label>
-      <div class="col-sm-10">
+      <label for="end_date" class="col-sm-4 col-form-label">Workshop end date</label>
+      <div class="col-sm-8">
         <input name="fields[enddate]" type="date" id="end_date" required>
       </div>
     </div>
     <div class="form-group row">
-      <label for="lesson_title" class="col-sm-2 col-form-label">Lesson title</label>
-      <div class="col-sm-10">
+      <label for="lesson_title" class="col-sm-4 col-form-label">Lesson title</label>
+      <div class="col-sm-8">
         <input name="fields[lesson_title]" type="text" id="lesson_title" required>
       </div>
     </div>
     <div class="form-group row">
-      <label for="lesson_slug" class="col-sm-2 col-form-label">Lesson slug</label>
-      <div class="col-sm-10">
+      <label for="lesson_slug" class="col-sm-4 col-form-label">Lesson slug</label>
+      <div class="col-sm-8">
         <input name="fields[lesson_slug]" type="text" id="lesson_slug" required>
         <small id="slug-help" class="form-text text-muted">The part after "carpentries-incubator/" in the repository URL.</small>
       </div>
     </div>
     <div class="form-group row">
-      <label for="website" class="col-sm-2 col-form-label">Workshop website</label>
-      <div class="col-sm-10">
+      <label for="website" class="col-sm-4 col-form-label">Workshop website</label>
+      <div class="col-sm-8">
         <input name="fields[website]" type="text" id="website" required>
       </div>
+    </div>
     </div>
     <button type="submit" class="btn btn-primary">Submit workshop</button>
   </form>

@@ -67,3 +67,8 @@ td .oi {
   margin-right: auto;
   width: 40%;
 }
+
+.flags {
+    max-width: inherit;
+    height: auto;
+}
