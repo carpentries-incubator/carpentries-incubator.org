@@ -1,5 +1,6 @@
 _id: d7807e60-04ef-11ec-bc14-e75bd6ac2dfc
 country: us
+online: 'on'
 startdate: '2021-11-10'
 enddate: '2021-11-11'
 lesson_title: Introduction to Machine Learning with Scikit Learn
