@@ -1,10 +1,17 @@
-name: build and deploy carpentries-incubator.org
+name: Generate Lesson Statistics
 
 on:
   push:
     branches: main
   schedule:
     - cron: '45 */6 * * *'
+  workflow_dispatch:
+    inputs:
+      name:
+        description: 'Who triggered this build?'
+        required: true
+        default: 'scheduled build'
+
 
 jobs:
   build-website:
@@ -20,7 +27,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Run stats script
-        if: ${{ github.event_name == 'scheduled' || (github.event_name == 'push' && github.ref != 'refs/heads/gh-pages')}}
+        if: ${{ github.ref == 'refs/heads/main' }}
         run: |
           python bin/get_lesson_stats.py ${{ secrets.PAT_USERNAME }} ${{ secrets.PAT }} > _data/lesson-stats.yml
           git config --local user.email "actions@github.com"
