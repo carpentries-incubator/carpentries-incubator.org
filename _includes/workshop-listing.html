@@ -1,4 +1,5 @@
-<!-- currently expects a data file, _data/incubator-workshops.yml, listing workshop objects with the following attributes:
+<!-- currently expects a data subdirectory, _data/workshops/, containing YAML files.
+  Each file in this subdirectory should describe a workshop object with the following attributes:
   - startdate: the date of the first session of the workshop, in YYYY-MM-DD format
   - enddate: (optional) the date of the last session of the workshop, in YYYY-MM-DD format.
              if enddate is provided, a date range will be displayed for the workshop.
@@ -6,34 +7,107 @@
   - lesson_slug: the slug name of the lesson repository, e.g. jekyll-pages-novice.
   - lesson_title: the title of the lesson, e.g. "Building Websites with Jekyll and GitHub."
   - website: the URL of the website for the workshop.
-
   Note: although this block was tested with YAML data, it should work equally well with a JSON blob e.g. from a data feed.
+
+  Data sent through the form is submitted as a YAML file in a pull request by the "Incubator Workshop Listing"
+  GitHub App. The YAML is added to the `_data/workshops` directory, which is used to build the
+  table here.
 -->
+{% assign current_date = "today" | date: "%Y-%m-%d" %}
 
 <div class="container col-xxl-8 px-4 py-5">
   <h2 class="display-5 fw-bold lh-1 mb-3">Workshops</h2>
-  <p>Upcoming Workshops teaching Carpentries Incubator Material{% unless site.data.incubator-workshops %} <strong>coming soon...</strong>{% endunless %}.</p>
-  {% if site.data.incubator-workshops %}
+  <p>Upcoming Workshops teaching Carpentries Incubator Material</p>
+  {% if site.data.workshops %}
   <table class="table table-striped">
     <thead>
       <tr>
         <th scope="col">Country</th>
         <th scope="col">Dates</th>
-        <th scope="col">Lessons</th>
+        <th scope="col">Lesson</th>
         <th scope="col">Website</th>
       </tr>
     </thead>
     <tbody>
-      {% assign workshops = site.data.incubator-workshops | sort: "startdate" %}
-      {% for workshop in workshops %}
+      {% assign future_workshop_count = 0 %}
+      {% assign workshops = site.data.workshops | sort %}
+      {% for workshop_hash in workshops %}
+      {% if workshop_hash[0] > current_date %}
+      {% assign future_workshop_count = future_workshop_count | plus: 1 %}
+      {% assign workshop = workshop_hash[1] %}
       <tr>
-        <th scope="row">{{workshop.country}}</th>
+        <td>{% unless workshop.country == "" or workshop.country == "W3" %}
+  <img src="{{site.url}}/assets/img/flags/24/{{workshop.country | downcase}}.png" title="{{workshop.country | replace: '-', ' '}}" alt="{{workshop.country | replace: '-', ' ' | downcase}}"  class="flags"/>
+  {% endunless %}
+  {% if workshop.online %}
+  <img src="{{site.url}}/assets/img/flags/24/w3.png" title="Online" alt="online workshop" class="flags"/>
+  {% endif %}</td>
         <td>{{ workshop.startdate }}{% if workshop.startdate != workshop.enddate %} - {{ workshop.enddate }}{% endif %}</td>
         <td><a href="https://carpentries-incubator.github.io/{{ workshop.lesson_slug }}">{{ workshop.lesson_title }}</a></td>
         <td><a href="{{ workshop.website }}"><span class="oi oi-browser" title="Workshop website"></span></a></td>
       </tr>
+      {% endif %}
       {% endfor %}
     </tbody>
   </table>
+  {% unless future_workshop_count > 0 %}<p>There are no upcoming workshops right now. Please check back again later, or click the button below to tell us about your workshop.</p>{% endunless %}
   {% endif %}
+  <p>
+    <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#workshop_submission_form" aria-expanded="false" aria-controls="workshop_submission_form_toggle">
+      Tell us about an Incubator workshop
+    </button>
+  </p>
+  <div class="collapse" id="workshop_submission_form">
+  <form method="POST" action="https://th-incubator-workshops.herokuapp.com/v3/entry/github/carpentries-incubator/carpentries-incubator.org/main/workshop-submission">
+    <div class="form-group">
+      <input name="options[redirect]" type="hidden" value="https://carpentries-incubator.org/">
+    </div>
+    <div class="container">
+    <div class="form-group row">
+      <label for="country_code" class="col-sm-4 col-form-label"><a href="https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes#Current_ISO_3166_country_codes">Two-letter country code</a> for the host</label>
+      <div class="col-sm-3">
+        <input name="fields[country]" type="text" id="country_code" required>
+      </div>
+      <div class="col-sm-4">
+      <div class="form-check">
+        <label for="online" class="form-check-label">Is this an online workshop?</label>
+        <input name="fields[online]" type="checkbox" class="form-check-input" id="online">
+      </div>
+      </div>
+    </div>
+    <div class="form-group row">
+      <label for="start_date" class="col-sm-4 col-form-label">Workshop start date</label>
+      <div class="col-sm-8">
+        <input name="fields[startdate]" type="date" id="start_date" required>
+      </div>
+    </div>
+    <div class="form-group row">
+      <label for="end_date" class="col-sm-4 col-form-label">Workshop end date</label>
+      <div class="col-sm-8">
+        <input name="fields[enddate]" type="date" id="end_date" required>
+      </div>
+    </div>
+    <div class="form-group row">
+      <label for="lesson_title" class="col-sm-4 col-form-label">Lesson title</label>
+      <div class="col-sm-8">
+        <input name="fields[lesson_title]" type="text" id="lesson_title" required>
+      </div>
+    </div>
+    <div class="form-group row">
+      <label for="lesson_slug" class="col-sm-4 col-form-label">Lesson slug</label>
+      <div class="col-sm-8">
+        <input name="fields[lesson_slug]" type="text" id="lesson_slug" required>
+        <small id="slug-help" class="form-text text-muted">The part after "carpentries-incubator/" in the repository URL.</small>
+      </div>
+    </div>
+    <div class="form-group row">
+      <label for="website" class="col-sm-4 col-form-label">Workshop website</label>
+      <div class="col-sm-8">
+        <input name="fields[website]" type="text" id="website" required>
+      </div>
+    </div>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit workshop</button>
+  </form>
+  </div>
 </div>
