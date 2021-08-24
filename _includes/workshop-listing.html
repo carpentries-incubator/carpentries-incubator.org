@@ -13,23 +13,27 @@
   GitHub App. The YAML is added to the `_data/workshops` directory, which is used to build the
   table here.
 -->
+{% assign current_date = "today" | date: "%Y-%m-%d" %}
 
 <div class="container col-xxl-8 px-4 py-5">
   <h2 class="display-5 fw-bold lh-1 mb-3">Workshops</h2>
-  <p>Upcoming Workshops teaching Carpentries Incubator Material{% unless site.data.workshops %} <strong>coming soon...</strong>{% endunless %}.</p>
+  <p>Upcoming Workshops teaching Carpentries Incubator Material{% unless site.data.workshops %} <strong>There are no upcoming workshops right now. Please check back again later, or click the button below to tell us about your workshop.</strong>{% endunless %}.</p>
   {% if site.data.workshops %}
   <table class="table table-striped">
     <thead>
       <tr>
         <th scope="col">Country</th>
         <th scope="col">Dates</th>
-        <th scope="col">Lessons</th>
+        <th scope="col">Lesson</th>
         <th scope="col">Website</th>
       </tr>
     </thead>
     <tbody>
+      {% assign future_workshop_count = 0 %}
       {% assign workshops = site.data.workshops | sort %}
       {% for workshop_hash in workshops %}
+      {% if workshop_hash[0] > current_date %}
+      {% assign future_workshop_count = future_workshop_count | plus: 1 %}
       {% assign workshop = workshop_hash[1] %}
       <tr>
         <th scope="row">{{workshop.country}}</th>
@@ -37,9 +41,11 @@
         <td><a href="https://carpentries-incubator.github.io/{{ workshop.lesson_slug }}">{{ workshop.lesson_title }}</a></td>
         <td><a href="{{ workshop.website }}"><span class="oi oi-browser" title="Workshop website"></span></a></td>
       </tr>
+      {% endif %}
       {% endfor %}
     </tbody>
   </table>
+  {% unless future_workshop_count > 0 %}<p>There are no upcoming workshops right now. Please check back again later, or click the button below to tell us about your workshop.</p>{% endunless %}
   {% endif %}
   <p>
     <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#workshop_submission_form" aria-expanded="false" aria-controls="workshop_submission_form_toggle">
