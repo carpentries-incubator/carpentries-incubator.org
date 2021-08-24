@@ -1,4 +1,16 @@
 -
+  title: "Programming with Julia"
+  teaser: "A lesson teaching the Julia programming language, aimed at those doing scientific computing."
+  spotlight: https://carpentries.org/blog/2021/08/incubator-lesson-spotlight-julia-novice/
+  slug: julia-novice
+  life_cycle: alpha
+-
+  title: "Analysis and Interpretation of Bulk RNA-Seq Data using Bioconductor"
+  teaser: "A lesson teaching how to use Bioconductor tools to analyse data from RNA-Seq experiments."
+  spotlight: https://carpentries.org/blog/2021/07/incubator-lesson-spotlight-rna-seq-data-analysis/
+  slug: bioc-rnaseq
+  life_cycle: pre-alpha
+-
   title: "Foundational Computer Skills"
   teaser: "Help design this lesson, for use as a precursor to a Carpentries workshop."
   spotlight: https://carpentries.org/blog/2021/06/incubator-lesson-foundational-computer-skills/
