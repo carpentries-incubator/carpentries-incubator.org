@@ -1,4 +1,4 @@
-name: build and deploy carpentries-incubator.org
+name: Generate Lesson Statistics
 
 on:
   push:
