@@ -39,7 +39,7 @@
         <td>{% unless workshop.country == "" or workshop.country == "W3" %}
   <img src="{{site.url}}/assets/img/flags/24/{{workshop.country | downcase}}.png" title="{{workshop.country | replace: '-', ' '}}" alt="{{workshop.country | replace: '-', ' ' | downcase}}"  class="flags"/>
   {% endunless %}
-  {% if workshop.online %}
+  {% if workshop.online == "on" %}
   <img src="{{site.url}}/assets/img/flags/24/w3.png" title="Online" alt="online workshop" class="flags"/>
   {% endif %}</td>
         <td>{{ workshop.startdate }}{% if workshop.startdate != workshop.enddate %} - {{ workshop.enddate }}{% endif %}</td>
