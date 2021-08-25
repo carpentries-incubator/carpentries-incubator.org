@@ -9,7 +9,7 @@ perc_pre-alpha: 62
 perc_beta: 3
 help-wanted: 14
 most-recent:
-  title: Lesson on Parallel Programming in Python
-  url: https://github.com/carpentries-incubator/lesson-parallel-python
-  isodatetime: 2021-08-24T09:49:03
-recently-updated: 34
+  title: High-Dimensional Statistics
+  url: https://github.com/carpentries-incubator/high-dimensional-stats-r
+  isodatetime: 2021-08-24T16:52:42
+recently-updated: 33
