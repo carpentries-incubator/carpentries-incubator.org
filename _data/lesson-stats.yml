@@ -9,7 +9,7 @@ perc_pre-alpha: 61
 perc_beta: 3
 help-wanted: 14
 most-recent:
-  title: Materials for a workshop introducing machine learning to biologists
-  url: https://github.com/carpentries-incubator/ml4bio-workshop
-  isodatetime: 2021-08-25T16:13:04
+  title: Text Analysis with Python
+  url: https://github.com/carpentries-incubator/python-text-analysis
+  isodatetime: 2021-08-25T21:53:46
 recently-updated: 35
