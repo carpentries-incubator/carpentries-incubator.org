@@ -9,7 +9,7 @@ perc_pre-alpha: 60
 perc_beta: 3
 help-wanted: 15
 most-recent:
-  title: Regular Expressions for Biologists
-  url: https://github.com/carpentries-incubator/regex-novice-biology
-  isodatetime: 2021-08-26T12:00:22
-recently-updated: 37
+  title: High-Dimensional Statistics
+  url: https://github.com/carpentries-incubator/high-dimensional-stats-r
+  isodatetime: 2021-08-26T15:17:18
+recently-updated: 38
