@@ -9,7 +9,7 @@ perc_pre-alpha: 60
 perc_beta: 3
 help-wanted: 15
 most-recent:
-  title: SageMath Software Carpentry Lesson 
-  url: https://github.com/carpentries-incubator/sage-lesson
-  isodatetime: 2021-08-30T03:08:01
+  title: Learn Deep Learning with Python
+  url: https://github.com/carpentries-incubator/deep-learning-intro
+  isodatetime: 2021-08-30T12:51:49
 recently-updated: 38
