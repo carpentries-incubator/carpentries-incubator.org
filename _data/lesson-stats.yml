@@ -9,7 +9,7 @@ perc_pre-alpha: 60
 perc_beta: 3
 help-wanted: 15
 most-recent:
-  title: Single-cell RNA Sequencing Data Analysis
-  url: https://github.com/carpentries-incubator/scrna-seq-analysis
-  isodatetime: 2021-08-27T07:21:27
+  title: Introduction to Workflows with Common Workflow Language
+  url: https://github.com/carpentries-incubator/cwl-novice-tutorial
+  isodatetime: 2021-08-29T19:07:53
 recently-updated: 37
