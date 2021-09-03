@@ -9,7 +9,7 @@ perc_pre-alpha: 60
 perc_beta: 3
 help-wanted: 15
 most-recent:
-  title: Extra Unix Shell Material
-  url: https://github.com/carpentries-incubator/shell-extras
-  isodatetime: 2021-09-02T17:57:41
-recently-updated: 43
+  title: FAIR in (biological) practice
+  url: https://github.com/carpentries-incubator/fair-bio-practice
+  isodatetime: 2021-09-02T23:57:46
+recently-updated: 42
