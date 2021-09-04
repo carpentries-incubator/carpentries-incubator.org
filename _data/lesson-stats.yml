@@ -9,7 +9,7 @@ perc_pre-alpha: 60
 perc_beta: 3
 help-wanted: 15
 most-recent:
-  title: Text Analysis with Python
-  url: https://github.com/carpentries-incubator/python-text-analysis
-  isodatetime: 2021-09-03T20:49:13
+  title: An introduction to singularity
+  url: https://github.com/carpentries-incubator/singularity-introduction
+  isodatetime: 2021-09-04T11:12:09
 recently-updated: 41
