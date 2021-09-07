@@ -9,7 +9,7 @@ perc_pre-alpha: 60
 perc_beta: 3
 help-wanted: 15
 most-recent:
-  title: An introduction to singularity
-  url: https://github.com/carpentries-incubator/singularity-introduction
-  isodatetime: 2021-09-04T11:12:09
+  title: GPU Programming lesson.
+  url: https://github.com/carpentries-incubator/lesson-gpu-programming
+  isodatetime: 2021-09-07T08:49:21
 recently-updated: 40
