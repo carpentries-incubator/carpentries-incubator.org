@@ -9,7 +9,7 @@ perc_pre-alpha: 60
 perc_beta: 3
 help-wanted: 15
 most-recent:
-  title: Introduction to Geospatial Raster and Vector Data with Python
-  url: https://github.com/carpentries-incubator/geospatial-python
-  isodatetime: 2021-09-07T18:43:34
+  title: Single-cell RNA Sequencing Data Analysis
+  url: https://github.com/carpentries-incubator/scrna-seq-analysis
+  isodatetime: 2021-09-08T06:16:33
 recently-updated: 40
