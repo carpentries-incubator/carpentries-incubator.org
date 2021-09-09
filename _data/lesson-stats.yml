@@ -9,7 +9,7 @@ perc_pre-alpha: 60
 perc_beta: 3
 help-wanted: 15
 most-recent:
-  title: High-Dimensional Statistics
-  url: https://github.com/carpentries-incubator/high-dimensional-stats-r
-  isodatetime: 2021-09-09T02:33:33
+  title: Good Enough Practices in Scientific Computing
+  url: https://github.com/carpentries-incubator/good-enough-practices
+  isodatetime: 2021-09-09T15:25:36
 recently-updated: 38
