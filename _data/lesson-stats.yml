@@ -9,7 +9,7 @@ perc_pre-alpha: 60
 perc_beta: 3
 help-wanted: 15
 most-recent:
-  title: Lesson materials for an Introduction to High Performance Computing in the tradition of Software Carpentry
-  url: https://github.com/carpentries-incubator/hpc-intro
-  isodatetime: 2021-09-10T09:00:16
+  title: Introduction to Snakemake for Bioinformatics
+  url: https://github.com/carpentries-incubator/snakemake-novice-bioinformatics
+  isodatetime: 2021-09-10T16:41:02
 recently-updated: 38
