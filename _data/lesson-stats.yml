@@ -9,7 +9,7 @@ perc_pre-alpha: 60
 perc_beta: 3
 help-wanted: 15
 most-recent:
-  title: Single-cell RNA Sequencing Data Analysis
-  url: https://github.com/carpentries-incubator/scrna-seq-analysis
-  isodatetime: 2021-09-11T06:04:35
-recently-updated: 33
+  title: Metagenomica
+  url: https://github.com/carpentries-incubator/metagenomics
+  isodatetime: 2021-09-12T18:40:44
+recently-updated: 34
