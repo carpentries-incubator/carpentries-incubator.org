@@ -9,7 +9,7 @@ perc_pre-alpha: 60
 perc_beta: 3
 help-wanted: 15
 most-recent:
-  title: Metagenomica
-  url: https://github.com/carpentries-incubator/metagenomics
-  isodatetime: 2021-09-12T18:40:44
-recently-updated: 34
+  title: Introduction to the Command Line for Metagenomics
+  url: https://github.com/carpentries-incubator/shell-metagenomics
+  isodatetime: 2021-09-13T00:18:36
+recently-updated: 35
