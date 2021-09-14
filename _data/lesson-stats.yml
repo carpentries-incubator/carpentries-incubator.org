@@ -9,7 +9,7 @@ perc_pre-alpha: 60
 perc_beta: 3
 help-wanted: 15
 most-recent:
-  title: Introduction to the Command Line for Metagenomics
-  url: https://github.com/carpentries-incubator/shell-metagenomics
-  isodatetime: 2021-09-13T18:27:51
+  title: Materials for a workshop introducing machine learning to biologists
+  url: https://github.com/carpentries-incubator/ml4bio-workshop
+  isodatetime: 2021-09-13T19:58:30
 recently-updated: 35
