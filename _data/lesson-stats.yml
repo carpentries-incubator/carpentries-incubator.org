@@ -9,7 +9,7 @@ perc_pre-alpha: 60
 perc_beta: 3
 help-wanted: 15
 most-recent:
-  title: Single-cell RNA Sequencing Data Analysis
-  url: https://github.com/carpentries-incubator/scrna-seq-analysis
-  isodatetime: 2021-09-14T06:42:54
-recently-updated: 35
+  title: High-Dimensional Statistics
+  url: https://github.com/carpentries-incubator/high-dimensional-stats-r
+  isodatetime: 2021-09-14T12:26:49
+recently-updated: 36
