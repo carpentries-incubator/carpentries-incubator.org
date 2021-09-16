@@ -9,7 +9,7 @@ perc_pre-alpha: 60
 perc_beta: 3
 help-wanted: 16
 most-recent:
-  title: A Carpentry style lesson on machine learning with Python and scikit-learn.
-  url: https://github.com/carpentries-incubator/machine-learning-novice-sklearn
-  isodatetime: 2021-09-15T18:00:49
+  title: Library Carpentry: Introduction to R and litsearchr
+  url: https://github.com/carpentries-incubator/lc-litsearchr
+  isodatetime: 2021-09-16T01:31:34
 recently-updated: 36
