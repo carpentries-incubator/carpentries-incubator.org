@@ -9,7 +9,7 @@ perc_pre-alpha: 60
 perc_beta: 3
 help-wanted: 16
 most-recent:
-  title: Materials for a workshop introducing machine learning to biologists
-  url: https://github.com/carpentries-incubator/ml4bio-workshop
-  isodatetime: 2021-09-16T16:47:12
+  title: High-Dimensional Statistics
+  url: https://github.com/carpentries-incubator/high-dimensional-stats-r
+  isodatetime: 2021-09-16T23:15:33
 recently-updated: 35
