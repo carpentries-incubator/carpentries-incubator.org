@@ -9,7 +9,7 @@ perc_pre-alpha: 60
 perc_beta: 3
 help-wanted: 16
 most-recent:
-  title: Statistical thinking for public health
-  url: https://github.com/carpentries-incubator/statistical-thinking-public-health
-  isodatetime: 2021-09-18T11:56:21
+  title: Single-cell RNA Sequencing Data Analysis
+  url: https://github.com/carpentries-incubator/scrna-seq-analysis
+  isodatetime: 2021-09-20T06:03:26
 recently-updated: 34
