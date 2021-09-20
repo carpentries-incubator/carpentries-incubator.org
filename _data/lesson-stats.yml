@@ -9,7 +9,7 @@ perc_pre-alpha: 60
 perc_beta: 3
 help-wanted: 16
 most-recent:
-  title: Single-cell RNA Sequencing Data Analysis
-  url: https://github.com/carpentries-incubator/scrna-seq-analysis
-  isodatetime: 2021-09-20T08:35:18
-recently-updated: 34
+  title: Data management and analytic pipelines for engineers
+  url: https://github.com/carpentries-incubator/data-management-pipelines-engineering
+  isodatetime: 2021-09-20T17:47:40
+recently-updated: 35
