@@ -9,7 +9,7 @@ perc_pre-alpha: 60
 perc_beta: 3
 help-wanted: 16
 most-recent:
-  title: Data management and analytic pipelines for engineers
-  url: https://github.com/carpentries-incubator/data-management-pipelines-engineering
-  isodatetime: 2021-09-20T17:47:40
+  title: Introduction to Snakemake for Bioinformatics
+  url: https://github.com/carpentries-incubator/snakemake-novice-bioinformatics
+  isodatetime: 2021-09-20T22:01:40
 recently-updated: 35
