@@ -9,7 +9,7 @@ perc_pre-alpha: 60
 perc_beta: 3
 help-wanted: 16
 most-recent:
-  title: Multiple linear regression for public health
-  url: https://github.com/carpentries-incubator/multiple-linear-regression-public-health
-  isodatetime: 2021-09-22T14:49:41
-recently-updated: 35
+  title: Building Websites with Jekyll & GitHub Pages.
+  url: https://github.com/carpentries-incubator/jekyll-pages-novice
+  isodatetime: 2021-09-23T11:55:02
+recently-updated: 34
