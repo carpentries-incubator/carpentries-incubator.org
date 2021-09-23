@@ -9,7 +9,7 @@ perc_pre-alpha: 60
 perc_beta: 3
 help-wanted: 16
 most-recent:
-  title: Building Websites with Jekyll & GitHub Pages.
-  url: https://github.com/carpentries-incubator/jekyll-pages-novice
-  isodatetime: 2021-09-23T11:55:02
-recently-updated: 34
+  title: Material for a lesson introducing PyMARC
+  url: https://github.com/carpentries-incubator/pymarc_basics
+  isodatetime: 2021-09-23T16:31:08
+recently-updated: 35
