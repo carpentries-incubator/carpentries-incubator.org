@@ -9,7 +9,7 @@ perc_pre-alpha: 60
 perc_beta: 3
 help-wanted: 16
 most-recent:
-  title: Material for a lesson introducing PyMARC
-  url: https://github.com/carpentries-incubator/pymarc_basics
-  isodatetime: 2021-09-23T16:31:08
+  title: Statistical thinking for public health
+  url: https://github.com/carpentries-incubator/statistical-thinking-public-health
+  isodatetime: 2021-09-24T10:49:54
 recently-updated: 35
