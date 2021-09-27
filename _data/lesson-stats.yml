@@ -9,7 +9,7 @@ perc_pre-alpha: 60
 perc_beta: 3
 help-wanted: 16
 most-recent:
-  title: Introduction to the Bioconductor project
-  url: https://github.com/carpentries-incubator/bioc-project
-  isodatetime: 2021-09-24T17:19:57
+  title: High-Dimensional Statistics
+  url: https://github.com/carpentries-incubator/high-dimensional-stats-r
+  isodatetime: 2021-09-27T15:55:51
 recently-updated: 34
