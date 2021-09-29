@@ -9,7 +9,7 @@ perc_pre-alpha: 60
 perc_beta: 3
 help-wanted: 16
 most-recent:
-  title: Building Websites with Jekyll & GitHub Pages.
-  url: https://github.com/carpentries-incubator/jekyll-pages-novice
-  isodatetime: 2021-09-29T09:14:02
+  title: FAIR in (biological) practice
+  url: https://github.com/carpentries-incubator/fair-bio-practice
+  isodatetime: 2021-09-29T18:38:18
 recently-updated: 32
