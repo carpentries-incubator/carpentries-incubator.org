@@ -7,9 +7,9 @@ perc_alpha: 35
 perc_stable: 2
 perc_pre-alpha: 60
 perc_beta: 3
-help-wanted: 16
+help-wanted: 15
 most-recent:
-  title: Introduction to Conda for (Data) Scientists
-  url: https://github.com/carpentries-incubator/introduction-to-conda-for-data-scientists
-  isodatetime: 2021-09-30T12:33:04
+  title: Reproducible Computational Environments using Containers
+  url: https://github.com/carpentries-incubator/docker-introduction
+  isodatetime: 2021-09-30T13:13:40
 recently-updated: 33
