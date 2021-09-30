@@ -9,7 +9,7 @@ perc_pre-alpha: 60
 perc_beta: 3
 help-wanted: 16
 most-recent:
-  title: FAIR in (biological) practice
-  url: https://github.com/carpentries-incubator/fair-bio-practice
-  isodatetime: 2021-09-29T21:00:16
-recently-updated: 32
+  title: Introduction to Conda for (Data) Scientists
+  url: https://github.com/carpentries-incubator/introduction-to-conda-for-data-scientists
+  isodatetime: 2021-09-30T12:33:04
+recently-updated: 33
