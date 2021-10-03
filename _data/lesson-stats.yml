@@ -9,7 +9,7 @@ perc_pre-alpha: 60
 perc_beta: 3
 help-wanted: 15
 most-recent:
-  title: FAIR in (biological) practice
-  url: https://github.com/carpentries-incubator/fair-bio-practice
-  isodatetime: 2021-10-01T19:54:44
-recently-updated: 31
+  title: Python Testing and Continuous Integration
+  url: https://github.com/carpentries-incubator/python-testing
+  isodatetime: 2021-10-03T09:47:23
+recently-updated: 32
