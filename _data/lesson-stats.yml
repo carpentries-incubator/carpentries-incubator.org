@@ -9,7 +9,7 @@ perc_pre-alpha: 60
 perc_beta: 3
 help-wanted: 15
 most-recent:
-  title: Python Testing and Continuous Integration
-  url: https://github.com/carpentries-incubator/python-testing
-  isodatetime: 2021-10-03T09:47:23
-recently-updated: 32
+  title: Building Websites with Jekyll & GitHub Pages.
+  url: https://github.com/carpentries-incubator/jekyll-pages-novice
+  isodatetime: 2021-10-04T12:54:16
+recently-updated: 31
