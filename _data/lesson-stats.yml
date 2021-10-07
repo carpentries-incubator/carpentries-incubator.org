@@ -9,7 +9,7 @@ perc_pre-alpha: 60
 perc_beta: 3
 help-wanted: 14
 most-recent:
-  title: Reproducible Computational Environments using Containers
-  url: https://github.com/carpentries-incubator/docker-introduction
-  isodatetime: 2021-10-06T18:33:01
+  title: FAIR in (biological) practice
+  url: https://github.com/carpentries-incubator/fair-bio-practice
+  isodatetime: 2021-10-07T01:12:09
 recently-updated: 33
