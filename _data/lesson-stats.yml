@@ -9,7 +9,7 @@ perc_pre-alpha: 60
 perc_beta: 3
 help-wanted: 14
 most-recent:
-  title: R for Artists
-  url: https://github.com/carpentries-incubator/r-for-artists
-  isodatetime: 2021-10-12T16:19:58
+  title: High-Dimensional Statistics
+  url: https://github.com/carpentries-incubator/high-dimensional-stats-r
+  isodatetime: 2021-10-13T12:01:54
 recently-updated: 34
