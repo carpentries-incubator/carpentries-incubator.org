@@ -9,7 +9,7 @@ perc_pre-alpha: 60
 perc_beta: 3
 help-wanted: 14
 most-recent:
-  title: Workflow management with Nextflow and nf-core
-  url: https://github.com/carpentries-incubator/workflows-nextflow
-  isodatetime: 2021-10-18T15:28:17
+  title: FAIR in (biological) practice
+  url: https://github.com/carpentries-incubator/fair-bio-practice
+  isodatetime: 2021-10-18T23:30:51
 recently-updated: 30
