@@ -9,7 +9,7 @@ perc_pre-alpha: 60
 perc_beta: 3
 help-wanted: 14
 most-recent:
-  title: FAIR in (biological) practice
-  url: https://github.com/carpentries-incubator/fair-bio-practice
-  isodatetime: 2021-10-20T09:34:56
-recently-updated: 32
+  title: Data management and analytic pipelines for engineers
+  url: https://github.com/carpentries-incubator/data-management-pipelines-engineering
+  isodatetime: 2021-10-20T17:58:49
+recently-updated: 33
