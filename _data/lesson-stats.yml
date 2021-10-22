@@ -9,7 +9,7 @@ perc_pre-alpha: 60
 perc_beta: 3
 help-wanted: 14
 most-recent:
-  title: Data management and analytic pipelines for engineers
-  url: https://github.com/carpentries-incubator/data-management-pipelines-engineering
-  isodatetime: 2021-10-21T17:47:30
+  title: Introduction to MRI and BIDS
+  url: https://github.com/carpentries-incubator/SDC-BIDS-IntroMRI
+  isodatetime: 2021-10-22T11:41:21
 recently-updated: 34
