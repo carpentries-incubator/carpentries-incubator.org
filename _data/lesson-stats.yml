@@ -9,7 +9,7 @@ perc_pre-alpha: 61
 perc_beta: 3
 help-wanted: 14
 most-recent:
-  title: High-Dimensional Statistics
-  url: https://github.com/carpentries-incubator/high-dimensional-stats-r
-  isodatetime: 2021-10-23T15:46:36
-recently-updated: 33
+  title: Data Carpentry for Camera Traps
+  url: https://github.com/carpentries-incubator/camera-traps
+  isodatetime: 2021-10-24T06:53:01
+recently-updated: 34
