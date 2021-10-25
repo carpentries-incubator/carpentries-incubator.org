@@ -9,7 +9,7 @@ perc_pre-alpha: 61
 perc_beta: 3
 help-wanted: 14
 most-recent:
-  title: Data Carpentry for Camera Traps
-  url: https://github.com/carpentries-incubator/camera-traps
-  isodatetime: 2021-10-24T07:51:39
+  title: GPU Programming lesson.
+  url: https://github.com/carpentries-incubator/lesson-gpu-programming
+  isodatetime: 2021-10-25T12:31:29
 recently-updated: 33
