@@ -9,7 +9,7 @@ perc_pre-alpha: 61
 perc_beta: 3
 help-wanted: 14
 most-recent:
-  title: Working with EEGLAB and BIDS-EEG
-  url: https://github.com/carpentries-incubator/SDC-BIDS-EEG-EEGLAB
-  isodatetime: 2021-10-25T19:41:27
+  title: GPU Programming lesson.
+  url: https://github.com/carpentries-incubator/lesson-gpu-programming
+  isodatetime: 2021-10-26T12:50:29
 recently-updated: 33
