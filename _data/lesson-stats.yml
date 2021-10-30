@@ -9,7 +9,7 @@ perc_pre-alpha: 61
 perc_beta: 3
 help-wanted: 15
 most-recent:
-  title: Intermediate Research Software Development Skills In Python Lesson Material
-  url: https://github.com/carpentries-incubator/python-intermediate-development
-  isodatetime: 2021-10-29T17:58:54
-recently-updated: 35
+  title: High-Dimensional Statistics
+  url: https://github.com/carpentries-incubator/high-dimensional-stats-r
+  isodatetime: 2021-10-30T11:19:18
+recently-updated: 34
