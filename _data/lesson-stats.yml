@@ -7,9 +7,9 @@ perc_alpha: 35
 perc_stable: 2
 perc_pre-alpha: 60
 perc_beta: 3
-help-wanted: 14
+help-wanted: 15
 most-recent:
-  title: Intermediate Research Software Development Skills In Python Lesson Material
-  url: https://github.com/carpentries-incubator/python-intermediate-development
-  isodatetime: 2021-11-04T22:23:02
-recently-updated: 31
+  title: Introduction to the Bioconductor project
+  url: https://github.com/carpentries-incubator/bioc-project
+  isodatetime: 2021-11-05T13:01:34
+recently-updated: 29
