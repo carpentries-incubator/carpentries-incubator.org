@@ -7,9 +7,9 @@ perc_alpha: 35
 perc_stable: 2
 perc_pre-alpha: 60
 perc_beta: 3
-help-wanted: 15
+help-wanted: 14
 most-recent:
   title: Intermediate Research Software Development Skills In Python Lesson Material
   url: https://github.com/carpentries-incubator/python-intermediate-development
-  isodatetime: 2021-11-04T18:42:25
+  isodatetime: 2021-11-04T22:23:02
 recently-updated: 31
