@@ -9,7 +9,7 @@ perc_pre-alpha: 60
 perc_beta: 3
 help-wanted: 15
 most-recent:
-  title: Intermediate Research Software Development Skills In Python Lesson Material
-  url: https://github.com/carpentries-incubator/python-intermediate-development
-  isodatetime: 2021-11-08T20:26:57
+  title: FAIR in (biological) practice
+  url: https://github.com/carpentries-incubator/fair-bio-practice
+  isodatetime: 2021-11-09T10:08:59
 recently-updated: 28
