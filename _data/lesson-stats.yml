@@ -9,7 +9,7 @@ perc_pre-alpha: 60
 perc_beta: 3
 help-wanted: 15
 most-recent:
-  title: FAIR in (biological) practice
-  url: https://github.com/carpentries-incubator/fair-bio-practice
-  isodatetime: 2021-11-09T10:08:59
-recently-updated: 28
+  title: Introduction to the Command Line for Metagenomics
+  url: https://github.com/carpentries-incubator/shell-metagenomics
+  isodatetime: 2021-11-09T21:39:44
+recently-updated: 29
