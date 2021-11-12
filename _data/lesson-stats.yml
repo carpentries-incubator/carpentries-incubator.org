@@ -9,7 +9,7 @@ perc_pre-alpha: 60
 perc_beta: 3
 help-wanted: 15
 most-recent:
-  title: Bioconductor data science introduction
-  url: https://github.com/carpentries-incubator/bioc-intro
-  isodatetime: 2021-11-11T14:37:58
+  title: GPU Programming with Python and CUDA.
+  url: https://github.com/carpentries-incubator/lesson-gpu-programming
+  isodatetime: 2021-11-12T16:10:48
 recently-updated: 29
