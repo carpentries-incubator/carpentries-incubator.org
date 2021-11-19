@@ -9,7 +9,7 @@ perc_pre-alpha: 60
 perc_beta: 3
 help-wanted: 15
 most-recent:
-  title: Intermediate Research Software Development Skills In Python Lesson Material
-  url: https://github.com/carpentries-incubator/python-intermediate-development
-  isodatetime: 2021-11-18T18:56:10
+  title: Data Carpentry for Camera Traps
+  url: https://github.com/carpentries-incubator/camera-traps
+  isodatetime: 2021-11-19T06:49:21
 recently-updated: 27
