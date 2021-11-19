@@ -7,9 +7,9 @@ perc_alpha: 35
 perc_stable: 2
 perc_pre-alpha: 60
 perc_beta: 3
-help-wanted: 15
+help-wanted: 16
 most-recent:
-  title: Data Carpentry for Camera Traps
-  url: https://github.com/carpentries-incubator/camera-traps
-  isodatetime: 2021-11-19T06:49:21
-recently-updated: 27
+  title: Introduction to Markdown
+  url: https://github.com/carpentries-incubator/markdown-intro
+  isodatetime: 2021-11-19T10:36:38
+recently-updated: 28
