@@ -9,7 +9,7 @@ perc_pre-alpha: 60
 perc_beta: 3
 help-wanted: 16
 most-recent:
-  title: Introduction to Workflows with Common Workflow Language
-  url: https://github.com/carpentries-incubator/cwl-novice-tutorial
-  isodatetime: 2021-11-22T10:16:09
-recently-updated: 27
+  title: Extra Unix Shell Material
+  url: https://github.com/carpentries-incubator/shell-extras
+  isodatetime: 2021-11-22T18:58:24
+recently-updated: 28
