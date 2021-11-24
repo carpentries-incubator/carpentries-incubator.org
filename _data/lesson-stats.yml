@@ -9,7 +9,7 @@ perc_pre-alpha: 60
 perc_beta: 3
 help-wanted: 17
 most-recent:
-  title: Introduction to the Bioconductor project
-  url: https://github.com/carpentries-incubator/bioc-project
-  isodatetime: 2021-11-24T10:25:44
+  title: Workflow management with Nextflow and nf-core
+  url: https://github.com/carpentries-incubator/workflows-nextflow
+  isodatetime: 2021-11-24T16:53:21
 recently-updated: 29
