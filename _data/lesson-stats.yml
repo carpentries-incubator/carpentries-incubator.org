@@ -9,7 +9,7 @@ perc_pre-alpha: 60
 perc_beta: 3
 help-wanted: 17
 most-recent:
-  title: Workflow management with Nextflow and nf-core
-  url: https://github.com/carpentries-incubator/workflows-nextflow
-  isodatetime: 2021-11-24T16:53:21
+  title: Metagenomica
+  url: https://github.com/carpentries-incubator/metagenomics
+  isodatetime: 2021-11-25T00:35:46
 recently-updated: 29
