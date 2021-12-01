@@ -9,7 +9,7 @@ perc_pre-alpha: 60
 perc_beta: 3
 help-wanted: 17
 most-recent:
-  title: Introduction to Workflows with Common Workflow Language
-  url: https://github.com/carpentries-incubator/cwl-novice-tutorial
-  isodatetime: 2021-12-01T12:58:52
-recently-updated: 26
+  title: Building Websites with Jekyll & GitHub Pages.
+  url: https://github.com/carpentries-incubator/jekyll-pages-novice
+  isodatetime: 2021-12-01T15:34:36
+recently-updated: 27
