@@ -9,7 +9,7 @@ perc_pre-alpha: 60
 perc_beta: 3
 help-wanted: 17
 most-recent:
-  title: A Carpentry style lesson on machine learning with Python and scikit-learn.
-  url: https://github.com/carpentries-incubator/machine-learning-novice-sklearn
-  isodatetime: 2021-12-03T17:34:56
-recently-updated: 27
+  title: Metagenomica
+  url: https://github.com/carpentries-incubator/metagenomics
+  isodatetime: 2021-12-04T21:57:25
+recently-updated: 26
