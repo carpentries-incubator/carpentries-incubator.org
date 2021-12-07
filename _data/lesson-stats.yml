@@ -9,7 +9,7 @@ perc_pre-alpha: 60
 perc_beta: 3
 help-wanted: 17
 most-recent:
-  title: Intermediate Research Software Development Skills In Python Lesson Material
-  url: https://github.com/carpentries-incubator/python-intermediate-development
-  isodatetime: 2021-12-07T09:04:15
+  title: A lesson exploring the Julia language
+  url: https://github.com/carpentries-incubator/julia-novice
+  isodatetime: 2021-12-07T15:04:09
 recently-updated: 26
