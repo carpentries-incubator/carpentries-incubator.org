@@ -9,7 +9,7 @@ perc_pre-alpha: 60
 perc_beta: 3
 help-wanted: 17
 most-recent:
-  title: Material for a lesson introducing PyMARC
-  url: https://github.com/carpentries-incubator/pymarc_basics
-  isodatetime: 2021-12-06T16:08:32
+  title: Intermediate Research Software Development Skills In Python Lesson Material
+  url: https://github.com/carpentries-incubator/python-intermediate-development
+  isodatetime: 2021-12-07T09:04:15
 recently-updated: 26
