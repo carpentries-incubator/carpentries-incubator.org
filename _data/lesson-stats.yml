@@ -9,7 +9,7 @@ perc_pre-alpha: 60
 perc_beta: 3
 help-wanted: 17
 most-recent:
-  title: Good Enough Practices in Scientific Computing
-  url: https://github.com/carpentries-incubator/good-enough-practices
-  isodatetime: 2021-12-08T13:05:31
-recently-updated: 27
+  title: Introduction to dMRI
+  url: https://github.com/carpentries-incubator/SDC-BIDS-dMRI
+  isodatetime: 2021-12-08T18:28:58
+recently-updated: 26
