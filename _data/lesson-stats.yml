@@ -9,7 +9,7 @@ perc_pre-alpha: 60
 perc_beta: 3
 help-wanted: 17
 most-recent:
-  title: Introduction to Machine Learning with Python
-  url: https://github.com/carpentries-incubator/machine-learning-novice-python
-  isodatetime: 2021-12-09T20:21:55
+  title: Good Enough Practices in Scientific Computing
+  url: https://github.com/carpentries-incubator/good-enough-practices
+  isodatetime: 2021-12-10T11:03:27
 recently-updated: 26
