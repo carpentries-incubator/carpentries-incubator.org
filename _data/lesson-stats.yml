@@ -9,7 +9,7 @@ perc_pre-alpha: 60
 perc_beta: 3
 help-wanted: 17
 most-recent:
-  title: Introduction to Machine Learning with Python
-  url: https://github.com/carpentries-incubator/machine-learning-novice-python
-  isodatetime: 2021-12-15T04:48:45
-recently-updated: 25
+  title: Lesson on Parallel Programming in Python
+  url: https://github.com/carpentries-incubator/lesson-parallel-python
+  isodatetime: 2021-12-15T10:11:04
+recently-updated: 26
