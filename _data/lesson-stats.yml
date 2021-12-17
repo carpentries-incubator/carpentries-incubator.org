@@ -9,7 +9,7 @@ perc_pre-alpha: 60
 perc_beta: 3
 help-wanted: 17
 most-recent:
-  title: Introduction to Machine Learning with Python
-  url: https://github.com/carpentries-incubator/machine-learning-novice-python
-  isodatetime: 2021-12-15T13:51:56
-recently-updated: 26
+  title: Structural Neuroimaging Analysis in Python
+  url: https://github.com/carpentries-incubator/SDC-BIDS-sMRI
+  isodatetime: 2021-12-17T00:55:17
+recently-updated: 25
