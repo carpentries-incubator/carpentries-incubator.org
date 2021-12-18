@@ -9,7 +9,7 @@ perc_pre-alpha: 60
 perc_beta: 3
 help-wanted: 17
 most-recent:
-  title: Metagenomica
-  url: https://github.com/carpentries-incubator/metagenomics
-  isodatetime: 2021-12-17T18:24:04
-recently-updated: 25
+  title: Lesson materials for an Introduction to High Performance Computing in the tradition of Software Carpentry
+  url: https://github.com/carpentries-incubator/hpc-intro
+  isodatetime: 2021-12-17T22:23:20
+recently-updated: 26
