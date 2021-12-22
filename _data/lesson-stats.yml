@@ -9,7 +9,7 @@ perc_pre-alpha: 60
 perc_beta: 3
 help-wanted: 17
 most-recent:
-  title: Data Carpentry for Camera Traps
-  url: https://github.com/carpentries-incubator/camera-traps
-  isodatetime: 2021-12-22T05:20:58
-recently-updated: 24
+  title: Reproducible Computational Environments using Containers
+  url: https://github.com/carpentries-incubator/docker-introduction
+  isodatetime: 2021-12-22T16:08:03
+recently-updated: 23
