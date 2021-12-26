@@ -9,7 +9,7 @@ perc_pre-alpha: 60
 perc_beta: 3
 help-wanted: 17
 most-recent:
-  title: Reproducible Computational Environments using Containers
-  url: https://github.com/carpentries-incubator/docker-introduction
-  isodatetime: 2021-12-22T16:08:03
+  title: Lesson on Parallel Programming in Python
+  url: https://github.com/carpentries-incubator/lesson-parallel-python
+  isodatetime: 2021-12-26T05:05:30
 recently-updated: 23
