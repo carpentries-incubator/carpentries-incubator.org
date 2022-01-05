@@ -7,9 +7,9 @@ perc_alpha: 35
 perc_stable: 2
 perc_pre-alpha: 60
 perc_beta: 3
-help-wanted: 16
+help-wanted: 17
 most-recent:
-  title: Lesson materials for an Introduction to High Performance Computing in the tradition of Software Carpentry
-  url: https://github.com/carpentries-incubator/hpc-intro
-  isodatetime: 2021-12-30T08:57:55
-recently-updated: 18
+  title: Reproducible Computational Environments using Containers
+  url: https://github.com/carpentries-incubator/docker-introduction
+  isodatetime: 2022-01-05T16:28:00
+recently-updated: 17
