@@ -9,7 +9,7 @@ perc_pre-alpha: 60
 perc_beta: 3
 help-wanted: 17
 most-recent:
-  title: Data management and analytic pipelines for engineers
-  url: https://github.com/carpentries-incubator/data-management-pipelines-engineering
-  isodatetime: 2022-01-06T22:52:57
+  title: Introduction to Workflows with Common Workflow Language
+  url: https://github.com/carpentries-incubator/cwl-novice-tutorial
+  isodatetime: 2022-01-07T14:44:42
 recently-updated: 17
