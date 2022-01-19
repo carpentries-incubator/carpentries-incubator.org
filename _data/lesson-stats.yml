@@ -9,7 +9,7 @@ perc_pre-alpha: 60
 perc_beta: 3
 help-wanted: 15
 most-recent:
-  title: Learn Deep Learning with Python
-  url: https://github.com/carpentries-incubator/deep-learning-intro
-  isodatetime: 2022-01-17T13:37:36
-recently-updated: 14
+  title: Simple linear regression for public health
+  url: https://github.com/carpentries-incubator/simple-linear-regression-public-health
+  isodatetime: 2022-01-19T09:15:45
+recently-updated: 15
