@@ -7,9 +7,9 @@ perc_alpha: 35
 perc_stable: 2
 perc_pre-alpha: 60
 perc_beta: 3
-help-wanted: 16
+help-wanted: 15
 most-recent:
-  title: Simple linear regression for public health
-  url: https://github.com/carpentries-incubator/simple-linear-regression-public-health
-  isodatetime: 2022-01-19T09:15:45
-recently-updated: 15
+  title: Introduction to Workflows with Common Workflow Language
+  url: https://github.com/carpentries-incubator/cwl-novice-tutorial
+  isodatetime: 2022-01-20T12:50:27
+recently-updated: 16
