@@ -9,7 +9,7 @@ perc_pre-alpha: 60
 perc_beta: 3
 help-wanted: 15
 most-recent:
-  title: Materials for a workshop introducing machine learning to biologists
-  url: https://github.com/carpentries-incubator/ml4bio-workshop
-  isodatetime: 2022-01-21T16:38:46
+  title: Introduction to Geospatial Raster and Vector Data with Python
+  url: https://github.com/carpentries-incubator/geospatial-python
+  isodatetime: 2022-01-24T17:54:17
 recently-updated: 16
