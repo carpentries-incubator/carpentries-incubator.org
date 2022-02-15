@@ -9,7 +9,7 @@ perc_pre-alpha: 59
 perc_beta: 4
 help-wanted: 15
 most-recent:
-  title: Introduction to Geospatial Raster and Vector Data with Python
-  url: https://github.com/carpentries-incubator/geospatial-python
-  isodatetime: 2022-02-14T16:18:18
-recently-updated: 15
+  title: Introduction to dMRI
+  url: https://github.com/carpentries-incubator/SDC-BIDS-dMRI
+  isodatetime: 2022-02-15T01:33:43
+recently-updated: 16
