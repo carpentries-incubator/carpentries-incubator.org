@@ -9,7 +9,7 @@ perc_pre-alpha: 59
 perc_beta: 4
 help-wanted: 15
 most-recent:
-  title: Good Enough Practices in Scientific Computing
-  url: https://github.com/carpentries-incubator/good-enough-practices
-  isodatetime: 2022-02-18T16:00:35
-recently-updated: 19
+  title: Lesson materials for an Introduction to High Performance Computing in the tradition of Software Carpentry
+  url: https://github.com/carpentries-incubator/hpc-intro
+  isodatetime: 2022-02-20T21:35:28
+recently-updated: 20
