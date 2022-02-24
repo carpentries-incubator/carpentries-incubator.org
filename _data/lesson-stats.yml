@@ -9,7 +9,7 @@ perc_pre-alpha: 59
 perc_beta: 4
 help-wanted: 15
 most-recent:
-  title: Introduction to Geospatial Raster and Vector Data with Python
-  url: https://github.com/carpentries-incubator/geospatial-python
-  isodatetime: 2022-02-22T20:50:55
-recently-updated: 20
+  title: Metagenomica
+  url: https://github.com/carpentries-incubator/metagenomics
+  isodatetime: 2022-02-24T00:56:10
+recently-updated: 23
