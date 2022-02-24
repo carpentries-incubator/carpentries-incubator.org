@@ -9,7 +9,7 @@ perc_pre-alpha: 59
 perc_beta: 4
 help-wanted: 15
 most-recent:
-  title: Metagenomica
-  url: https://github.com/carpentries-incubator/metagenomics
-  isodatetime: 2022-02-24T00:56:10
+  title: Introduction to MRI and BIDS
+  url: https://github.com/carpentries-incubator/SDC-BIDS-IntroMRI
+  isodatetime: 2022-02-24T18:33:41
 recently-updated: 22
