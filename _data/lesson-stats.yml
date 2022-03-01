@@ -9,7 +9,7 @@ perc_pre-alpha: 58
 perc_beta: 5
 help-wanted: 15
 most-recent:
-  title: SageMath Software Carpentry Lesson 
-  url: https://github.com/carpentries-incubator/sage-lesson
-  isodatetime: 2022-02-28T22:27:23
+  title: Introduction to Geospatial Raster and Vector Data with Python
+  url: https://github.com/carpentries-incubator/geospatial-python
+  isodatetime: 2022-03-01T17:17:29
 recently-updated: 23
