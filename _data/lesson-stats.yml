@@ -9,7 +9,7 @@ perc_pre-alpha: 58
 perc_beta: 5
 help-wanted: 15
 most-recent:
-  title: GPU Programming with Python and CUDA.
-  url: https://github.com/carpentries-incubator/lesson-gpu-programming
-  isodatetime: 2022-03-02T13:56:18
-recently-updated: 22
+  title: Life Sciences Workshop
+  url: https://github.com/carpentries-incubator/life-sciences-workshop
+  isodatetime: 2022-03-03T17:22:37
+recently-updated: 24
