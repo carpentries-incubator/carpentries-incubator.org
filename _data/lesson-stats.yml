@@ -9,7 +9,7 @@ perc_pre-alpha: 58
 perc_beta: 5
 help-wanted: 15
 most-recent:
-  title: Life Sciences Workshop
-  url: https://github.com/carpentries-incubator/life-sciences-workshop
-  isodatetime: 2022-03-03T17:22:37
+  title: fMRI Imaging Analysis
+  url: https://github.com/carpentries-incubator/SDC-BIDS-fMRI
+  isodatetime: 2022-03-03T19:14:27
 recently-updated: 24
