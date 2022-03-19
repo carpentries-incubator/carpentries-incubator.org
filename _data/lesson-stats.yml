@@ -7,7 +7,7 @@ perc_alpha: 35
 perc_stable: 2
 perc_pre-alpha: 58
 perc_beta: 5
-help-wanted: 15
+help-wanted: 14
 most-recent:
   title: Learn Deep Learning with Python
   url: https://github.com/carpentries-incubator/deep-learning-intro
