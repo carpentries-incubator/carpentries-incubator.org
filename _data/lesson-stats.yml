@@ -9,7 +9,7 @@ perc_pre-alpha: 58
 perc_beta: 5
 help-wanted: 15
 most-recent:
-  title: Introduction to Geospatial Raster and Vector Data with Python
-  url: https://github.com/carpentries-incubator/geospatial-python
-  isodatetime: 2022-03-23T23:08:48
-recently-updated: 16
+  title: Introduction to Workflows with Common Workflow Language
+  url: https://github.com/carpentries-incubator/cwl-novice-tutorial
+  isodatetime: 2022-03-24T14:45:05
+recently-updated: 17
