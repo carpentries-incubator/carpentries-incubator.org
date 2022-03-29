@@ -9,7 +9,7 @@ perc_pre-alpha: 58
 perc_beta: 5
 help-wanted: 15
 most-recent:
-  title: Introduction to Workflows with Common Workflow Language
-  url: https://github.com/carpentries-incubator/cwl-novice-tutorial
-  isodatetime: 2022-03-24T14:45:05
+  title: Learn Deep Learning with Python
+  url: https://github.com/carpentries-incubator/deep-learning-intro
+  isodatetime: 2022-03-29T08:36:47
 recently-updated: 15
