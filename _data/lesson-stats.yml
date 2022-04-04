@@ -9,7 +9,7 @@ perc_pre-alpha: 57
 perc_beta: 7
 help-wanted: 15
 most-recent:
-  title: Logistic regression for public health
-  url: https://github.com/carpentries-incubator/logistic-regression-public-health
-  isodatetime: 2022-04-03T18:51:51
+  title: Introduction to Geospatial Raster and Vector Data with Python
+  url: https://github.com/carpentries-incubator/geospatial-python
+  isodatetime: 2022-04-04T04:24:22
 recently-updated: 15
