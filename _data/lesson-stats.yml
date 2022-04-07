@@ -9,7 +9,7 @@ perc_pre-alpha: 57
 perc_beta: 7
 help-wanted: 15
 most-recent:
-  title: Statistical Inference for Biology
-  url: https://github.com/carpentries-incubator/statistical-inference-for-biology
-  isodatetime: 2022-04-06T21:30:38
-recently-updated: 18
+  title: Python Testing and Continuous Integration
+  url: https://github.com/carpentries-incubator/python-testing
+  isodatetime: 2022-04-07T07:42:54
+recently-updated: 19
