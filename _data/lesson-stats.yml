@@ -9,7 +9,7 @@ perc_pre-alpha: 57
 perc_beta: 7
 help-wanted: 15
 most-recent:
-  title: Introduction to Conda for (Data) Scientists
-  url: https://github.com/carpentries-incubator/introduction-to-conda-for-data-scientists
-  isodatetime: 2022-04-07T15:18:18
-recently-updated: 19
+  title: Analysis and Interpretation of Bulk RNA-Seq Data using Bioconductor
+  url: https://github.com/carpentries-incubator/bioc-rnaseq
+  isodatetime: 2022-04-07T21:46:28
+recently-updated: 20
