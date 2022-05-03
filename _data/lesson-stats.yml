@@ -9,7 +9,7 @@ perc_pre-alpha: 57
 perc_beta: 7
 help-wanted: 15
 most-recent:
-  title: Learn Julia workflows for data-intensive research
-  url: https://github.com/carpentries-incubator/julia-data-workflow
-  isodatetime: 2022-04-29T12:54:46
+  title: Intermediate Research Software Development Skills In Python Lesson Material
+  url: https://github.com/carpentries-incubator/python-intermediate-development
+  isodatetime: 2022-05-03T11:06:25
 recently-updated: 21
