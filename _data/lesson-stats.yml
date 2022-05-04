@@ -9,7 +9,7 @@ perc_pre-alpha: 57
 perc_beta: 7
 help-wanted: 15
 most-recent:
-  title: Intermediate Research Software Development Skills In Python Lesson Material
-  url: https://github.com/carpentries-incubator/python-intermediate-development
-  isodatetime: 2022-05-03T11:06:25
-recently-updated: 20
+  title: Structural Neuroimaging Analysis in Python
+  url: https://github.com/carpentries-incubator/SDC-BIDS-sMRI
+  isodatetime: 2022-05-04T08:30:53
+recently-updated: 19
