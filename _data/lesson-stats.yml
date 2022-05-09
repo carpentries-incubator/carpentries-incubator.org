@@ -9,7 +9,7 @@ perc_pre-alpha: 57
 perc_beta: 7
 help-wanted: 14
 most-recent:
-  title: Intermediate Research Software Development Skills In Python Lesson Material
-  url: https://github.com/carpentries-incubator/python-intermediate-development
-  isodatetime: 2022-05-09T13:20:08
-recently-updated: 13
+  title: Statistical Inference for Biology
+  url: https://github.com/carpentries-incubator/statistical-inference-for-biology
+  isodatetime: 2022-05-09T14:45:34
+recently-updated: 14
