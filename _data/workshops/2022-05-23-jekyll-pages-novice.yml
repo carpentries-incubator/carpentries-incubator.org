@@ -1,0 +1,8 @@
+_id: 8967ddf0-cf7d-11ec-bc0c-ff42a5cfa162
+country: UK
+online: 'on'
+startdate: '2022-05-23'
+enddate: '2022-05-25'
+lesson_title: Building Websites With Jekyll and GitHub
+lesson_slug: jekyll-pages-novice
+website: 'https://carpentries-incubator.github.io/jekyll-pages-novice/'
