@@ -9,7 +9,7 @@ perc_pre-alpha: 57
 perc_beta: 7
 help-wanted: 14
 most-recent:
-  title: High-Dimensional Statistics
-  url: https://github.com/carpentries-incubator/high-dimensional-stats-r
-  isodatetime: 2022-05-12T12:54:26
-recently-updated: 17
+  title: Multiple linear regression for public health
+  url: https://github.com/carpentries-incubator/multiple-linear-regression-public-health
+  isodatetime: 2022-05-14T14:05:52
+recently-updated: 18
