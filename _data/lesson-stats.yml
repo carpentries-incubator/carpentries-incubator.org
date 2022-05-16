@@ -9,7 +9,7 @@ perc_pre-alpha: 57
 perc_beta: 7
 help-wanted: 14
 most-recent:
-  title: Multiple linear regression for public health
-  url: https://github.com/carpentries-incubator/multiple-linear-regression-public-health
-  isodatetime: 2022-05-14T14:05:52
-recently-updated: 18
+  title: Python Testing and Continuous Integration
+  url: https://github.com/carpentries-incubator/python-testing
+  isodatetime: 2022-05-16T03:58:57
+recently-updated: 19
