@@ -9,7 +9,7 @@ perc_pre-alpha: 57
 perc_beta: 7
 help-wanted: 14
 most-recent:
-  title: Python Testing and Continuous Integration
-  url: https://github.com/carpentries-incubator/python-testing
-  isodatetime: 2022-05-16T03:58:57
-recently-updated: 19
+  title: GPU Programming with Python and CUDA.
+  url: https://github.com/carpentries-incubator/lesson-gpu-programming
+  isodatetime: 2022-05-17T09:03:01
+recently-updated: 20
