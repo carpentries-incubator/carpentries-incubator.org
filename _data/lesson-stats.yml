@@ -1,15 +1,15 @@
 alpha: 31
 stable: 2
-pre-alpha: 51
+pre-alpha: 52
 beta: 6
-total: 90
+total: 91
 perc_alpha: 34
 perc_stable: 2
 perc_pre-alpha: 57
 perc_beta: 7
 help-wanted: 14
 most-recent:
-  title: GPU Programming with Python and CUDA.
-  url: https://github.com/carpentries-incubator/lesson-gpu-programming
-  isodatetime: 2022-05-18T08:04:34
-recently-updated: 20
+  title: Lesson materials for the R Packaging workshop
+  url: https://github.com/carpentries-incubator/lesson-R-packaging
+  isodatetime: 2022-05-18T17:55:16
+recently-updated: 21
