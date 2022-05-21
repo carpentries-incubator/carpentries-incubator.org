@@ -9,7 +9,7 @@ perc_pre-alpha: 56
 perc_beta: 7
 help-wanted: 14
 most-recent:
-  title: Statistical Inference for Biology
-  url: https://github.com/carpentries-incubator/statistical-inference-for-biology
-  isodatetime: 2022-05-20T08:28:24
+  title: One-day Snakemake workshop.                  
+  url: https://github.com/carpentries-incubator/workflows-snakemake
+  isodatetime: 2022-05-20T19:49:11
 recently-updated: 21
