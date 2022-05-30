@@ -9,7 +9,7 @@ perc_pre-alpha: 56
 perc_beta: 7
 help-wanted: 14
 most-recent:
-  title: Metagenomics Workshop Overview
-  url: https://github.com/carpentries-incubator/metagenomics-workshop
-  isodatetime: 2022-05-30T02:39:20
+  title: Lesson materials for the R Packaging workshop
+  url: https://github.com/carpentries-incubator/lesson-R-packaging
+  isodatetime: 2022-05-30T09:58:02
 recently-updated: 14
