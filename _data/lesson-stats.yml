@@ -9,7 +9,7 @@ perc_pre-alpha: 56
 perc_beta: 7
 help-wanted: 14
 most-recent:
-  title: Lesson materials for the R Packaging workshop
-  url: https://github.com/carpentries-incubator/lesson-R-packaging
-  isodatetime: 2022-05-30T09:58:02
-recently-updated: 14
+  title: Building Websites with Jekyll & GitHub Pages.
+  url: https://github.com/carpentries-incubator/jekyll-pages-novice
+  isodatetime: 2022-05-31T15:11:29
+recently-updated: 15
