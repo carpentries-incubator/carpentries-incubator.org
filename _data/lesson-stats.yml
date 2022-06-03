@@ -9,7 +9,7 @@ perc_pre-alpha: 56
 perc_beta: 7
 help-wanted: 14
 most-recent:
-  title: Building Websites with Jekyll & GitHub Pages.
-  url: https://github.com/carpentries-incubator/jekyll-pages-novice
-  isodatetime: 2022-05-31T15:11:29
+  title: Lesson on Parallel Programming in Python
+  url: https://github.com/carpentries-incubator/lesson-parallel-python
+  isodatetime: 2022-06-03T12:04:01
 recently-updated: 15
