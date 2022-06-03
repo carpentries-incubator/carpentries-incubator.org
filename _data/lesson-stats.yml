@@ -9,7 +9,7 @@ perc_pre-alpha: 56
 perc_beta: 7
 help-wanted: 14
 most-recent:
-  title: Lesson on Parallel Programming in Python
-  url: https://github.com/carpentries-incubator/lesson-parallel-python
-  isodatetime: 2022-06-03T12:04:01
+  title: Introduction to Snakemake for Bioinformatics
+  url: https://github.com/carpentries-incubator/snakemake-novice-bioinformatics
+  isodatetime: 2022-06-03T17:22:28
 recently-updated: 15
