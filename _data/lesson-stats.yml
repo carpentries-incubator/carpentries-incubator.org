@@ -9,7 +9,7 @@ perc_pre-alpha: 56
 perc_beta: 7
 help-wanted: 14
 most-recent:
-  title: Workflow management with Nextflow and nf-core
-  url: https://github.com/carpentries-incubator/workflows-nextflow
-  isodatetime: 2022-06-04T15:46:47
-recently-updated: 16
+  title: Python Testing and Continuous Integration
+  url: https://github.com/carpentries-incubator/python-testing
+  isodatetime: 2022-06-05T06:13:34
+recently-updated: 17
