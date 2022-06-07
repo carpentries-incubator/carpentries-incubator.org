@@ -9,7 +9,7 @@ perc_pre-alpha: 56
 perc_beta: 13
 help-wanted: 14
 most-recent:
-  title: Metagenomics Workshop Overview
-  url: https://github.com/carpentries-incubator/metagenomics-workshop
-  isodatetime: 2022-06-07T11:21:01
+  title: Introduction to Snakemake for Bioinformatics
+  url: https://github.com/carpentries-incubator/snakemake-novice-bioinformatics
+  isodatetime: 2022-06-07T17:43:25
 recently-updated: 22
