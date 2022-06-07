@@ -1,15 +1,15 @@
-alpha: 32
+alpha: 26
 stable: 2
 pre-alpha: 51
-beta: 6
+beta: 12
 total: 91
-perc_alpha: 35
+perc_alpha: 29
 perc_stable: 2
 perc_pre-alpha: 56
-perc_beta: 7
+perc_beta: 13
 help-wanted: 14
 most-recent:
-  title: Lesson materials for an Introduction to High Performance Computing in the tradition of Software Carpentry
-  url: https://github.com/carpentries-incubator/hpc-intro
-  isodatetime: 2022-06-06T10:50:54
-recently-updated: 18
+  title: Metagenomics Workshop Overview
+  url: https://github.com/carpentries-incubator/metagenomics-workshop
+  isodatetime: 2022-06-07T11:21:01
+recently-updated: 22
