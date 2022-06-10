@@ -9,7 +9,7 @@ perc_pre-alpha: 56
 perc_beta: 13
 help-wanted: 14
 most-recent:
-  title: Introduction to Snakemake for Bioinformatics
-  url: https://github.com/carpentries-incubator/snakemake-novice-bioinformatics
-  isodatetime: 2022-06-07T17:43:25
-recently-updated: 22
+  title: Introduction to Workflows with Common Workflow Language
+  url: https://github.com/carpentries-incubator/cwl-novice-tutorial
+  isodatetime: 2022-06-10T10:04:50
+recently-updated: 23
