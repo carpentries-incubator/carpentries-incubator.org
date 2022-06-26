@@ -9,7 +9,7 @@ perc_pre-alpha: 56
 perc_beta: 13
 help-wanted: 14
 most-recent:
-  title: Building Websites with Jekyll & GitHub Pages.
-  url: https://github.com/carpentries-incubator/jekyll-pages-novice
-  isodatetime: 2022-06-22T15:32:37
+  title: Packaging and Publishing with Python
+  url: https://github.com/carpentries-incubator/python-packaging-publishing
+  isodatetime: 2022-06-26T16:19:56
 recently-updated: 18
