@@ -9,7 +9,7 @@ perc_pre-alpha: 56
 perc_beta: 13
 help-wanted: 14
 most-recent:
-  title: Packaging and Publishing with Python
-  url: https://github.com/carpentries-incubator/python-packaging-publishing
-  isodatetime: 2022-06-26T16:19:56
-recently-updated: 18
+  title: Programming with GAP
+  url: https://github.com/carpentries-incubator/gap-lesson
+  isodatetime: 2022-06-26T21:59:32
+recently-updated: 19
