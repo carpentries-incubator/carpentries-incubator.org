@@ -9,7 +9,7 @@ perc_pre-alpha: 56
 perc_beta: 13
 help-wanted: 14
 most-recent:
-  title: High-dimensional statistics with R
-  url: https://github.com/carpentries-incubator/high-dimensional-stats-r
-  isodatetime: 2022-06-28T13:18:30
+  title: Introduction to Workflows with Common Workflow Language
+  url: https://github.com/carpentries-incubator/cwl-novice-tutorial
+  isodatetime: 2022-06-30T08:08:00
 recently-updated: 19
