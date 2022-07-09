@@ -9,7 +9,7 @@ perc_pre-alpha: 56
 perc_beta: 13
 help-wanted: 14
 most-recent:
-  title: Introduction to AI for GLAM
-  url: https://github.com/carpentries-incubator/machine-learning-librarians-archivists
-  isodatetime: 2022-07-07T12:06:20
-recently-updated: 11
+  title: Materials for a workshop introducing machine learning to biologists
+  url: https://github.com/carpentries-incubator/ml4bio-workshop
+  isodatetime: 2022-07-08T20:25:31
+recently-updated: 12
