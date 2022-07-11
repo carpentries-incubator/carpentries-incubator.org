@@ -9,7 +9,7 @@ perc_pre-alpha: 56
 perc_beta: 13
 help-wanted: 14
 most-recent:
-  title: Bioconductor data science introduction
-  url: https://github.com/carpentries-incubator/bioc-intro
-  isodatetime: 2022-07-11T12:53:55
-recently-updated: 14
+  title: Metagenomica
+  url: https://github.com/carpentries-incubator/metagenomics
+  isodatetime: 2022-07-11T18:38:59
+recently-updated: 15
