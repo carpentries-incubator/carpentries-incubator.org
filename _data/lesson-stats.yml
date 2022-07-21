@@ -9,7 +9,7 @@ perc_pre-alpha: 56
 perc_beta: 13
 help-wanted: 14
 most-recent:
-  title: Extra Unix Shell Material
-  url: https://github.com/carpentries-incubator/shell-extras
-  isodatetime: 2022-07-17T02:33:35
+  title: High-dimensional statistics with R
+  url: https://github.com/carpentries-incubator/high-dimensional-stats-r
+  isodatetime: 2022-07-21T08:35:49
 recently-updated: 16
