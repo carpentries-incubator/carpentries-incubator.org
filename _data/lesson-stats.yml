@@ -1,15 +1,15 @@
 alpha: 26
 stable: 2
-pre-alpha: 51
-beta: 12
+pre-alpha: 50
+beta: 13
 total: 91
 perc_alpha: 29
 perc_stable: 2
-perc_pre-alpha: 56
-perc_beta: 13
+perc_pre-alpha: 55
+perc_beta: 14
 help-wanted: 15
 most-recent:
-  title: fMRI Imaging Analysis
-  url: https://github.com/carpentries-incubator/SDC-BIDS-fMRI
-  isodatetime: 2022-08-02T04:31:49
-recently-updated: 20
+  title: GPU Programming with Python and CUDA.
+  url: https://github.com/carpentries-incubator/lesson-gpu-programming
+  isodatetime: 2022-08-02T14:41:07
+recently-updated: 21
