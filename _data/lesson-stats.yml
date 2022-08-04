@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 15
 help-wanted: 15
 most-recent:
-  title: Lesson materials for the R Packaging workshop
-  url: https://github.com/carpentries-incubator/lesson-R-packaging
-  isodatetime: 2022-08-03T04:11:59
+  title: Introduction to Machine Learning with Python
+  url: https://github.com/carpentries-incubator/machine-learning-novice-python
+  isodatetime: 2022-08-04T18:10:43
 recently-updated: 22
