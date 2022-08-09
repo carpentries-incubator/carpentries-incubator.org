@@ -7,9 +7,9 @@ perc_alpha: 29
 perc_stable: 2
 perc_pre-alpha: 54
 perc_beta: 15
-help-wanted: 15
+help-wanted: 14
 most-recent:
-  title: Materials for a workshop introducing machine learning to biologists
-  url: https://github.com/carpentries-incubator/ml4bio-workshop
-  isodatetime: 2022-08-07T11:45:14
-recently-updated: 21
+  title: Data management and analytic pipelines for engineers
+  url: https://github.com/carpentries-incubator/data-management-pipelines-engineering
+  isodatetime: 2022-08-08T21:33:19
+recently-updated: 22
