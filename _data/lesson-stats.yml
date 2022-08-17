@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 15
 help-wanted: 14
 most-recent:
-  title: Building Websites with Jekyll & GitHub Pages.
-  url: https://github.com/carpentries-incubator/jekyll-pages-novice
-  isodatetime: 2022-08-16T19:14:19
-recently-updated: 19
+  title: Learn Julia workflows for data-intensive research
+  url: https://github.com/carpentries-incubator/julia-data-workflow
+  isodatetime: 2022-08-17T15:54:51
+recently-updated: 22
