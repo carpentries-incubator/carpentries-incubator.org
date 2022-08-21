@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 15
 help-wanted: 14
 most-recent:
-  title: Lesson materials for an Introduction to High Performance Computing in the tradition of Software Carpentry
-  url: https://github.com/carpentries-incubator/hpc-intro
-  isodatetime: 2022-08-20T09:28:29
+  title: A Carpentry style lesson on machine learning with Python and scikit-learn.
+  url: https://github.com/carpentries-incubator/machine-learning-novice-sklearn
+  isodatetime: 2022-08-21T01:11:41
 recently-updated: 21
