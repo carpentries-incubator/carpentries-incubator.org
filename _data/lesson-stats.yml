@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 15
 help-wanted: 14
 most-recent:
-  title: Bioconductor data science introduction
-  url: https://github.com/carpentries-incubator/bioc-intro
-  isodatetime: 2022-08-26T12:00:23
+  title: Data management and analytic pipelines for engineers
+  url: https://github.com/carpentries-incubator/python-pandas-power-consumption
+  isodatetime: 2022-08-26T13:28:17
 recently-updated: 20
