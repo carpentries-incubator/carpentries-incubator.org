@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 15
 help-wanted: 14
 most-recent:
-  title: Structural Neuroimaging Analysis in Python
-  url: https://github.com/carpentries-incubator/SDC-BIDS-sMRI
-  isodatetime: 2022-08-24T06:56:10
+  title: Data management and analytic pipelines for engineers
+  url: https://github.com/carpentries-incubator/python-pandas-power-consumption
+  isodatetime: 2022-08-25T20:18:40
 recently-updated: 19
