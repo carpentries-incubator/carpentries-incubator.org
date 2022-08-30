@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 15
 help-wanted: 14
 most-recent:
-  title: Data management and analytic pipelines for engineers
-  url: https://github.com/carpentries-incubator/python-pandas-power-consumption
-  isodatetime: 2022-08-26T13:28:17
-recently-updated: 17
+  title: Introduction to MRI and BIDS
+  url: https://github.com/carpentries-incubator/SDC-BIDS-IntroMRI
+  isodatetime: 2022-08-30T08:39:11
+recently-updated: 18
