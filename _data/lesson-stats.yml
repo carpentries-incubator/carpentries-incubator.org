@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 15
 help-wanted: 14
 most-recent:
-  title: Lesson materials for an Introduction to High Performance Computing in the tradition of Software Carpentry
-  url: https://github.com/carpentries-incubator/hpc-intro
-  isodatetime: 2022-08-31T09:55:17
-recently-updated: 15
+  title: Introduction to Geospatial Raster and Vector Data with Python
+  url: https://github.com/carpentries-incubator/geospatial-python
+  isodatetime: 2022-09-04T15:20:47
+recently-updated: 16
