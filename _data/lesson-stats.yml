@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 15
 help-wanted: 14
 most-recent:
-  title: Supervised Learning with Python
-  url: https://github.com/carpentries-incubator/ml-python-supervised-learning
-  isodatetime: 2022-09-10T06:30:00
+  title: Building Websites with Jekyll & GitHub Pages.
+  url: https://github.com/carpentries-incubator/jekyll-pages-novice
+  isodatetime: 2022-09-13T15:55:54
 recently-updated: 16
