@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 15
 help-wanted: 14
 most-recent:
-  title: Data Carpentry for Camera Traps
-  url: https://github.com/carpentries-incubator/camera-traps
-  isodatetime: 2022-09-13T23:45:59
+  title: Learn Deep Learning with Python
+  url: https://github.com/carpentries-incubator/deep-learning-intro
+  isodatetime: 2022-09-14T14:09:16
 recently-updated: 17
