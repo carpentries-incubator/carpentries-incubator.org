@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 15
 help-wanted: 14
 most-recent:
-  title: Building Websites with Jekyll & GitHub Pages.
-  url: https://github.com/carpentries-incubator/jekyll-pages-novice
-  isodatetime: 2022-09-13T15:55:54
-recently-updated: 16
+  title: Data Carpentry for Camera Traps
+  url: https://github.com/carpentries-incubator/camera-traps
+  isodatetime: 2022-09-13T23:45:59
+recently-updated: 17
