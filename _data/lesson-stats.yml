@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 15
 help-wanted: 14
 most-recent:
-  title: Introduction to Workflows with Common Workflow Language
-  url: https://github.com/carpentries-incubator/cwl-novice-tutorial
-  isodatetime: 2022-09-22T13:05:31
+  title: Bioconductor data science introduction
+  url: https://github.com/carpentries-incubator/bioc-intro
+  isodatetime: 2022-09-24T00:18:07
 recently-updated: 14
