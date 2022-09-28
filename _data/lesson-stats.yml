@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 15
 help-wanted: 14
 most-recent:
-  title: Learn Deep Learning with Python
-  url: https://github.com/carpentries-incubator/deep-learning-intro
-  isodatetime: 2022-09-27T01:45:48
+  title: Materials for a workshop introducing machine learning to biologists
+  url: https://github.com/carpentries-incubator/ml4bio-workshop
+  isodatetime: 2022-09-28T02:44:59
 recently-updated: 14
