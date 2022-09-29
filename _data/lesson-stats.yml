@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 15
 help-wanted: 14
 most-recent:
-  title: Bioconductor data science introduction
-  url: https://github.com/carpentries-incubator/bioc-intro
-  isodatetime: 2022-09-29T08:12:18
-recently-updated: 15
+  title: Material for a lesson introducing PyMARC
+  url: https://github.com/carpentries-incubator/pymarc_basics
+  isodatetime: 2022-09-29T18:22:13
+recently-updated: 16
