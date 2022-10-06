@@ -1,4 +1,34 @@
 -
+  title: "Introduction to Reproducible Publications with RStudio"
+  teaser: "A lesson teaching how to use RStudio to create documents containing a fully reproducible scientific analysis."
+  spotlight: https://carpentries.org/blog/2022/06/incubator-lesson-spotlight-reproducible-publications-rstudio/
+  slug: Reproducible-Publications-with-RStudio
+  life_cycle: alpha
+-
+  title: "Introduction to Deep Learning"
+  teaser: "A lesson introducing the fundamental concepts of deep learning, using Python and Keras."
+  spotlight: https://carpentries.org/blog/2022/05/incubator-lesson-spotlight-deep-learning/
+  slug: deep-learning-intro
+  life_cycle: beta
+-
+  title: "Intermediate Research Software Development in Python"
+  teaser: "A lesson for research software engineers who want to take their next steps towards better software development."
+  spotlight: https://carpentries.org/blog/2022/03/incubator-lesson-spotlight-intermediate-research-software-development-in-python/
+  slug: python-intermediate-development
+  life_cycle: beta
+-
+  title: "Building Websites with Jekyll & GitHub Pages"
+  teaser: "A lesson teaching how to use GitHub Pages to build a basic website and blog."
+  spotlight: https://carpentries.org/blog/2022/01/incubator-lesson-spotlight-jekyll-github/
+  slug: jekyll-pages-novice
+  life_cycle: beta
+-
+  title: "Interactive Data Visualizations in Python"
+  teaser: "A lesson teaching how to create interactive data visualisation widgets with Python, Plotly, and Streamlit."
+  spotlight: https://carpentries.org/blog/2021/09/incubator-lesson-data-visualization-python/
+  slug: python-interactive-data-visualizations
+  life_cycle: alpha
+-
   title: "Programming with Julia"
   teaser: "A lesson teaching the Julia programming language, aimed at those doing scientific computing."
   spotlight: https://carpentries.org/blog/2021/08/incubator-lesson-spotlight-julia-novice/
