@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 15
 help-wanted: 14
 most-recent:
-  title: Introduction to the Bioconductor project
-  url: https://github.com/carpentries-incubator/bioc-project
-  isodatetime: 2022-10-07T19:00:01
+  title: Materials for a workshop introducing machine learning to biologists
+  url: https://github.com/carpentries-incubator/ml4bio-workshop
+  isodatetime: 2022-10-07T21:15:15
 recently-updated: 16
