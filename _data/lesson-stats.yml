@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 15
 help-wanted: 13
 most-recent:
-  title: Introduction to Geospatial Raster and Vector Data with Python
-  url: https://github.com/carpentries-incubator/geospatial-python
-  isodatetime: 2022-10-12T06:02:43
-recently-updated: 15
+  title: Introduction to the Bioconductor project
+  url: https://github.com/carpentries-incubator/bioc-project
+  isodatetime: 2022-10-12T19:03:02
+recently-updated: 16
