@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 15
 help-wanted: 13
 most-recent:
-  title: Introduction to Snakemake for Bioinformatics
-  url: https://github.com/carpentries-incubator/snakemake-novice-bioinformatics
-  isodatetime: 2022-10-15T16:18:10
-recently-updated: 16
+  title: GPU Programming with Python and CUDA.
+  url: https://github.com/carpentries-incubator/lesson-gpu-programming
+  isodatetime: 2022-10-17T14:19:21
+recently-updated: 17
