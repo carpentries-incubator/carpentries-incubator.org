@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 15
 help-wanted: 13
 most-recent:
-  title: Building Websites with Jekyll & GitHub Pages.
-  url: https://github.com/carpentries-incubator/jekyll-pages-novice
-  isodatetime: 2022-10-18T19:19:05
+  title: GPU Programming with Python and CUDA.
+  url: https://github.com/carpentries-incubator/lesson-gpu-programming
+  isodatetime: 2022-10-19T08:13:20
 recently-updated: 18
