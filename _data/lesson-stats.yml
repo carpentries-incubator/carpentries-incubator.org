@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 15
 help-wanted: 13
 most-recent:
-  title: Extra Unix Shell Material
-  url: https://github.com/carpentries-incubator/shell-extras
-  isodatetime: 2022-10-24T16:17:48
-recently-updated: 17
+  title: An introduction to singularity
+  url: https://github.com/carpentries-incubator/singularity-introduction
+  isodatetime: 2022-10-25T14:18:43
+recently-updated: 18
