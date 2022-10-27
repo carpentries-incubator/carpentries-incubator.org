@@ -1,0 +1,8 @@
+_id: b0c3d640-5620-11ed-84f3-21d17d4e6468
+country: us
+online: 'on'
+startdate: '2022-11-30'
+enddate: '2022-11-30'
+lesson_title: Interactive Data Visualizations in Python
+lesson_slug: python-interactive-data-visualizations
+website: 'https://uw-madison-datascience.github.io/2022-09-07-uwmadison-mini'
