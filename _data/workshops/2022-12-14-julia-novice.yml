@@ -1,0 +1,7 @@
+_id: 1eed96b0-5621-11ed-84f3-21d17d4e6468
+country: us
+startdate: '2022-12-14'
+enddate: '2022-12-14'
+lesson_title: Programming with Julia
+lesson_slug: julia-novice
+website: 'https://uw-madison-datascience.github.io/2022-09-07-uwmadison-mini/'
