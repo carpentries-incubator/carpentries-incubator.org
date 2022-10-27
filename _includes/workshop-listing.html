@@ -37,9 +37,9 @@
       {% assign workshop = workshop_hash[1] %}
       <tr>
         <td>{% unless workshop.country == "" or workshop.country == "W3" %}
-          {% assign country = workshop.country %}
-          {% if country | downcase == "uk" %}{% assign country = "GB" %}{% endif %}
-  <img src="{{site.url}}/assets/img/flags/24/{{ country | downcase}}.png" title="{{ country | replace: '-', ' '}}" alt="{{ country | replace: '-', ' ' | downcase}}"  class="flags"/>
+          {% assign country = workshop.country | downcase %}
+          {% if country == "uk" %}{% assign country = "gb" %}{% endif %}
+  <img src="{{site.url}}/assets/img/flags/24/{{ country }}.png" title="{{ country | replace: '-', ' '}}" alt="{{ country | replace: '-', ' '}}"  class="flags"/>
   {% endunless %}
   {% if workshop.online == "on" %}
   <img src="{{site.url}}/assets/img/flags/24/w3.png" title="Online" alt="online workshop" class="flags"/>
