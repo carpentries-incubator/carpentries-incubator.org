@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 15
 help-wanted: 13
 most-recent:
-  title: Introduction to dMRI
-  url: https://github.com/carpentries-incubator/SDC-BIDS-dMRI
-  isodatetime: 2022-10-28T04:27:59
-recently-updated: 17
+  title: Processing data with EEGLAB
+  url: https://github.com/carpentries-incubator/SDC-EEGLAB
+  isodatetime: 2022-10-29T12:36:39
+recently-updated: 20
