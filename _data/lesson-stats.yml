@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 15
 help-wanted: 13
 most-recent:
-  title: Processing data with EEGLAB
-  url: https://github.com/carpentries-incubator/SDC-EEGLAB
-  isodatetime: 2022-10-29T12:36:39
-recently-updated: 19
+  title: Text Analysis with Python
+  url: https://github.com/carpentries-incubator/python-text-analysis
+  isodatetime: 2022-10-31T17:44:14
+recently-updated: 20
