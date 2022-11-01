@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 15
 help-wanted: 13
 most-recent:
-  title: Introduction to AI for GLAM
-  url: https://github.com/carpentries-incubator/machine-learning-librarians-archivists
-  isodatetime: 2022-11-01T02:47:40
+  title: Introduction to Geospatial Raster and Vector Data with Python
+  url: https://github.com/carpentries-incubator/geospatial-python
+  isodatetime: 2022-11-01T15:26:20
 recently-updated: 21
