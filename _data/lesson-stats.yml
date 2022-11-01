@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 15
 help-wanted: 13
 most-recent:
-  title: Text Analysis with Python
-  url: https://github.com/carpentries-incubator/python-text-analysis
-  isodatetime: 2022-10-31T17:44:14
-recently-updated: 20
+  title: Introduction to AI for GLAM
+  url: https://github.com/carpentries-incubator/machine-learning-librarians-archivists
+  isodatetime: 2022-11-01T02:47:40
+recently-updated: 21
