@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 15
 help-wanted: 13
 most-recent:
-  title: Statistical analysis in R for public health.
-  url: https://github.com/carpentries-incubator/statistics-r-public-health
-  isodatetime: 2022-11-02T09:55:51
+  title: fMRI Imaging Analysis
+  url: https://github.com/carpentries-incubator/SDC-BIDS-fMRI
+  isodatetime: 2022-11-02T15:43:22
 recently-updated: 22
