@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 15
 help-wanted: 13
 most-recent:
-  title: Statistical thinking for public health
-  url: https://github.com/carpentries-incubator/statistical-thinking-public-health
-  isodatetime: 2022-11-03T09:20:08
+  title: Introduction to Geospatial Raster and Vector Data with Python
+  url: https://github.com/carpentries-incubator/geospatial-python
+  isodatetime: 2022-11-04T01:25:05
 recently-updated: 25
