@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 15
 help-wanted: 13
 most-recent:
-  title: Introduction to Geospatial Raster and Vector Data with Python
-  url: https://github.com/carpentries-incubator/geospatial-python
-  isodatetime: 2022-11-05T20:45:14
-recently-updated: 25
+  title: Introduction to Conda for (Data) Scientists
+  url: https://github.com/carpentries-incubator/introduction-to-conda-for-data-scientists
+  isodatetime: 2022-11-06T09:48:34
+recently-updated: 26
