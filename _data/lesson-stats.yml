@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 15
 help-wanted: 13
 most-recent:
-  title: High-dimensional statistics with R
-  url: https://github.com/carpentries-incubator/high-dimensional-stats-r
-  isodatetime: 2022-11-09T16:11:59
-recently-updated: 24
+  title: Learn Julia workflows for data-intensive research
+  url: https://github.com/carpentries-incubator/julia-data-workflow
+  isodatetime: 2022-11-13T17:21:09
+recently-updated: 25
