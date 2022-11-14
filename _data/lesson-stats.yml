@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 15
 help-wanted: 13
 most-recent:
-  title: Learn Julia workflows for data-intensive research
-  url: https://github.com/carpentries-incubator/julia-data-workflow
-  isodatetime: 2022-11-13T17:21:09
+  title: Introduction to Geospatial Raster and Vector Data with Python
+  url: https://github.com/carpentries-incubator/geospatial-python
+  isodatetime: 2022-11-14T13:33:02
 recently-updated: 25
