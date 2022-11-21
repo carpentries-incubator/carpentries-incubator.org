@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 15
 help-wanted: 13
 most-recent:
-  title: Typesetting in LaTeX
-  url: https://github.com/carpentries-incubator/latex-novice-typesetting
-  isodatetime: 2022-11-15T00:47:27
-recently-updated: 23
+  title: Parallel Programming in Python
+  url: https://github.com/carpentries-incubator/lesson-parallel-python
+  isodatetime: 2022-11-21T15:31:04
+recently-updated: 25
