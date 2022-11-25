@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 15
 help-wanted: 13
 most-recent:
-  title: Parallel Programming in Python
-  url: https://github.com/carpentries-incubator/lesson-parallel-python
-  isodatetime: 2022-11-22T09:51:44
+  title: An introduction to singularity
+  url: https://github.com/carpentries-incubator/singularity-introduction
+  isodatetime: 2022-11-25T02:59:56
 recently-updated: 24
