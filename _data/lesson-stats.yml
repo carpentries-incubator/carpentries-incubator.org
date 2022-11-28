@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 15
 help-wanted: 13
 most-recent:
-  title: Introduction to Geospatial Raster and Vector Data with Python
-  url: https://github.com/carpentries-incubator/geospatial-python
-  isodatetime: 2022-11-27T17:43:50
-recently-updated: 21
+  title: Introduction to Machine Learning with Python
+  url: https://github.com/carpentries-incubator/machine-learning-novice-python
+  isodatetime: 2022-11-28T18:28:37
+recently-updated: 22
