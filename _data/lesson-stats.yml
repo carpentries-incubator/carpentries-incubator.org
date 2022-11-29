@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 15
 help-wanted: 13
 most-recent:
-  title: Introduction to Machine Learning with Python
-  url: https://github.com/carpentries-incubator/machine-learning-novice-python
-  isodatetime: 2022-11-28T18:28:37
-recently-updated: 22
+  title: fMRI Imaging Analysis
+  url: https://github.com/carpentries-incubator/SDC-BIDS-fMRI
+  isodatetime: 2022-11-28T22:25:37
+recently-updated: 23
