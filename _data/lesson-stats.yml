@@ -7,9 +7,9 @@ perc_alpha: 29
 perc_stable: 2
 perc_pre-alpha: 54
 perc_beta: 15
-help-wanted: 13
+help-wanted: 14
 most-recent:
-  title: fMRI Imaging Analysis
-  url: https://github.com/carpentries-incubator/SDC-BIDS-fMRI
-  isodatetime: 2022-11-28T22:25:37
+  title: Learn Deep Learning with Python
+  url: https://github.com/carpentries-incubator/deep-learning-intro
+  isodatetime: 2022-11-29T10:30:26
 recently-updated: 23
