@@ -7,9 +7,9 @@ perc_alpha: 29
 perc_stable: 2
 perc_pre-alpha: 54
 perc_beta: 15
-help-wanted: 13
+help-wanted: 14
 most-recent:
-  title: Learn Deep Learning with Python
-  url: https://github.com/carpentries-incubator/deep-learning-intro
-  isodatetime: 2022-11-30T12:22:05
-recently-updated: 23
+  title: GPU Programming with Python and CUDA.
+  url: https://github.com/carpentries-incubator/lesson-gpu-programming
+  isodatetime: 2022-11-30T14:24:12
+recently-updated: 22
