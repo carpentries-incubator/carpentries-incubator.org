@@ -7,9 +7,9 @@ perc_alpha: 29
 perc_stable: 2
 perc_pre-alpha: 54
 perc_beta: 15
-help-wanted: 14
+help-wanted: 13
 most-recent:
-  title: Introduction to Geospatial Raster and Vector Data with Python
-  url: https://github.com/carpentries-incubator/geospatial-python
-  isodatetime: 2022-11-29T14:15:34
+  title: Learn Deep Learning with Python
+  url: https://github.com/carpentries-incubator/deep-learning-intro
+  isodatetime: 2022-11-30T12:22:05
 recently-updated: 23
