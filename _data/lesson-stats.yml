@@ -1,15 +1,15 @@
 alpha: 26
 stable: 2
-pre-alpha: 49
-beta: 14
+pre-alpha: 48
+beta: 15
 total: 91
 perc_alpha: 29
 perc_stable: 2
-perc_pre-alpha: 54
-perc_beta: 15
-help-wanted: 14
+perc_pre-alpha: 53
+perc_beta: 16
+help-wanted: 13
 most-recent:
-  title: GPU Programming with Python and CUDA.
-  url: https://github.com/carpentries-incubator/lesson-gpu-programming
-  isodatetime: 2022-11-30T14:24:12
+  title: Parallel Programming in Python
+  url: https://github.com/carpentries-incubator/lesson-parallel-python
+  isodatetime: 2022-12-01T12:02:59
 recently-updated: 21
