@@ -9,7 +9,7 @@ perc_pre-alpha: 53
 perc_beta: 16
 help-wanted: 13
 most-recent:
-  title: Parallel Programming in Python
-  url: https://github.com/carpentries-incubator/lesson-parallel-python
-  isodatetime: 2022-12-04T18:56:33
+  title: Introduction to Conda for (Data) Scientists
+  url: https://github.com/carpentries-incubator/introduction-to-conda-for-data-scientists
+  isodatetime: 2022-12-06T07:12:38
 recently-updated: 18
