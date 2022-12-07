@@ -9,7 +9,7 @@ perc_pre-alpha: 53
 perc_beta: 16
 help-wanted: 13
 most-recent:
-  title: Good Enough Practices in Scientific Computing
-  url: https://github.com/carpentries-incubator/good-enough-practices
-  isodatetime: 2022-12-06T14:19:02
+  title: A lesson exploring the Julia language
+  url: https://github.com/carpentries-incubator/julia-novice
+  isodatetime: 2022-12-07T18:21:05
 recently-updated: 19
