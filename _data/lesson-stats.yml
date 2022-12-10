@@ -9,7 +9,7 @@ perc_pre-alpha: 53
 perc_beta: 16
 help-wanted: 13
 most-recent:
-  title: R Packaging
-  url: https://github.com/carpentries-incubator/lesson-R-packaging
-  isodatetime: 2022-12-08T16:15:27
+  title: Reproducible Computational Environments using Containers
+  url: https://github.com/carpentries-incubator/docker-introduction
+  isodatetime: 2022-12-10T11:35:57
 recently-updated: 17
