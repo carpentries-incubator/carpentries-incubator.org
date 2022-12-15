@@ -9,7 +9,7 @@ perc_pre-alpha: 53
 perc_beta: 16
 help-wanted: 13
 most-recent:
-  title: Good Enough Practices in Scientific Computing
-  url: https://github.com/carpentries-incubator/good-enough-practices
-  isodatetime: 2022-12-14T23:36:29
+  title: GPU Programming with Python and CUDA.
+  url: https://github.com/carpentries-incubator/lesson-gpu-programming
+  isodatetime: 2022-12-15T12:46:15
 recently-updated: 18
