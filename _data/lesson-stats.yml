@@ -9,7 +9,7 @@ perc_pre-alpha: 53
 perc_beta: 16
 help-wanted: 13
 most-recent:
-  title: Intermediate Research Software Development Skills In Python Lesson Material
-  url: https://github.com/carpentries-incubator/python-intermediate-development
-  isodatetime: 2022-12-13T22:48:16
-recently-updated: 19
+  title: Good Enough Practices in Scientific Computing
+  url: https://github.com/carpentries-incubator/good-enough-practices
+  isodatetime: 2022-12-14T23:36:29
+recently-updated: 18
