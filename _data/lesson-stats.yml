@@ -1,15 +1,15 @@
-alpha: 26
+alpha: 27
 stable: 2
-pre-alpha: 48
+pre-alpha: 47
 beta: 15
 total: 91
-perc_alpha: 29
+perc_alpha: 30
 perc_stable: 2
-perc_pre-alpha: 53
+perc_pre-alpha: 52
 perc_beta: 16
 help-wanted: 12
 most-recent:
-  title: Bioconductor data science introduction
-  url: https://github.com/carpentries-incubator/bioc-intro
-  isodatetime: 2022-12-17T19:04:02
+  title: Good Enough Practices in Scientific Computing
+  url: https://github.com/carpentries-incubator/good-enough-practices
+  isodatetime: 2022-12-20T12:31:09
 recently-updated: 19
