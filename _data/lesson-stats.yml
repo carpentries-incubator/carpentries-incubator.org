@@ -9,7 +9,7 @@ perc_pre-alpha: 52
 perc_beta: 16
 help-wanted: 13
 most-recent:
-  title: A Carpentry style lesson on machine learning with Python and scikit-learn.
-  url: https://github.com/carpentries-incubator/machine-learning-novice-sklearn
-  isodatetime: 2023-01-09T22:38:57
+  title: Good Enough Practices in Scientific Computing
+  url: https://github.com/carpentries-incubator/good-enough-practices
+  isodatetime: 2023-01-10T20:32:41
 recently-updated: 14
