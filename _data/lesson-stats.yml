@@ -9,7 +9,7 @@ perc_pre-alpha: 52
 perc_beta: 16
 help-wanted: 13
 most-recent:
-  title: Metagenomica
-  url: https://github.com/carpentries-incubator/metagenomics
-  isodatetime: 2023-01-14T01:52:06
-recently-updated: 13
+  title: fMRI Imaging Analysis
+  url: https://github.com/carpentries-incubator/SDC-BIDS-fMRI
+  isodatetime: 2023-01-14T07:44:18
+recently-updated: 12
