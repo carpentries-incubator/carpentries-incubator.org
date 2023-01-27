@@ -1,15 +1,15 @@
-alpha: 27
+alpha: 26
 stable: 2
 pre-alpha: 47
-beta: 15
+beta: 16
 total: 91
-perc_alpha: 30
+perc_alpha: 29
 perc_stable: 2
-perc_pre-alpha: 52
-perc_beta: 16
+perc_pre-alpha: 51
+perc_beta: 18
 help-wanted: 13
 most-recent:
-  title: Intermediate Research Software Development Skills In Python Lesson Material
-  url: https://github.com/carpentries-incubator/python-intermediate-development
-  isodatetime: 2023-01-26T12:33:01
+  title: Good Enough Practices in Scientific Computing
+  url: https://github.com/carpentries-incubator/good-enough-practices
+  isodatetime: 2023-01-27T11:37:47
 recently-updated: 22
