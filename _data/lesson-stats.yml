@@ -9,7 +9,7 @@ perc_pre-alpha: 51
 perc_beta: 18
 help-wanted: 13
 most-recent:
-  title: Introduction to dMRI
-  url: https://github.com/carpentries-incubator/SDC-BIDS-dMRI
-  isodatetime: 2023-01-31T23:41:23
-recently-updated: 27
+  title: Lesson materials for an Introduction to High Performance Computing in the tradition of Software Carpentry
+  url: https://github.com/carpentries-incubator/hpc-intro
+  isodatetime: 2023-02-02T12:17:49
+recently-updated: 28
