@@ -9,7 +9,7 @@ perc_pre-alpha: 50
 perc_beta: 19
 help-wanted: 13
 most-recent:
-  title: Introduction to AI for GLAM
-  url: https://github.com/carpentries-incubator/machine-learning-librarians-archivists
-  isodatetime: 2023-02-03T12:15:35
+  title: R Packaging
+  url: https://github.com/carpentries-incubator/lesson-R-packaging
+  isodatetime: 2023-02-03T15:06:05
 recently-updated: 28
