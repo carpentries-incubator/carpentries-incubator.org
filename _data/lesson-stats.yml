@@ -1,15 +1,15 @@
 alpha: 26
 stable: 2
-pre-alpha: 47
-beta: 16
+pre-alpha: 46
+beta: 17
 total: 91
 perc_alpha: 29
 perc_stable: 2
-perc_pre-alpha: 51
-perc_beta: 18
+perc_pre-alpha: 50
+perc_beta: 19
 help-wanted: 13
 most-recent:
-  title: fMRI Imaging Analysis
-  url: https://github.com/carpentries-incubator/SDC-BIDS-fMRI
-  isodatetime: 2023-02-02T18:30:16
+  title: Introduction to AI for GLAM
+  url: https://github.com/carpentries-incubator/machine-learning-librarians-archivists
+  isodatetime: 2023-02-03T12:15:35
 recently-updated: 28
