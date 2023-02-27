@@ -9,7 +9,7 @@ perc_pre-alpha: 50
 perc_beta: 19
 help-wanted: 12
 most-recent:
-  title: Text Analysis with Python
-  url: https://github.com/carpentries-incubator/python-text-analysis
-  isodatetime: 2023-02-27T09:14:46
+  title: Analysis and Interpretation of Bulk RNA-Seq Data using Bioconductor
+  url: https://github.com/carpentries-incubator/bioc-rnaseq
+  isodatetime: 2023-02-27T18:25:49
 recently-updated: 30
