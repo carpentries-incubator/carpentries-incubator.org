@@ -9,7 +9,7 @@ perc_pre-alpha: 50
 perc_beta: 19
 help-wanted: 11
 most-recent:
-  title: Analysis and Interpretation of Bulk RNA-Seq Data using Bioconductor
-  url: https://github.com/carpentries-incubator/bioc-rnaseq
-  isodatetime: 2023-02-27T18:25:49
-recently-updated: 30
+  title: Introduction to R for Metagenomics
+  url: https://github.com/carpentries-incubator/introduction-to-R-for-metagenomics
+  isodatetime: 2023-02-28T18:46:23
+recently-updated: 32
