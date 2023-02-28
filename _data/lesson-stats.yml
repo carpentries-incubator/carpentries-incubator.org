@@ -7,7 +7,7 @@ perc_alpha: 29
 perc_stable: 2
 perc_pre-alpha: 50
 perc_beta: 19
-help-wanted: 12
+help-wanted: 11
 most-recent:
   title: Analysis and Interpretation of Bulk RNA-Seq Data using Bioconductor
   url: https://github.com/carpentries-incubator/bioc-rnaseq
