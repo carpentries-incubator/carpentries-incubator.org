@@ -9,7 +9,7 @@ perc_pre-alpha: 50
 perc_beta: 19
 help-wanted: 11
 most-recent:
-  title: Introduction to R for Metagenomics
-  url: https://github.com/carpentries-incubator/introduction-to-R-for-metagenomics
-  isodatetime: 2023-02-28T18:46:23
+  title: Introduction to Geospatial Raster and Vector Data with Python
+  url: https://github.com/carpentries-incubator/geospatial-python
+  isodatetime: 2023-03-01T01:29:16
 recently-updated: 32
