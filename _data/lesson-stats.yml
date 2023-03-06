@@ -9,7 +9,7 @@ perc_pre-alpha: 55
 perc_beta: 14
 help-wanted: 12
 most-recent:
-  title: fMRI Imaging Analysis
-  url: https://github.com/carpentries-incubator/SDC-BIDS-fMRI
-  isodatetime: 2023-03-04T12:55:46
-recently-updated: 23
+  title: Introduction to Conda for (Data) Scientists
+  url: https://github.com/carpentries-incubator/introduction-to-conda-for-data-scientists
+  isodatetime: 2023-03-06T14:34:33
+recently-updated: 24
