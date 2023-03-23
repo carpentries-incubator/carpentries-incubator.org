@@ -9,7 +9,7 @@ perc_pre-alpha: 55
 perc_beta: 14
 help-wanted: 12
 most-recent:
-  title: Library Carpentry: Introduction to R and litsearchr
-  url: https://github.com/carpentries-incubator/lc-litsearchr
-  isodatetime: 2023-03-21T20:24:41
-recently-updated: 22
+  title: High-dimensional statistics with R
+  url: https://github.com/carpentries-incubator/high-dimensional-stats-r
+  isodatetime: 2023-03-23T02:18:12
+recently-updated: 23
