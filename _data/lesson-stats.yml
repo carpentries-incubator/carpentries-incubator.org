@@ -9,7 +9,7 @@ perc_pre-alpha: 55
 perc_beta: 14
 help-wanted: 12
 most-recent:
-  title: Bioconductor data science introduction
-  url: https://github.com/carpentries-incubator/bioc-intro
-  isodatetime: 2023-03-28T06:49:23
-recently-updated: 21
+  title: Extra Unix Shell Material
+  url: https://github.com/carpentries-incubator/shell-extras
+  isodatetime: 2023-03-28T17:30:08
+recently-updated: 22
