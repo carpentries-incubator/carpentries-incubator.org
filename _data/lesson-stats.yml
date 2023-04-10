@@ -9,7 +9,7 @@ perc_pre-alpha: 55
 perc_beta: 14
 help-wanted: 12
 most-recent:
-  title: Introduction to AI for GLAM
-  url: https://github.com/carpentries-incubator/machine-learning-librarians-archivists
-  isodatetime: 2023-04-09T12:14:01
+  title: Library Carpentry: Introduction to R and litsearchr
+  url: https://github.com/carpentries-incubator/lc-litsearchr
+  isodatetime: 2023-04-10T18:23:08
 recently-updated: 20
