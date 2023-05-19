@@ -9,7 +9,7 @@ perc_pre-alpha: 55
 perc_beta: 14
 help-wanted: 12
 most-recent:
-  title: Learn Deep Learning with Python
-  url: https://github.com/carpentries-incubator/deep-learning-intro
-  isodatetime: 2023-05-17T07:08:06
-recently-updated: 10
+  title: A Carpentry style lesson on machine learning with Python and scikit-learn.
+  url: https://github.com/carpentries-incubator/machine-learning-novice-sklearn
+  isodatetime: 2023-05-19T07:37:40
+recently-updated: 11
