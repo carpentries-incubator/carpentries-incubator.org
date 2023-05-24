@@ -9,7 +9,7 @@ perc_pre-alpha: 55
 perc_beta: 14
 help-wanted: 12
 most-recent:
-  title: Workflow management with Nextflow and nf-core
-  url: https://github.com/carpentries-incubator/workflows-nextflow
-  isodatetime: 2023-05-23T09:05:49
+  title: Introduction to Conda for (Data) Scientists
+  url: https://github.com/carpentries-incubator/introduction-to-conda-for-data-scientists
+  isodatetime: 2023-05-24T01:03:43
 recently-updated: 10
