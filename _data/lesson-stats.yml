@@ -9,7 +9,7 @@ perc_pre-alpha: 55
 perc_beta: 14
 help-wanted: 12
 most-recent:
-  title: Learn Deep Learning with Python
-  url: https://github.com/carpentries-incubator/deep-learning-intro
-  isodatetime: 2023-05-30T08:54:04
-recently-updated: 10
+  title: R Packaging
+  url: https://github.com/carpentries-incubator/lesson-R-packaging
+  isodatetime: 2023-06-01T13:33:16
+recently-updated: 11
