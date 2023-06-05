@@ -9,7 +9,7 @@ perc_pre-alpha: 55
 perc_beta: 14
 help-wanted: 12
 most-recent:
-  title: R Packaging
-  url: https://github.com/carpentries-incubator/lesson-R-packaging
-  isodatetime: 2023-06-01T13:33:16
-recently-updated: 10
+  title: GPU Programming with Python and CUDA.
+  url: https://github.com/carpentries-incubator/lesson-gpu-programming
+  isodatetime: 2023-06-05T02:25:50
+recently-updated: 11
