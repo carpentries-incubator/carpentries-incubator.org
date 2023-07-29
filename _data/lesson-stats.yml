@@ -9,7 +9,7 @@ perc_pre-alpha: 55
 perc_beta: 14
 help-wanted: 12
 most-recent:
-  title: Learn Julia workflows for data-intensive research
-  url: https://github.com/carpentries-incubator/julia-data-workflow
-  isodatetime: 2023-07-28T12:34:23
-recently-updated: 12
+  title: Materials for a workshop introducing machine learning to biologists
+  url: https://github.com/carpentries-incubator/ml4bio-workshop
+  isodatetime: 2023-07-29T11:51:54
+recently-updated: 13
