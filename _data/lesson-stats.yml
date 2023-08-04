@@ -9,7 +9,7 @@ perc_pre-alpha: 55
 perc_beta: 14
 help-wanted: 11
 most-recent:
-  title: fMRI Imaging Analysis
-  url: https://github.com/carpentries-incubator/SDC-BIDS-fMRI
-  isodatetime: 2023-08-02T13:20:45
+  title: A lesson exploring the Julia language
+  url: https://github.com/carpentries-incubator/julia-novice
+  isodatetime: 2023-08-04T15:01:18
 recently-updated: 15
