@@ -9,7 +9,7 @@ perc_pre-alpha: 55
 perc_beta: 14
 help-wanted: 11
 most-recent:
-  title: A lesson exploring the Julia language
-  url: https://github.com/carpentries-incubator/julia-novice
-  isodatetime: 2023-08-04T15:01:18
+  title: Introduction to Geospatial Raster and Vector Data with Python
+  url: https://github.com/carpentries-incubator/geospatial-python
+  isodatetime: 2023-08-08T07:37:19
 recently-updated: 15
