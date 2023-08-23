@@ -9,7 +9,7 @@ perc_pre-alpha: 55
 perc_beta: 14
 help-wanted: 11
 most-recent:
-  title: Introduction to Workflows with Common Workflow Language
-  url: https://github.com/carpentries-incubator/cwl-novice-tutorial
-  isodatetime: 2023-08-21T20:59:59
-recently-updated: 18
+  title: Introduction to Markdown
+  url: https://github.com/carpentries-incubator/markdown-intro
+  isodatetime: 2023-08-22T20:05:04
+recently-updated: 19
