@@ -1,12 +1,12 @@
 alpha: 26
 stable: 2
 pre-alpha: 50
-beta: 13
-total: 91
+beta: 12
+total: 90
 perc_alpha: 29
 perc_stable: 2
-perc_pre-alpha: 55
-perc_beta: 14
+perc_pre-alpha: 56
+perc_beta: 13
 help-wanted: 11
 most-recent:
   title: Introduction to Geospatial Raster and Vector Data with Python
