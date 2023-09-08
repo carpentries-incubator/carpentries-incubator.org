@@ -19,3 +19,4 @@ the application needs to be approved by The Carpentries as owners of the carpent
 <li>which repository/repositories you want to use it on</li>
 </ol>
 <p>The Curriculum Team will review requests periodically and reach out to requesters for more information if needed. We reserve the right to suspend or disable an application at any time.</p>
+</div>
