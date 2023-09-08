@@ -57,7 +57,7 @@ layout: default
 
 <div class="container col-xxl-8">
   <h2 class="display-5 fw-bold lh-1 mb-3">GitHub Apps Policy</h2>
-  <p>We aim to be permissive and enable apps on request, but the Curriculum Team may refuse if we are concerned that use of the application could incur costs for The Carpentries, contradict [our Core Values](https://carpentries.org/values/), or require commitment of Core Team time for continued support. <a href="./apps-policy.html">Read the full policy</a>.</p>
+  <p>We aim to be permissive and enable apps on request, but the Curriculum Team may refuse if we are concerned that use of the application could incur costs for The Carpentries, contradict <a href="https://carpentries.org/values/">our Core Values</a>, or require commitment of Core Team time for continued support. <a href="./apps-policy.html">Read the full policy</a>.</p>
 </div>
 
 <div class="container col-xxl-8">
