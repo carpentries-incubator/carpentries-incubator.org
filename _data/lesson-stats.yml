@@ -9,7 +9,7 @@ perc_pre-alpha: 56
 perc_beta: 13
 help-wanted: 11
 most-recent:
-  title: Analysis and Interpretation of Bulk RNA-Seq Data using Bioconductor
-  url: https://github.com/carpentries-incubator/bioc-rnaseq
-  isodatetime: 2023-09-11T15:01:20
+  title: Introduction to Geospatial Raster and Vector Data with Python
+  url: https://github.com/carpentries-incubator/geospatial-python
+  isodatetime: 2023-09-12T15:14:17
 recently-updated: 14
