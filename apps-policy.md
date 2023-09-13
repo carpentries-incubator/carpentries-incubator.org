@@ -12,7 +12,7 @@ the application needs to be approved by The Carpentries as owners of the carpent
 <li>contradict <a href="https://carpentries.org/values/">our Core Values</a></li>
 <li>require commitment of Core Team time for continued support</li>
 </ul>
-<p>If you would like to enable an application for use on your repository, please submit the request through GitHub by following the installation instructions provided by the application developers, and <a href="curriculum@carpentries.org">send an email to the Curriculum Team</a> to let us know:</p>
+<p>If you would like to enable an application for use on your repository, please submit the request through GitHub by following the installation instructions provided by the application developers, and <a href="mailto:curriculum@carpentries.org">send an email to the Curriculum Team</a> to let us know:</p>
 
 <ol>
 <li>what you plan to use the application for</li>
