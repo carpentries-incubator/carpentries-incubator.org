@@ -1,15 +1,15 @@
-alpha: 26
+alpha: 27
 stable: 2
 pre-alpha: 50
 beta: 12
-total: 90
-perc_alpha: 29
+total: 91
+perc_alpha: 30
 perc_stable: 2
-perc_pre-alpha: 56
+perc_pre-alpha: 55
 perc_beta: 13
 help-wanted: 11
 most-recent:
-  title: Introduction to Snakemake for Bioinformatics
-  url: https://github.com/carpentries-incubator/snakemake-novice-bioinformatics
-  isodatetime: 2023-09-20T11:36:45
-recently-updated: 11
+  title: Introduction to web scraping
+  url: https://github.com/carpentries-incubator/lc-webscraping
+  isodatetime: 2023-09-22T10:46:21
+recently-updated: 12
