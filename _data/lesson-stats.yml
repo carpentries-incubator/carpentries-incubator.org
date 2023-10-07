@@ -9,7 +9,7 @@ perc_pre-alpha: 55
 perc_beta: 13
 help-wanted: 11
 most-recent:
-  title: Introduction to AI for GLAM
-  url: https://github.com/carpentries-incubator/machine-learning-librarians-archivists
-  isodatetime: 2023-10-04T23:58:47
+  title: Analysis and Interpretation of Bulk RNA-Seq Data using Bioconductor
+  url: https://github.com/carpentries-incubator/bioc-rnaseq
+  isodatetime: 2023-10-07T07:50:57
 recently-updated: 10
