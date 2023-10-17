@@ -9,7 +9,7 @@ perc_pre-alpha: 55
 perc_beta: 13
 help-wanted: 12
 most-recent:
-  title: Version Control with Git
-  url: https://github.com/carpentries-incubator/git-novice-branch-pr
-  isodatetime: 2023-10-09T20:25:54
-recently-updated: 12
+  title: Python Testing and Continuous Integration
+  url: https://github.com/carpentries-incubator/python-testing
+  isodatetime: 2023-10-17T05:19:44
+recently-updated: 13
