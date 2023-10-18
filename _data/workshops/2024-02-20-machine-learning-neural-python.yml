@@ -3,5 +3,5 @@ country: GB
 startdate: '2024-02-20'
 enddate: '2024-02-20'
 lesson_title: Neural Networks
-lesson_slug: github.io/machine-learning-neural-python/
+lesson_slug: machine-learning-neural-python
 website: 'https://nclrse-training.github.io/2024-02-20-NCL/'
