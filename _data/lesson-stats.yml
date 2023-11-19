@@ -9,7 +9,7 @@ perc_pre-alpha: 55
 perc_beta: 13
 help-wanted: 13
 most-recent:
-  title: Introduction to Conda for (Data) Scientists
-  url: https://github.com/carpentries-incubator/introduction-to-conda-for-data-scientists
-  isodatetime: 2023-11-17T19:38:18
-recently-updated: 15
+  title: Introduction to dMRI
+  url: https://github.com/carpentries-incubator/SDC-BIDS-dMRI
+  isodatetime: 2023-11-19T04:44:55
+recently-updated: 16
