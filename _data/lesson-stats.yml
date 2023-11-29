@@ -9,7 +9,7 @@ perc_pre-alpha: 55
 perc_beta: 13
 help-wanted: 13
 most-recent:
-  title: Introduction to MRI and BIDS
-  url: https://github.com/carpentries-incubator/SDC-BIDS-IntroMRI
-  isodatetime: 2023-11-29T03:10:30
-recently-updated: 17
+  title: Carpentry-style lesson on how to use R, RStudio together with git & Github to promote Open Science practices.
+  url: https://github.com/carpentries-incubator/open-science-with-r
+  isodatetime: 2023-11-29T16:17:16
+recently-updated: 18
