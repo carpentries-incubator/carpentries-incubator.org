@@ -9,7 +9,7 @@ perc_pre-alpha: 55
 perc_beta: 13
 help-wanted: 13
 most-recent:
-  title: Carpentry-style lesson on how to use R, RStudio together with git & Github to promote Open Science practices.
-  url: https://github.com/carpentries-incubator/open-science-with-r
-  isodatetime: 2023-11-29T16:17:16
-recently-updated: 18
+  title: Introduction to Workflows with Common Workflow Language
+  url: https://github.com/carpentries-incubator/cwl-novice-tutorial
+  isodatetime: 2023-11-30T09:45:47
+recently-updated: 19
