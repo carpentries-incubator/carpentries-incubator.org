@@ -9,7 +9,7 @@ perc_pre-alpha: 55
 perc_beta: 13
 help-wanted: 13
 most-recent:
-  title: Reproducible Computational Environments using Containers
-  url: https://github.com/carpentries-incubator/docker-introduction
-  isodatetime: 2023-12-02T07:29:12
-recently-updated: 19
+  title: An Introduction to Java Programming
+  url: https://github.com/carpentries-incubator/java-intro
+  isodatetime: 2023-12-03T22:09:04
+recently-updated: 20
