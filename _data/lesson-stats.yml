@@ -9,7 +9,7 @@ perc_pre-alpha: 55
 perc_beta: 13
 help-wanted: 13
 most-recent:
-  title: An Introduction to Java Programming
-  url: https://github.com/carpentries-incubator/java-intro
-  isodatetime: 2023-12-03T22:09:04
-recently-updated: 20
+  title: High-dimensional statistics with R
+  url: https://github.com/carpentries-incubator/high-dimensional-stats-r
+  isodatetime: 2023-12-04T23:38:45
+recently-updated: 19
