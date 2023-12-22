@@ -9,7 +9,7 @@ perc_pre-alpha: 55
 perc_beta: 13
 help-wanted: 13
 most-recent:
-  title: Introduction to web scraping
-  url: https://github.com/carpentries-incubator/lc-webscraping
-  isodatetime: 2023-12-21T18:50:32
-recently-updated: 17
+  title: Learn Julia workflows for data-intensive research
+  url: https://github.com/carpentries-incubator/julia-data-workflow
+  isodatetime: 2023-12-21T19:19:11
+recently-updated: 27
