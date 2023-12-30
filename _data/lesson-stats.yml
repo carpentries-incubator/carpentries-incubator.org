@@ -9,7 +9,7 @@ perc_pre-alpha: 55
 perc_beta: 13
 help-wanted: 13
 most-recent:
-  title: Learn Julia workflows for data-intensive research
-  url: https://github.com/carpentries-incubator/julia-data-workflow
-  isodatetime: 2023-12-21T19:19:11
+  title: Lesson materials for an Introduction to High Performance Computing in the tradition of Software Carpentry
+  url: https://github.com/carpentries-incubator/hpc-intro
+  isodatetime: 2023-12-29T19:09:19
 recently-updated: 25
