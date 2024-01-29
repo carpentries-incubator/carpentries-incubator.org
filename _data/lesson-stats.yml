@@ -9,7 +9,7 @@ perc_pre-alpha: 55
 perc_beta: 13
 help-wanted: 13
 most-recent:
-  title: fMRI Imaging Analysis
-  url: https://github.com/carpentries-incubator/SDC-BIDS-fMRI
-  isodatetime: 2024-01-27T05:24:48
-recently-updated: 11
+  title: FAIR in (biological) practice
+  url: https://github.com/carpentries-incubator/fair-bio-practice
+  isodatetime: 2024-01-29T05:08:04
+recently-updated: 12
