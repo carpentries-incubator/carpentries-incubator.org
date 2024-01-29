@@ -9,7 +9,7 @@ perc_pre-alpha: 55
 perc_beta: 13
 help-wanted: 13
 most-recent:
-  title: FAIR in (biological) practice
-  url: https://github.com/carpentries-incubator/fair-bio-practice
-  isodatetime: 2024-01-29T05:08:04
-recently-updated: 12
+  title: Frictionless Data for Agriculture Research
+  url: https://github.com/carpentries-incubator/frictionless-data-agriculture
+  isodatetime: 2024-01-29T16:15:34
+recently-updated: 13
