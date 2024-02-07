@@ -9,7 +9,7 @@ perc_pre-alpha: 55
 perc_beta: 13
 help-wanted: 13
 most-recent:
-  title: Introduction to AI for GLAM
-  url: https://github.com/carpentries-incubator/machine-learning-librarians-archivists
-  isodatetime: 2024-02-06T17:07:27
-recently-updated: 14
+  title: Carpentry-style lesson on how to use R, RStudio together with git & Github to promote Open Science practices.
+  url: https://github.com/carpentries-incubator/open-science-with-r
+  isodatetime: 2024-02-06T22:47:32
+recently-updated: 15
