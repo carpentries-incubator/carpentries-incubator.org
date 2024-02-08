@@ -9,7 +9,7 @@ perc_pre-alpha: 55
 perc_beta: 13
 help-wanted: 13
 most-recent:
-  title: Carpentry-style lesson on how to use R, RStudio together with git & Github to promote Open Science practices.
-  url: https://github.com/carpentries-incubator/open-science-with-r
-  isodatetime: 2024-02-06T22:47:32
-recently-updated: 13
+  title: A lesson exploring the Julia language
+  url: https://github.com/carpentries-incubator/julia-novice
+  isodatetime: 2024-02-07T23:10:42
+recently-updated: 14
