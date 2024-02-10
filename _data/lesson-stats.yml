@@ -9,7 +9,7 @@ perc_pre-alpha: 55
 perc_beta: 13
 help-wanted: 13
 most-recent:
-  title: Introduction to Geospatial Raster and Vector Data with Python
-  url: https://github.com/carpentries-incubator/geospatial-python
-  isodatetime: 2024-02-10T09:06:37
-recently-updated: 14
+  title: Intermediate Research Software Development Skills In Python Lesson Material
+  url: https://github.com/carpentries-incubator/python-intermediate-development
+  isodatetime: 2024-02-10T13:44:51
+recently-updated: 15
