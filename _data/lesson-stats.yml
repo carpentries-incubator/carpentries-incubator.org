@@ -9,7 +9,7 @@ perc_pre-alpha: 55
 perc_beta: 13
 help-wanted: 13
 most-recent:
-  title: Introduction to AI for GLAM
-  url: https://github.com/carpentries-incubator/machine-learning-librarians-archivists
-  isodatetime: 2024-02-19T04:36:39
-recently-updated: 20
+  title: Working with EEGLAB and BIDS-EEG
+  url: https://github.com/carpentries-incubator/SDC-BIDS-EEG-EEGLAB
+  isodatetime: 2024-02-19T20:34:44
+recently-updated: 21
