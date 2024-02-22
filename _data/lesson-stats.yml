@@ -9,7 +9,7 @@ perc_pre-alpha: 55
 perc_beta: 13
 help-wanted: 13
 most-recent:
-  title: Working with EEGLAB and BIDS-EEG
-  url: https://github.com/carpentries-incubator/SDC-BIDS-EEG-EEGLAB
-  isodatetime: 2024-02-19T20:34:44
+  title: Analysis and Interpretation of Bulk RNA-Seq Data using Bioconductor
+  url: https://github.com/carpentries-incubator/bioc-rnaseq
+  isodatetime: 2024-02-22T15:59:51
 recently-updated: 21
