@@ -9,7 +9,7 @@ perc_pre-alpha: 55
 perc_beta: 13
 help-wanted: 13
 most-recent:
-  title: Python for Humanities
-  url: https://github.com/carpentries-incubator/python-humanities-lesson
-  isodatetime: 2024-02-27T20:44:45
-recently-updated: 18
+  title: fMRI Imaging Analysis
+  url: https://github.com/carpentries-incubator/SDC-BIDS-fMRI
+  isodatetime: 2024-02-29T17:12:47
+recently-updated: 19
