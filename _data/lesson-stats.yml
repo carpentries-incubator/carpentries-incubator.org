@@ -9,7 +9,7 @@ perc_pre-alpha: 55
 perc_beta: 13
 help-wanted: 13
 most-recent:
-  title: GPU Programming with Python and CUDA.
-  url: https://github.com/carpentries-incubator/lesson-gpu-programming
-  isodatetime: 2024-03-01T05:26:10
+  title: Structural Neuroimaging Analysis in Python
+  url: https://github.com/carpentries-incubator/SDC-BIDS-sMRI
+  isodatetime: 2024-03-04T08:16:46
 recently-updated: 20
