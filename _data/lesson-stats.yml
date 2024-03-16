@@ -9,7 +9,7 @@ perc_pre-alpha: 55
 perc_beta: 13
 help-wanted: 13
 most-recent:
-  title: Structural Neuroimaging Analysis in Python
-  url: https://github.com/carpentries-incubator/SDC-BIDS-sMRI
-  isodatetime: 2024-03-15T16:05:12
-recently-updated: 13
+  title: Introduction to dMRI
+  url: https://github.com/carpentries-incubator/SDC-BIDS-dMRI
+  isodatetime: 2024-03-16T15:46:38
+recently-updated: 14
