@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 13
 most-recent:
-  title: SQL for Business
-  url: https://github.com/carpentries-incubator/sql-business
-  isodatetime: 2024-03-30T20:59:41
-recently-updated: 10
+  title: Python Testing and Continuous Integration
+  url: https://github.com/carpentries-incubator/python-testing
+  isodatetime: 2024-04-01T05:58:02
+recently-updated: 11
