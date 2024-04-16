@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 14
 most-recent:
-  title: Parallel Programming in Python
-  url: https://github.com/carpentries-incubator/lesson-parallel-python
-  isodatetime: 2024-04-12T07:06:50
-recently-updated: 13
+  title: Learn Deep Learning with Python
+  url: https://github.com/carpentries-incubator/deep-learning-intro
+  isodatetime: 2024-04-16T13:47:12
+recently-updated: 15
