@@ -1,0 +1,9 @@
+_id: cfd44f20-089d-11ef-ba29-67270b6ed198
+country: US
+startdate: '2024-05-29'
+enddate: '2024-05-30'
+lesson_title: >-
+  Reproducible Computational Environments Using Containers: Introduction to
+  Docker
+lesson_slug: docker-introduction
+website: 'https://unlhcc.github.io/2024-05-29-UNL/'
