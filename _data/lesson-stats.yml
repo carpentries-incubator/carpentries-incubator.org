@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 14
 most-recent:
-  title: R Packaging
-  url: https://github.com/carpentries-incubator/lesson-R-packaging
-  isodatetime: 2024-05-16T12:05:37
-recently-updated: 13
+  title: Foundational Computer Skills
+  url: https://github.com/carpentries-incubator/foundational-computer-skills
+  isodatetime: 2024-05-16T23:43:23
+recently-updated: 14
