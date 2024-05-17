@@ -1,0 +1,9 @@
+_id: 79e5c3e0-148d-11ef-bb3d-259693309662
+country: US
+startdate: '2024-06-04'
+enddate: '2024-06-05'
+lesson_title: >-
+  Reproducible computational environments using containers: Introduction to
+  Apptainer
+lesson_slug: apptainer-introduction
+website: 'https://unlhcc.github.io/2024-06-04-UNO/'
