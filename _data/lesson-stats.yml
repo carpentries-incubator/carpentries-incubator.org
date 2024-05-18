@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 14
 most-recent:
-  title: Python Testing and Continuous Integration
-  url: https://github.com/carpentries-incubator/python-testing
-  isodatetime: 2024-05-17T16:43:59
+  title: Introduction to the Bioconductor project
+  url: https://github.com/carpentries-incubator/bioc-project
+  isodatetime: 2024-05-18T15:26:02
 recently-updated: 14
