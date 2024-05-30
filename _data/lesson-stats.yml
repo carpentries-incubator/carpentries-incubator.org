@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 14
 most-recent:
-  title: Introduction to Conda for (Data) Scientists
-  url: https://github.com/carpentries-incubator/introduction-to-conda-for-data-scientists
-  isodatetime: 2024-05-29T11:41:54
-recently-updated: 16
+  title: "Intermediate Research Software Development Skills (Python)" Lesson Material
+  url: https://github.com/carpentries-incubator/python-intermediate-development
+  isodatetime: 2024-05-29T19:40:40
+recently-updated: 15
