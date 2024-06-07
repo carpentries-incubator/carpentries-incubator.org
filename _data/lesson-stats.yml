@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 13
 most-recent:
-  title: An Introduction to Java Programming
-  url: https://github.com/carpentries-incubator/java-intro
-  isodatetime: 2024-06-05T15:03:39
-recently-updated: 15
+  title: Introduction to dMRI
+  url: https://github.com/carpentries-incubator/SDC-BIDS-dMRI
+  isodatetime: 2024-06-06T23:44:00
+recently-updated: 16
