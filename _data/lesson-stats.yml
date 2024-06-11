@@ -7,9 +7,9 @@ perc_alpha: 30
 perc_stable: 2
 perc_pre-alpha: 54
 perc_beta: 14
-help-wanted: 13
+help-wanted: 14
 most-recent:
-  title: Workflow management with Nextflow and nf-core
-  url: https://github.com/carpentries-incubator/workflows-nextflow
-  isodatetime: 2024-06-10T15:41:31
+  title: Learn Deep Learning with Python
+  url: https://github.com/carpentries-incubator/deep-learning-intro
+  isodatetime: 2024-06-11T06:27:19
 recently-updated: 16
