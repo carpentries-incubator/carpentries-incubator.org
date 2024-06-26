@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 14
 most-recent:
-  title: Version Control with Git
-  url: https://github.com/carpentries-incubator/git-novice-branch-pr
-  isodatetime: 2024-06-25T13:20:10
+  title: Flight data analysis to detect features relevant to the continual improvement of safety.
+  url: https://github.com/carpentries-incubator/python-EOFDM-precursors
+  isodatetime: 2024-06-26T11:31:10
 recently-updated: 15
