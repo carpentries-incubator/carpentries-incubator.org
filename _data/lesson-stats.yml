@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 14
 most-recent:
-  title: Reproducible Computational Environments using Containers
-  url: https://github.com/carpentries-incubator/docker-introduction
-  isodatetime: 2024-06-27T14:12:24
+  title: Introduction to dMRI
+  url: https://github.com/carpentries-incubator/SDC-BIDS-dMRI
+  isodatetime: 2024-06-28T00:33:12
 recently-updated: 16
