@@ -1,0 +1,7 @@
+_id: d7fbac40-3d39-11ef-a257-775f99fec488
+country: se
+startdate: '2024-07-11'
+enddate: '2024-07-12'
+lesson_title: RNA-seq analysis with Bioconductor
+lesson_slug: bioc-rnaseq
+website: 'https://rodrigarc.github.io/2024-07-11-bioconductor-rnaseq/'
