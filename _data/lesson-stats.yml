@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 14
 most-recent:
-  title: "Intermediate Research Software Development Skills (Python)" Lesson Material
-  url: https://github.com/carpentries-incubator/python-intermediate-development
-  isodatetime: 2024-07-09T16:21:41
+  title: SageMath Software Carpentry Lesson 
+  url: https://github.com/carpentries-incubator/sage-lesson
+  isodatetime: 2024-07-10T13:22:00
 recently-updated: 15
