@@ -1,0 +1,7 @@
+_id: 0a1e9b50-4399-11ef-be0e-1f12c72a4c15
+country: US
+startdate: '2024-07-22'
+enddate: '2024-07-23'
+lesson_title: RNA-seq analysis with Bioconductor
+lesson_slug: bioc-rnaseq
+website: 'https://bioconductor.github.io/2024-07-22-BiocRnaseq-Bioc2024/'
