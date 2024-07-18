@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 14
 most-recent:
-  title: Structural Neuroimaging Analysis in Python
-  url: https://github.com/carpentries-incubator/SDC-BIDS-sMRI
-  isodatetime: 2024-07-17T08:11:16
-recently-updated: 15
+  title: An Introduction to High Performance Computing
+  url: https://github.com/carpentries-incubator/hpc-intro
+  isodatetime: 2024-07-18T14:32:33
+recently-updated: 16
