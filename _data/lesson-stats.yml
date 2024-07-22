@@ -7,9 +7,9 @@ perc_alpha: 30
 perc_stable: 2
 perc_pre-alpha: 54
 perc_beta: 14
-help-wanted: 14
+help-wanted: 13
 most-recent:
-  title: An Introduction to High Performance Computing
-  url: https://github.com/carpentries-incubator/hpc-intro
-  isodatetime: 2024-07-18T14:32:33
+  title: Learn Deep Learning with Python
+  url: https://github.com/carpentries-incubator/deep-learning-intro
+  isodatetime: 2024-07-22T12:51:35
 recently-updated: 16
