@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 14
 most-recent:
-  title: A Carpentry style lesson on machine learning with Python and scikit-learn.
-  url: https://github.com/carpentries-incubator/machine-learning-novice-sklearn
-  isodatetime: 2024-07-31T17:04:41
+  title: Introduction to the Bioconductor project
+  url: https://github.com/carpentries-incubator/bioc-project
+  isodatetime: 2024-07-31T20:31:30
 recently-updated: 12
