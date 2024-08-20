@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 14
 most-recent:
-  title: Introduction to Snakemake for Bioinformatics
-  url: https://github.com/carpentries-incubator/snakemake-novice-bioinformatics
-  isodatetime: 2024-08-17T11:29:31
+  title: Learn Deep Learning with Python
+  url: https://github.com/carpentries-incubator/deep-learning-intro
+  isodatetime: 2024-08-20T15:33:30
 recently-updated: 13
