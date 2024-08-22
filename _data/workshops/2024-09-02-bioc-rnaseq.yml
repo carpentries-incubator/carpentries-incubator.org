@@ -1,0 +1,7 @@
+_id: 493c4d20-607a-11ef-95af-61392a2a6f91
+country: GB
+startdate: '2024-09-02'
+enddate: '2024-09-03'
+lesson_title: Analysis and Interpretation of Bulk RNA-Seq Data using Bioconductor
+lesson_slug: bioc-rnaseq
+website: 'https://bioconductor.github.io/2024-09-02-RNASeq-EuroBioc/'
