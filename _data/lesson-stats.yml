@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 14
 most-recent:
-  title: Introduction to dMRI
-  url: https://github.com/carpentries-incubator/SDC-BIDS-dMRI
-  isodatetime: 2024-08-27T12:49:27
+  title: Programming with GAP
+  url: https://github.com/carpentries-incubator/gap-lesson
+  isodatetime: 2024-08-27T22:15:31
 recently-updated: 16
