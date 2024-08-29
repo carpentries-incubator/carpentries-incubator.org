@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 14
 most-recent:
-  title: Programming with GAP
-  url: https://github.com/carpentries-incubator/gap-lesson
-  isodatetime: 2024-08-28T16:25:34
-recently-updated: 16
+  title: Extra Unix Shell Material
+  url: https://github.com/carpentries-incubator/shell-extras
+  isodatetime: 2024-08-29T16:09:42
+recently-updated: 17
