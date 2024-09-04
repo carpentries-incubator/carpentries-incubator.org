@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 14
 most-recent:
-  title: An Introduction to High Performance Computing
-  url: https://github.com/carpentries-incubator/hpc-intro
-  isodatetime: 2024-09-04T05:48:34
-recently-updated: 17
+  title: R Packaging
+  url: https://github.com/carpentries-incubator/lesson-R-packaging
+  isodatetime: 2024-09-04T09:19:46
+recently-updated: 18
