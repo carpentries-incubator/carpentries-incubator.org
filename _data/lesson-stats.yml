@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 14
 most-recent:
-  title: Introduction to dMRI
-  url: https://github.com/carpentries-incubator/SDC-BIDS-dMRI
-  isodatetime: 2024-09-11T02:43:39
+  title: Introduction to Snakemake for Bioinformatics
+  url: https://github.com/carpentries-incubator/snakemake-novice-bioinformatics
+  isodatetime: 2024-09-13T14:05:07
 recently-updated: 19
