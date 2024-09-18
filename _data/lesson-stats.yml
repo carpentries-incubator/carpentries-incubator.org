@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 14
 most-recent:
-  title: A lesson exploring the Julia language
-  url: https://github.com/carpentries-incubator/julia-novice
-  isodatetime: 2024-09-17T17:32:20
+  title: Workflow management with Nextflow and nf-core
+  url: https://github.com/carpentries-incubator/workflows-nextflow
+  isodatetime: 2024-09-18T12:27:14
 recently-updated: 20
