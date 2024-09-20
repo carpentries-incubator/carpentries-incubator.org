@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 14
 most-recent:
-  title: Workflow management with Nextflow and nf-core
-  url: https://github.com/carpentries-incubator/workflows-nextflow
-  isodatetime: 2024-09-18T12:27:14
-recently-updated: 20
+  title: Lesson: Introduction to TEI (under development)
+  url: https://github.com/carpentries-incubator/tei-xml
+  isodatetime: 2024-09-20T11:39:48
+recently-updated: 21
