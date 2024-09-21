@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 14
 most-recent:
-  title: Lesson: Introduction to TEI (under development)
-  url: https://github.com/carpentries-incubator/tei-xml
-  isodatetime: 2024-09-20T11:39:48
+  title: Introduction to Geospatial Raster and Vector Data with Python
+  url: https://github.com/carpentries-incubator/geospatial-python
+  isodatetime: 2024-09-20T21:25:50
 recently-updated: 21
