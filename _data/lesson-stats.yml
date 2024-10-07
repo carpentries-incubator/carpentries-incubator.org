@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 14
 most-recent:
-  title: "Intermediate Research Software Development Skills (Python)" Lesson Material
-  url: https://github.com/carpentries-incubator/python-intermediate-development
-  isodatetime: 2024-10-05T04:55:43
+  title: Introduction to Snakemake for Bioinformatics
+  url: https://github.com/carpentries-incubator/snakemake-novice-bioinformatics
+  isodatetime: 2024-10-07T16:21:10
 recently-updated: 21
