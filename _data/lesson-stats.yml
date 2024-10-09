@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 14
 most-recent:
-  title: Workflow management with Nextflow and nf-core
-  url: https://github.com/carpentries-incubator/workflows-nextflow
-  isodatetime: 2024-10-08T13:27:50
+  title: Reproducible Computational Environments using Containers
+  url: https://github.com/carpentries-incubator/docker-introduction
+  isodatetime: 2024-10-08T21:06:21
 recently-updated: 21
