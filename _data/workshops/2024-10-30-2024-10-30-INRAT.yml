@@ -3,5 +3,5 @@ country: tn
 startdate: '2024-10-30'
 enddate: '2024-10-31'
 lesson_title: Introduction to genomic data analysis with R and Bioconductor
-lesson_slug: 2024-10-30-INRAT
+lesson_slug: bioc-intro
 website: 'https://tunisrusergroup.github.io/2024-10-30-INRAT/'
