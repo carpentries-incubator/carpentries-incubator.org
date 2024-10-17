@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 14
 most-recent:
-  title: An Introduction to High Performance Computing
-  url: https://github.com/carpentries-incubator/hpc-intro
-  isodatetime: 2024-10-16T12:36:24
-recently-updated: 17
+  title: "Intermediate Research Software Development Skills (Python)" Lesson Material
+  url: https://github.com/carpentries-incubator/python-intermediate-development
+  isodatetime: 2024-10-17T15:20:50
+recently-updated: 16
