@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 14
 most-recent:
-  title: An Introduction to High Performance Computing
-  url: https://github.com/carpentries-incubator/hpc-intro
-  isodatetime: 2024-10-17T21:46:42
+  title: Reproducible Computational Environments using Containers
+  url: https://github.com/carpentries-incubator/docker-introduction
+  isodatetime: 2024-10-19T14:21:30
 recently-updated: 16
