@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 14
 most-recent:
-  title: A Carpentry style lesson on machine learning with Python and scikit-learn.
-  url: https://github.com/carpentries-incubator/machine-learning-novice-sklearn
-  isodatetime: 2024-10-23T03:17:38
+  title: Single-cell RNA Sequencing Data Analysis
+  url: https://github.com/carpentries-incubator/scrna-seq-analysis
+  isodatetime: 2024-10-23T09:37:26
 recently-updated: 17
