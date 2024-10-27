@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 14
 most-recent:
-  title: Introduction to dMRI
-  url: https://github.com/carpentries-incubator/SDC-BIDS-dMRI
-  isodatetime: 2024-10-25T22:49:53
-recently-updated: 17
+  title: Parallel Programming in Python
+  url: https://github.com/carpentries-incubator/lesson-parallel-python
+  isodatetime: 2024-10-27T08:56:01
+recently-updated: 18
