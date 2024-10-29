@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 14
 most-recent:
-  title: Introduction to Conda for (Data) Scientists
-  url: https://github.com/carpentries-incubator/introduction-to-conda-for-data-scientists
-  isodatetime: 2024-10-28T13:30:38
-recently-updated: 19
+  title: Working with EEGLAB and BIDS-EEG
+  url: https://github.com/carpentries-incubator/SDC-BIDS-EEG-EEGLAB
+  isodatetime: 2024-10-29T13:33:58
+recently-updated: 20
