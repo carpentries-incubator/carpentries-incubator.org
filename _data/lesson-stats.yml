@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 14
 most-recent:
-  title: Reproducible Computational Environments using Containers
-  url: https://github.com/carpentries-incubator/docker-introduction
-  isodatetime: 2024-11-02T19:51:28
-recently-updated: 18
+  title: GPU Programming with Python and CUDA.
+  url: https://github.com/carpentries-incubator/lesson-gpu-programming
+  isodatetime: 2024-11-04T09:34:21
+recently-updated: 19
