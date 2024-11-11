@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 14
 most-recent:
-  title: Introduction to Markdown
-  url: https://github.com/carpentries-incubator/markdown-intro
-  isodatetime: 2024-11-05T13:19:43
-recently-updated: 21
+  title: GPU Programming with Python and CUDA.
+  url: https://github.com/carpentries-incubator/lesson-gpu-programming
+  isodatetime: 2024-11-10T20:46:16
+recently-updated: 22
