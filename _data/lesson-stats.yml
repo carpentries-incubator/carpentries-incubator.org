@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 13
 most-recent:
-  title: An Introduction to High Performance Computing
-  url: https://github.com/carpentries-incubator/hpc-intro
-  isodatetime: 2024-12-09T05:56:29
+  title: GPU Programming with Python and CUDA.
+  url: https://github.com/carpentries-incubator/lesson-gpu-programming
+  isodatetime: 2024-12-09T13:47:52
 recently-updated: 18
