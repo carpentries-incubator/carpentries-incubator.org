@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 13
 most-recent:
-  title: Processing data with EEGLAB
-  url: https://github.com/carpentries-incubator/SDC-EEGLAB
-  isodatetime: 2024-12-25T19:47:07
-recently-updated: 13
+  title: Extra Unix Shell Material
+  url: https://github.com/carpentries-incubator/shell-extras
+  isodatetime: 2024-12-28T16:15:02
+recently-updated: 14
