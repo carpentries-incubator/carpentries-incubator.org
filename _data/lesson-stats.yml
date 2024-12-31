@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 13
 most-recent:
-  title: Working with EEGLAB and BIDS-EEG
-  url: https://github.com/carpentries-incubator/SDC-BIDS-EEG-EEGLAB
-  isodatetime: 2024-12-30T03:53:51
-recently-updated: 16
+  title: Version Control with Git
+  url: https://github.com/carpentries-incubator/git-novice-branch-pr
+  isodatetime: 2024-12-30T22:21:27
+recently-updated: 17
