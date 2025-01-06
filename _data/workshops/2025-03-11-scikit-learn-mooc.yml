@@ -1,0 +1,7 @@
+_id: 88bbe640-cc45-11ef-8eb0-a7b04ae4ec7b
+country: NL
+startdate: '2025-03-11'
+enddate: '2025-03-12'
+lesson_title: Machine Learning in Python with Scikit-learn
+lesson_slug: scikit-learn-mooc
+website: 'https://esciencecenter-digital-skills.github.io/2025-03-11-ds-sklearn/'
