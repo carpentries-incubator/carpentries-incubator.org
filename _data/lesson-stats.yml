@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 13
 most-recent:
-  title: "Intermediate Research Software Development Skills (Python)" Lesson Material
-  url: https://github.com/carpentries-incubator/python-intermediate-development
-  isodatetime: 2025-01-16T10:33:02
+  title: Learn Deep Learning with Python
+  url: https://github.com/carpentries-incubator/deep-learning-intro
+  isodatetime: 2025-01-17T10:03:42
 recently-updated: 16
