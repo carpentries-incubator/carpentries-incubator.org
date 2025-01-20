@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 13
 most-recent:
-  title: Extra Unix Shell Material
-  url: https://github.com/carpentries-incubator/shell-extras
-  isodatetime: 2025-01-18T10:52:25
-recently-updated: 14
+  title: Learn Deep Learning with Python
+  url: https://github.com/carpentries-incubator/deep-learning-intro
+  isodatetime: 2025-01-20T14:27:29
+recently-updated: 15
