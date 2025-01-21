@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 13
 most-recent:
-  title: Learn Deep Learning with Python
-  url: https://github.com/carpentries-incubator/deep-learning-intro
-  isodatetime: 2025-01-20T14:27:29
+  title: High-dimensional statistics with R
+  url: https://github.com/carpentries-incubator/high-dimensional-stats-r
+  isodatetime: 2025-01-21T16:47:07
 recently-updated: 15
