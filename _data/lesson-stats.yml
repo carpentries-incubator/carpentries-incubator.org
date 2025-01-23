@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 13
 most-recent:
-  title: High-dimensional statistics with R
-  url: https://github.com/carpentries-incubator/high-dimensional-stats-r
-  isodatetime: 2025-01-21T16:47:07
-recently-updated: 15
+  title: Workflows with Python and Git
+  url: https://github.com/carpentries-incubator/swc-ext-python
+  isodatetime: 2025-01-22T20:58:30
+recently-updated: 16
