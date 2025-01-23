@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 13
 most-recent:
-  title: Workflows with Python and Git
-  url: https://github.com/carpentries-incubator/swc-ext-python
-  isodatetime: 2025-01-22T20:58:30
+  title: "Intermediate Research Software Development Skills (Python)" Lesson Material
+  url: https://github.com/carpentries-incubator/python-intermediate-development
+  isodatetime: 2025-01-23T11:00:26
 recently-updated: 15
