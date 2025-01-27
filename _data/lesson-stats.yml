@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 12
 most-recent:
-  title: Learn Deep Learning with Python
-  url: https://github.com/carpentries-incubator/deep-learning-intro
-  isodatetime: 2025-01-23T23:54:01
+  title: Workflows with Python and Git
+  url: https://github.com/carpentries-incubator/swc-ext-python
+  isodatetime: 2025-01-27T18:04:09
 recently-updated: 14
