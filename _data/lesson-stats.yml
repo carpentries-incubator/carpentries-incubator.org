@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 12
 most-recent:
-  title: Workflows with Python and Git
-  url: https://github.com/carpentries-incubator/swc-ext-python
-  isodatetime: 2025-01-27T18:04:09
-recently-updated: 13
+  title: Lesson: Introduction to TEI (under development)
+  url: https://github.com/carpentries-incubator/tei-xml
+  isodatetime: 2025-01-28T15:59:29
+recently-updated: 14
