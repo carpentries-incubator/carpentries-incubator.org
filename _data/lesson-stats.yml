@@ -9,7 +9,7 @@ perc_pre-alpha: 55
 perc_beta: 13
 help-wanted: 12
 most-recent:
-  title: Text Analysis with Python
-  url: https://github.com/carpentries-incubator/python-text-analysis
-  isodatetime: 2025-02-06T16:23:22
+  title: Reproducible Computational Environments using Containers
+  url: https://github.com/carpentries-incubator/docker-introduction
+  isodatetime: 2025-02-11T15:36:03
 recently-updated: 11
