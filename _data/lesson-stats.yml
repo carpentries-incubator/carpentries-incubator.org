@@ -9,7 +9,7 @@ perc_pre-alpha: 55
 perc_beta: 13
 help-wanted: 12
 most-recent:
-  title: Reproducible Computational Environments using Containers
-  url: https://github.com/carpentries-incubator/docker-introduction
-  isodatetime: 2025-02-11T15:36:03
-recently-updated: 10
+  title: Structural Neuroimaging Analysis in Python
+  url: https://github.com/carpentries-incubator/SDC-BIDS-sMRI
+  isodatetime: 2025-02-13T09:00:14
+recently-updated: 11
