@@ -1,0 +1,7 @@
+_id: 51e48570-ee2b-11ef-a7e0-e5bfe74dc998
+country: US
+startdate: '2025-02-25'
+enddate: '2025-02-27'
+lesson_title: Introduction to Machine Learning in Python
+lesson_slug: machine-learning-novice-python
+website: 'https://ucsbcarpentry.github.io/workshop/2025/02/25/ucsb-ml.html'
