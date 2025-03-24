@@ -1,0 +1,7 @@
+_id: 024c58a0-08eb-11f0-8899-5f765c549780
+country: US
+startdate: '2025-04-28'
+enddate: '2025-05-01'
+lesson_title: Text Analysis Workshop
+lesson_slug: python-text-analysis
+website: 'https://uw-madison-datascience.github.io/2025-04-28-uwmadison-textanalysis/'
