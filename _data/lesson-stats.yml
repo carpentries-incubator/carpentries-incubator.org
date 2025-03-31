@@ -9,7 +9,7 @@ perc_pre-alpha: 55
 perc_beta: 13
 help-wanted: 12
 most-recent:
-  title: Introduction to MRI and BIDS
-  url: https://github.com/carpentries-incubator/SDC-BIDS-IntroMRI
-  isodatetime: 2025-03-28T18:32:29
+  title: Parallel Programming in Python
+  url: https://github.com/carpentries-incubator/lesson-parallel-python
+  isodatetime: 2025-03-31T12:20:51
 recently-updated: 18
