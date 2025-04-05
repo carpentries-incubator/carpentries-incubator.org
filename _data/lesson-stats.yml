@@ -9,7 +9,7 @@ perc_pre-alpha: 55
 perc_beta: 13
 help-wanted: 12
 most-recent:
-  title: Foundational Computer Skills
-  url: https://github.com/carpentries-incubator/foundational-computer-skills
-  isodatetime: 2025-04-04T17:40:49
+  title: Introduction to AI for GLAM
+  url: https://github.com/carpentries-incubator/machine-learning-librarians-archivists
+  isodatetime: 2025-04-04T21:37:49
 recently-updated: 18
