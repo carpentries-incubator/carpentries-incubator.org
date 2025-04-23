@@ -9,7 +9,7 @@ perc_pre-alpha: 55
 perc_beta: 13
 help-wanted: 12
 most-recent:
-  title: Bioconductor data science introduction
-  url: https://github.com/carpentries-incubator/bioc-intro
-  isodatetime: 2025-04-23T08:31:52
+  title: Text Analysis with Python
+  url: https://github.com/carpentries-incubator/python-text-analysis
+  isodatetime: 2025-04-23T18:54:33
 recently-updated: 15
