@@ -9,7 +9,7 @@ perc_pre-alpha: 55
 perc_beta: 13
 help-wanted: 12
 most-recent:
-  title: Workflows with Python and Git
-  url: https://github.com/carpentries-incubator/swc-ext-python
-  isodatetime: 2025-04-28T17:03:12
-recently-updated: 13
+  title: Working with EEGLAB and BIDS-EEG
+  url: https://github.com/carpentries-incubator/SDC-BIDS-EEG-EEGLAB
+  isodatetime: 2025-04-29T04:57:27
+recently-updated: 14
