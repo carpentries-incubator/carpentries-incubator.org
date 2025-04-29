@@ -9,7 +9,7 @@ perc_pre-alpha: 55
 perc_beta: 13
 help-wanted: 12
 most-recent:
-  title: Working with EEGLAB and BIDS-EEG
-  url: https://github.com/carpentries-incubator/SDC-BIDS-EEG-EEGLAB
-  isodatetime: 2025-04-29T04:57:27
+  title: Bioconductor data science introduction
+  url: https://github.com/carpentries-incubator/bioc-intro
+  isodatetime: 2025-04-29T12:47:50
 recently-updated: 14
