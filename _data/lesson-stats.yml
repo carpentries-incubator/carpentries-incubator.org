@@ -9,7 +9,7 @@ perc_pre-alpha: 55
 perc_beta: 13
 help-wanted: 12
 most-recent:
-  title: A lesson exploring the Julia language
-  url: https://github.com/carpentries-incubator/julia-novice
-  isodatetime: 2025-05-13T09:07:11
-recently-updated: 21
+  title: Bioconductor data science introduction
+  url: https://github.com/carpentries-incubator/bioc-intro
+  isodatetime: 2025-05-13T14:44:27
+recently-updated: 22
