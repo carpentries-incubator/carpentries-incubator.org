@@ -9,7 +9,7 @@ perc_pre-alpha: 55
 perc_beta: 13
 help-wanted: 11
 most-recent:
-  title: An Introduction to High Performance Computing
-  url: https://github.com/carpentries-incubator/hpc-intro
-  isodatetime: 2025-05-31T17:49:57
+  title: Introduction to MRI and BIDS
+  url: https://github.com/carpentries-incubator/SDC-BIDS-IntroMRI
+  isodatetime: 2025-06-06T14:17:53
 recently-updated: 16
