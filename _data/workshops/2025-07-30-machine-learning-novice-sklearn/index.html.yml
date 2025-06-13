@@ -3,5 +3,5 @@ country: US
 startdate: '2025-07-30'
 enddate: '2025-07-31'
 lesson_title: Introduction to Machine Learning with Scikit Learn
-lesson_slug: machine-learning-novice-sklearn/index.html
+lesson_slug: machine-learning-novice-sklearn
 website: 'https://uw-madison-datascience.github.io/2025-07-30-uwmadison-IntrotoML/'
