@@ -9,7 +9,7 @@ perc_pre-alpha: 55
 perc_beta: 13
 help-wanted: 11
 most-recent:
-  title: Bioconductor data science introduction
-  url: https://github.com/carpentries-incubator/bioc-intro
-  isodatetime: 2025-06-21T12:58:33
-recently-updated: 10
+  title: Materials for a workshop introducing machine learning to biologists
+  url: https://github.com/carpentries-incubator/ml4bio-workshop
+  isodatetime: 2025-06-22T07:09:32
+recently-updated: 11
