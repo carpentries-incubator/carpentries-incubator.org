@@ -9,7 +9,7 @@ perc_pre-alpha: 55
 perc_beta: 13
 help-wanted: 11
 most-recent:
-  title: Introduction to Machine Learning with Python
-  url: https://github.com/carpentries-incubator/machine-learning-novice-python
-  isodatetime: 2025-06-23T12:29:13
+  title: A template software project for use in Intermediate Research Software Development Skills In Python course. Contact: @anenadic
+  url: https://github.com/carpentries-incubator/python-intermediate-inflammation
+  isodatetime: 2025-06-23T13:54:31
 recently-updated: 12
