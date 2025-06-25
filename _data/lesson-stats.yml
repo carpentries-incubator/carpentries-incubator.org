@@ -9,7 +9,7 @@ perc_pre-alpha: 55
 perc_beta: 13
 help-wanted: 11
 most-recent:
-  title: Python Testing and Continuous Integration
-  url: https://github.com/carpentries-incubator/python-testing
-  isodatetime: 2025-06-24T20:49:31
-recently-updated: 13
+  title: "Intermediate Research Software Development Skills (Python)" Lesson Material
+  url: https://github.com/carpentries-incubator/python-intermediate-development
+  isodatetime: 2025-06-25T12:51:27
+recently-updated: 12
