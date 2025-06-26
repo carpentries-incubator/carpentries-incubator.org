@@ -9,7 +9,7 @@ perc_pre-alpha: 55
 perc_beta: 13
 help-wanted: 11
 most-recent:
-  title: Version Control with Git
-  url: https://github.com/carpentries-incubator/git-novice-branch-pr
-  isodatetime: 2025-06-25T19:39:37
-recently-updated: 13
+  title: Programming with GAP
+  url: https://github.com/carpentries-incubator/gap-lesson
+  isodatetime: 2025-06-26T07:52:08
+recently-updated: 14
