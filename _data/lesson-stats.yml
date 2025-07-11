@@ -9,7 +9,7 @@ perc_pre-alpha: 55
 perc_beta: 13
 help-wanted: 11
 most-recent:
-  title: Extra Unix Shell Material
-  url: https://github.com/carpentries-incubator/shell-extras
-  isodatetime: 2025-07-07T15:39:35
-recently-updated: 13
+  title: fMRI Imaging Analysis
+  url: https://github.com/carpentries-incubator/SDC-BIDS-fMRI
+  isodatetime: 2025-07-11T06:50:43
+recently-updated: 14
