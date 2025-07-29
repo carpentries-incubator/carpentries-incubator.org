@@ -9,7 +9,7 @@ perc_pre-alpha: 55
 perc_beta: 13
 help-wanted: 11
 most-recent:
-  title: Workflow management with Nextflow and nf-core
-  url: https://github.com/carpentries-incubator/workflows-nextflow
-  isodatetime: 2025-07-28T02:11:21
-recently-updated: 11
+  title: An introduction to singularity
+  url: https://github.com/carpentries-incubator/singularity-introduction
+  isodatetime: 2025-07-29T03:03:22
+recently-updated: 12
