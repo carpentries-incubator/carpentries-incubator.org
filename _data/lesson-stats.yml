@@ -9,7 +9,7 @@ perc_pre-alpha: 55
 perc_beta: 13
 help-wanted: 11
 most-recent:
-  title: An introduction to singularity
-  url: https://github.com/carpentries-incubator/singularity-introduction
-  isodatetime: 2025-07-29T03:03:22
+  title: "Intermediate Research Software Development Skills (Python)" Lesson Material
+  url: https://github.com/carpentries-incubator/python-intermediate-development
+  isodatetime: 2025-07-30T11:37:03
 recently-updated: 12
