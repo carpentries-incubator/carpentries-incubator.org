@@ -1,0 +1,7 @@
+_id: fa1700f0-7761-11f0-8f4d-5f63cd4a3dbb
+country: ES
+startdate: '2025-09-15'
+enddate: '2025-09-16'
+lesson_title: RNA-seq analysis with Bioconductor
+lesson_slug: bioc-rnaseq
+website: 'https://eurobioc2025.bioconductor.org/pages/carpentryworkshops.html'
