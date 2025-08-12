@@ -1,0 +1,7 @@
+_id: 1955f750-7762-11f0-8f4d-5f63cd4a3dbb
+country: ES
+startdate: '2025-09-15'
+enddate: '2025-09-16'
+lesson_title: Orchestrating Large-Scale Single-Cell Analysis with Bioconductor
+lesson_slug: bioc-scrnaseq
+website: 'https://eurobioc2025.bioconductor.org/pages/carpentryworkshops.html'
