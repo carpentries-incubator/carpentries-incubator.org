@@ -7,7 +7,7 @@ perc_alpha: 30
 perc_stable: 2
 perc_pre-alpha: 55
 perc_beta: 13
-help-wanted: 1
+help-wanted: 11
 most-recent:
   title: A lesson exploring the Julia language
   url: https://github.com/carpentries-incubator/julia-novice
