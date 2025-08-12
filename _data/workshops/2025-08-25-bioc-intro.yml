@@ -1,0 +1,7 @@
+_id: 8a0fa6e0-7761-11f0-8f4d-5f63cd4a3dbb
+country: ET
+startdate: '2025-08-25'
+enddate: '2025-08-26'
+lesson_title: Introduction to data analysis with R and Bioconductor
+lesson_slug: bioc-intro
+website: 'https://training.bioconductor.org/workshops/2025-08-Addis-Ababa/index.html'
