@@ -1,0 +1,7 @@
+_id: c6167920-7761-11f0-8f4d-5f63cd4a3dbb
+country: ET
+startdate: '2025-08-27'
+enddate: '2025-08-29'
+lesson_title: RNA-seq analysis with Bioconductor
+lesson_slug: bioc-rnaseq
+website: 'https://training.bioconductor.org/workshops/2025-08-Addis-Ababa/index.html'
