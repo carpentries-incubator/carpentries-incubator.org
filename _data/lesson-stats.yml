@@ -9,7 +9,7 @@ perc_pre-alpha: 55
 perc_beta: 13
 help-wanted: 11
 most-recent:
-  title: Introduction to Snakemake for Bioinformatics
-  url: https://github.com/carpentries-incubator/snakemake-novice-bioinformatics
-  isodatetime: 2025-08-22T16:34:22
-recently-updated: 10
+  title: fMRI Imaging Analysis
+  url: https://github.com/carpentries-incubator/SDC-BIDS-fMRI
+  isodatetime: 2025-08-23T14:27:07
+recently-updated: 11
