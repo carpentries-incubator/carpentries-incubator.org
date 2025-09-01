@@ -1,15 +1,15 @@
 alpha: 28
 stable: 2
-pre-alpha: 50
-beta: 12
+pre-alpha: 49
+beta: 13
 total: 92
 perc_alpha: 30
 perc_stable: 2
-perc_pre-alpha: 55
-perc_beta: 13
+perc_pre-alpha: 54
+perc_beta: 14
 help-wanted: 11
 most-recent:
-  title: Python Testing and Continuous Integration
-  url: https://github.com/carpentries-incubator/python-testing
-  isodatetime: 2025-08-31T14:51:10
-recently-updated: 12
+  title: Introduction to Machine Learning with Python
+  url: https://github.com/carpentries-incubator/machine-learning-novice-python
+  isodatetime: 2025-09-01T09:07:56
+recently-updated: 11
