@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 11
 most-recent:
-  title: Analysis and Interpretation of Bulk RNA-Seq Data using Bioconductor
-  url: https://github.com/carpentries-incubator/bioc-rnaseq
-  isodatetime: 2025-09-02T05:35:57
-recently-updated: 11
+  title: Version Control with Git
+  url: https://github.com/carpentries-incubator/git-novice-branch-pr
+  isodatetime: 2025-09-02T09:02:36
+recently-updated: 12
