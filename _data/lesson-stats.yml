@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 11
 most-recent:
-  title: Packaging and Publishing with Python
-  url: https://github.com/carpentries-incubator/python-packaging-publishing
-  isodatetime: 2025-09-13T16:34:09
-recently-updated: 16
+  title: R Packaging
+  url: https://github.com/carpentries-incubator/lesson-R-packaging
+  isodatetime: 2025-09-17T04:26:56
+recently-updated: 17
