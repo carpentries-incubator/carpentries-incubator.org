@@ -7,7 +7,7 @@ perc_alpha: 30
 perc_stable: 2
 perc_pre-alpha: 54
 perc_beta: 14
-help-wanted: 11
+help-wanted: 10
 most-recent:
   title: R Packaging
   url: https://github.com/carpentries-incubator/lesson-R-packaging
