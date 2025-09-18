@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 11
 most-recent:
-  title: R Packaging
-  url: https://github.com/carpentries-incubator/lesson-R-packaging
-  isodatetime: 2025-09-17T04:26:56
-recently-updated: 17
+  title: SQL for Humanities
+  url: https://github.com/carpentries-incubator/sql-humanities-lesson
+  isodatetime: 2025-09-18T04:32:40
+recently-updated: 18
