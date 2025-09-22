@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 11
 most-recent:
-  title: SQL for Humanities
-  url: https://github.com/carpentries-incubator/sql-humanities-lesson
-  isodatetime: 2025-09-18T04:32:40
+  title: Analysis and Interpretation of Bulk RNA-Seq Data using Bioconductor
+  url: https://github.com/carpentries-incubator/bioc-rnaseq
+  isodatetime: 2025-09-22T15:29:18
 recently-updated: 17
