@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 11
 most-recent:
-  title: Analysis and Interpretation of Bulk RNA-Seq Data using Bioconductor
-  url: https://github.com/carpentries-incubator/bioc-rnaseq
-  isodatetime: 2025-09-23T12:52:06
-recently-updated: 17
+  title: Introduction to web scraping
+  url: https://github.com/carpentries-incubator/lc-webscraping
+  isodatetime: 2025-09-25T11:44:48
+recently-updated: 20
