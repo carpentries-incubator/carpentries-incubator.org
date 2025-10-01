@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 11
 most-recent:
-  title: Text Analysis with Python
-  url: https://github.com/carpentries-incubator/python-text-analysis
-  isodatetime: 2025-10-01T02:16:07
-recently-updated: 17
+  title: Packaging and Publishing with Python
+  url: https://github.com/carpentries-incubator/python-packaging-publishing
+  isodatetime: 2025-10-01T12:04:16
+recently-updated: 16
