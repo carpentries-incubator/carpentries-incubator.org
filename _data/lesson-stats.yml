@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 11
 most-recent:
-  title: Introduction to web scraping
-  url: https://github.com/carpentries-incubator/lc-webscraping
-  isodatetime: 2025-09-25T11:44:48
-recently-updated: 16
+  title: Text Analysis with Python
+  url: https://github.com/carpentries-incubator/python-text-analysis
+  isodatetime: 2025-10-01T02:16:07
+recently-updated: 17
