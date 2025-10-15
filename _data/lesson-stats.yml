@@ -1,15 +1,15 @@
-alpha: 28
+alpha: 27
 stable: 2
 pre-alpha: 49
 beta: 13
-total: 92
+total: 91
 perc_alpha: 30
 perc_stable: 2
 perc_pre-alpha: 54
 perc_beta: 14
-help-wanted: 11
+help-wanted: 10
 most-recent:
   title: High-dimensional statistics with R
   url: https://github.com/carpentries-incubator/high-dimensional-stats-r
   isodatetime: 2025-10-10T14:39:27
-recently-updated: 12
+recently-updated: 11
