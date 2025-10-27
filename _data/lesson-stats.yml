@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 11
 most-recent:
-  title: Workflow management with Nextflow and nf-core
-  url: https://github.com/carpentries-incubator/workflows-nextflow
-  isodatetime: 2025-10-24T12:44:51
-recently-updated: 8
+  title: Version Control with Git
+  url: https://github.com/carpentries-incubator/git-novice-branch-pr
+  isodatetime: 2025-10-27T14:54:35
+recently-updated: 9
