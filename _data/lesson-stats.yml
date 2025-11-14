@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 11
 most-recent:
-  title: Structural Neuroimaging Analysis in Python
-  url: https://github.com/carpentries-incubator/SDC-BIDS-sMRI
-  isodatetime: 2025-11-13T20:10:05
+  title: Version Control with Git
+  url: https://github.com/carpentries-incubator/git-novice-branch-pr
+  isodatetime: 2025-11-14T16:47:36
 recently-updated: 9
