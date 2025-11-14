@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 11
 most-recent:
-  title: Workflow management with Nextflow and nf-core
-  url: https://github.com/carpentries-incubator/workflows-nextflow
-  isodatetime: 2025-11-13T08:11:45
-recently-updated: 8
+  title: Structural Neuroimaging Analysis in Python
+  url: https://github.com/carpentries-incubator/SDC-BIDS-sMRI
+  isodatetime: 2025-11-13T20:10:05
+recently-updated: 9
