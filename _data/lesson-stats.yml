@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 11
 most-recent:
-  title: Genome Mining in Prokaryotes
-  url: https://github.com/carpentries-incubator/genome-mining
-  isodatetime: 2025-11-18T09:00:41
+  title: Version Control with Git
+  url: https://github.com/carpentries-incubator/git-novice-branch-pr
+  isodatetime: 2025-11-18T22:31:56
 recently-updated: 9
