@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 11
 most-recent:
-  title: Analysis and Interpretation of Bulk RNA-Seq Data using Bioconductor
-  url: https://github.com/carpentries-incubator/bioc-rnaseq
-  isodatetime: 2025-12-13T21:29:05
+  title: A lesson exploring the Julia language
+  url: https://github.com/carpentries-incubator/julia-novice
+  isodatetime: 2025-12-16T13:02:10
 recently-updated: 8
