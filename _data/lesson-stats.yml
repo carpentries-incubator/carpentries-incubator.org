@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 11
 most-recent:
-  title: Workflows with Python and Git
-  url: https://github.com/carpentries-incubator/swc-ext-python
-  isodatetime: 2026-01-07T17:14:52
-recently-updated: 11
+  title: An Introduction to High Performance Computing
+  url: https://github.com/carpentries-incubator/hpc-intro
+  isodatetime: 2026-01-09T17:59:02
+recently-updated: 13
