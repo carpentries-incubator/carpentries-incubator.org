@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 11
 most-recent:
-  title: Introduction to MRI and BIDS
-  url: https://github.com/carpentries-incubator/SDC-BIDS-IntroMRI
-  isodatetime: 2026-01-13T18:28:42
-recently-updated: 14
+  title: Workflow management with Nextflow and nf-core
+  url: https://github.com/carpentries-incubator/workflows-nextflow
+  isodatetime: 2026-01-14T03:09:25
+recently-updated: 17
