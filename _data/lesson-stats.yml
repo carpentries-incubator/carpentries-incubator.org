@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 11
 most-recent:
-  title: Workflows with Python and Git
-  url: https://github.com/carpentries-incubator/swc-ext-python
-  isodatetime: 2026-01-16T14:12:14
+  title: Introduction to MRI and BIDS
+  url: https://github.com/carpentries-incubator/SDC-BIDS-IntroMRI
+  isodatetime: 2026-01-20T02:38:49
 recently-updated: 15
