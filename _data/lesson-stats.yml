@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 11
 most-recent:
-  title: Introduction to MRI and BIDS
-  url: https://github.com/carpentries-incubator/SDC-BIDS-IntroMRI
-  isodatetime: 2026-01-26T20:29:53
+  title: Bioconductor data science introduction
+  url: https://github.com/carpentries-incubator/bioc-intro
+  isodatetime: 2026-01-27T06:09:45
 recently-updated: 16
