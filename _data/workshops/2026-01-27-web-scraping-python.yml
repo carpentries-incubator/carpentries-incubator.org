@@ -1,0 +1,7 @@
+_id: 1f436820-f63b-11f0-9444-933a4df839b5
+country: US
+startdate: '2026-01-27'
+enddate: '2026-01-29'
+lesson_title: Web Scraping with Python
+lesson_slug: web-scraping-python
+website: 'https://carpentry.library.ucsb.edu/workshop/2026/01/27/ucsb-webscraping.html'
