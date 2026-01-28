@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 11
 most-recent:
-  title: Version Control with Git
-  url: https://github.com/carpentries-incubator/git-novice-branch-pr
-  isodatetime: 2026-01-27T18:51:17
-recently-updated: 19
+  title: Text Analysis with Python
+  url: https://github.com/carpentries-incubator/python-text-analysis
+  isodatetime: 2026-01-27T20:30:15
+recently-updated: 20
