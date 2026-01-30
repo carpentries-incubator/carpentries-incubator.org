@@ -3,5 +3,5 @@ country: gb
 startdate: '2026-01-20'
 enddate: '2026-01-20'
 lesson_title: Introduction to HPC
-lesson_slug: 2026-01-20-NCL
+lesson_slug: hpc-intro
 website: 'https://nclrse-training.github.io/2026-01-20-NCL/'
