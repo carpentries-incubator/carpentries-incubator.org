@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 11
 most-recent:
-  title: Intermediate Research Software Development Skills (Python)
-  url: https://github.com/carpentries-incubator/python-intermediate-development
-  isodatetime: 2026-01-30T13:50:26
+  title: Carpentries Incubator lesson to learn how to build blog sites with Hugo and GitHub Pages
+  url: https://github.com/carpentries-incubator/blogging-with-hugo-and-github-pages
+  isodatetime: 2026-02-01T19:41:17
 recently-updated: 20
