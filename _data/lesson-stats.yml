@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 11
 most-recent:
-  title: High-dimensional statistics with R
-  url: https://github.com/carpentries-incubator/high-dimensional-stats-r
-  isodatetime: 2026-02-03T12:22:47
-recently-updated: 21
+  title: A Carpentry style lesson on machine learning with Python and scikit-learn.
+  url: https://github.com/carpentries-incubator/machine-learning-novice-sklearn
+  isodatetime: 2026-02-03T19:11:13
+recently-updated: 20
