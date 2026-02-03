@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 11
 most-recent:
-  title: Carpentries Incubator lesson to learn how to build blog sites with Hugo and GitHub Pages
-  url: https://github.com/carpentries-incubator/blogging-with-hugo-and-github-pages
-  isodatetime: 2026-02-01T19:41:17
+  title: A Carpentry style lesson on machine learning with Python and scikit-learn.
+  url: https://github.com/carpentries-incubator/machine-learning-novice-sklearn
+  isodatetime: 2026-02-03T02:33:58
 recently-updated: 20
