@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 11
 most-recent:
-  title: Open Refine for Humanities
-  url: https://github.com/carpentries-incubator/OpenRefine-humanities-lesson
-  isodatetime: 2026-02-10T19:35:44
-recently-updated: 26
+  title: Introduction to web scraping
+  url: https://github.com/carpentries-incubator/lc-webscraping
+  isodatetime: 2026-02-10T20:24:54
+recently-updated: 28
