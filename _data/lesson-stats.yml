@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 11
 most-recent:
-  title: Carpentry-style lesson on how to use R, RStudio together with git & Github to promote Open Science practices.
-  url: https://github.com/carpentries-incubator/open-science-with-r
-  isodatetime: 2026-02-11T13:59:44
-recently-updated: 37
+  title: Foundational Computer Skills
+  url: https://github.com/carpentries-incubator/foundational-computer-skills
+  isodatetime: 2026-02-11T15:54:59
+recently-updated: 69
