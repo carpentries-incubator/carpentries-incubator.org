@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 11
 most-recent:
-  title: Foundational Computer Skills
-  url: https://github.com/carpentries-incubator/foundational-computer-skills
-  isodatetime: 2026-02-11T15:54:59
-recently-updated: 68
+  title: GPU Programming with Python and CUDA.
+  url: https://github.com/carpentries-incubator/lesson-gpu-programming
+  isodatetime: 2026-02-12T15:38:38
+recently-updated: 69
