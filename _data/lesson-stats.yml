@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 11
 most-recent:
-  title: Workflow management with Nextflow and nf-core
-  url: https://github.com/carpentries-incubator/workflows-nextflow
-  isodatetime: 2026-02-23T12:57:49
+  title: Intermediate Research Software Development Skills (Python)
+  url: https://github.com/carpentries-incubator/python-intermediate-development
+  isodatetime: 2026-02-24T12:26:50
 recently-updated: 64
