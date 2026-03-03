@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 11
 most-recent:
-  title: Intermediate Research Software Development Skills (Python)
-  url: https://github.com/carpentries-incubator/python-intermediate-development
-  isodatetime: 2026-02-24T12:26:50
+  title: Analysis and Interpretation of Bulk RNA-Seq Data using Bioconductor
+  url: https://github.com/carpentries-incubator/bioc-rnaseq
+  isodatetime: 2026-03-03T02:47:14
 recently-updated: 61
