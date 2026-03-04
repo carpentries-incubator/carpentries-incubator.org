@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 11
 most-recent:
-  title: High-dimensional statistics with R
-  url: https://github.com/carpentries-incubator/high-dimensional-stats-r
-  isodatetime: 2026-03-03T12:36:05
-recently-updated: 61
+  title: GPU Programming with Python and CUDA.
+  url: https://github.com/carpentries-incubator/lesson-gpu-programming
+  isodatetime: 2026-03-03T15:25:54
+recently-updated: 60
