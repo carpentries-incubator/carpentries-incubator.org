@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 11
 most-recent:
-  title: Programming with GAP
-  url: https://github.com/carpentries-incubator/gap-lesson
-  isodatetime: 2026-03-04T11:02:39
+  title: An Introduction to High Performance Computing
+  url: https://github.com/carpentries-incubator/hpc-intro
+  isodatetime: 2026-03-05T10:40:58
 recently-updated: 61
