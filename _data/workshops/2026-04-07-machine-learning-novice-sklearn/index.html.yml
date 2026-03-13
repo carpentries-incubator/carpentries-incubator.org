@@ -3,5 +3,5 @@ country: US
 startdate: '2026-04-07'
 enddate: '2026-04-23'
 lesson_title: Machine learning
-lesson_slug: machine-learning-novice-sklearn/index.html
+lesson_slug: machine-learning-novice-sklearn
 website: 'https://shubhamkrpandey19.github.io/2026-04-07-MLworkshop-online/'
