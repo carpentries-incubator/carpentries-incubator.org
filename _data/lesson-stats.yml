@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 11
 most-recent:
-  title: Introduction to dMRI
-  url: https://github.com/carpentries-incubator/SDC-BIDS-dMRI
-  isodatetime: 2026-03-13T08:27:34
-recently-updated: 11
+  title: fMRI Imaging Analysis
+  url: https://github.com/carpentries-incubator/SDC-BIDS-fMRI
+  isodatetime: 2026-03-15T14:13:43
+recently-updated: 12
