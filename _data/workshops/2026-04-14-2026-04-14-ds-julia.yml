@@ -1,0 +1,7 @@
+_id: d411dbf0-3287-11f1-a22e-97ba7b1fa252
+country: NL
+startdate: '2026-04-14'
+enddate: '2026-04-15'
+lesson_title: Efficient Computing in Julia
+lesson_slug: efficient-computing-in-julia
+website: 'https://esciencecenter-digital-skills.github.io/2026-04-14-ds-julia/'
