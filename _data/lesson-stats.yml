@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 11
 most-recent:
-  title: Intermediate Research Software Development Skills (Python)
-  url: https://github.com/carpentries-incubator/python-intermediate-development
-  isodatetime: 2026-04-01T07:06:26
-recently-updated: 10
+  title: Bioconductor data science introduction
+  url: https://github.com/carpentries-incubator/bioc-intro
+  isodatetime: 2026-04-07T07:14:47
+recently-updated: 11
