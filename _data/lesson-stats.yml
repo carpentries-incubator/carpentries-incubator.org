@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 11
 most-recent:
-  title: Lesson: Introduction to TEI (under development)
-  url: https://github.com/carpentries-incubator/tei-xml
-  isodatetime: 2026-04-16T08:58:27
+  title: A Carpentry style lesson on machine learning with Python and scikit-learn.
+  url: https://github.com/carpentries-incubator/machine-learning-novice-sklearn
+  isodatetime: 2026-04-17T14:08:56
 recently-updated: 9
