@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 11
 most-recent:
-  title: Introduction to MRI and BIDS
-  url: https://github.com/carpentries-incubator/SDC-BIDS-IntroMRI
-  isodatetime: 2026-04-30T18:39:59
-recently-updated: 12
+  title: Python Testing and Continuous Integration
+  url: https://github.com/carpentries-incubator/python-testing
+  isodatetime: 2026-05-02T17:51:01
+recently-updated: 13
