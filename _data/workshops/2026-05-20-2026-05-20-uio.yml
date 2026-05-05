@@ -3,5 +3,5 @@ country: 'NO'
 startdate: '2026-05-20'
 enddate: '2026-05-20'
 lesson_title: More Python for beginners
-lesson_slug: 2026-05-20-uio
+lesson_slug: introduction-to-conda-for-data-scientists
 website: 'https://uio-carpentry.github.io/2026-05-20-uio/'
