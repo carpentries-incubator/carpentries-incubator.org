@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 11
 most-recent:
-  title: Intermediate Research Software Development Skills (Python)
-  url: https://github.com/carpentries-incubator/python-intermediate-development
-  isodatetime: 2026-05-05T11:04:03
+  title: GPU Programming with Python and CUDA.
+  url: https://github.com/carpentries-incubator/lesson-gpu-programming
+  isodatetime: 2026-05-06T14:20:22
 recently-updated: 13
