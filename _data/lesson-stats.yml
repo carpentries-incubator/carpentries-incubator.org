@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 11
 most-recent:
-  title: SQL for Humanities
-  url: https://github.com/carpentries-incubator/sql-humanities-lesson
-  isodatetime: 2026-06-03T11:41:50
+  title: An Introduction to High Performance Computing
+  url: https://github.com/carpentries-incubator/hpc-intro
+  isodatetime: 2026-06-04T11:16:11
 recently-updated: 18
