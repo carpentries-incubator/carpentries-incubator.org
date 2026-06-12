@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 11
 most-recent:
-  title: A Carpentry style lesson on machine learning with Python and scikit-learn.
-  url: https://github.com/carpentries-incubator/machine-learning-novice-sklearn
-  isodatetime: 2026-06-11T19:51:50
-recently-updated: 20
+  title: Statistical Inference for Biology
+  url: https://github.com/carpentries-incubator/statistical-inference-for-biology
+  isodatetime: 2026-06-12T15:57:06
+recently-updated: 21
