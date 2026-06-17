@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 11
 most-recent:
-  title: Statistical Inference for Biology
-  url: https://github.com/carpentries-incubator/statistical-inference-for-biology
-  isodatetime: 2026-06-12T15:57:06
+  title: Reproducible Computational Environments using Containers
+  url: https://github.com/carpentries-incubator/docker-introduction
+  isodatetime: 2026-06-17T20:15:39
 recently-updated: 21
