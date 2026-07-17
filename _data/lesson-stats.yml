@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 11
 most-recent:
-  title: Programming with GAP
-  url: https://github.com/carpentries-incubator/gap-lesson
-  isodatetime: 2026-07-16T15:24:51
+  title: Intermediate Research Software Development Skills (Python)
+  url: https://github.com/carpentries-incubator/python-intermediate-development
+  isodatetime: 2026-07-17T07:27:15
 recently-updated: 13
