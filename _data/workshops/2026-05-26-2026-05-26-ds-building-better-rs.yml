@@ -4,6 +4,6 @@ online: 'on'
 startdate: '2026-05-26'
 enddate: '2026-06-16'
 lesson_title: Building Better Research Software (pilot)
-lesson_slug: 2026-05-26-ds-building-better-rs
+lesson_slug: better-research-software
 website: >-
   https://esciencecenter-digital-skills.github.io/2026-05-26-ds-building-better-rs
