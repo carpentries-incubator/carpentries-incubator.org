@@ -3,5 +3,5 @@ country: US
 startdate: '2026-07-20'
 enddate: '2026-07-23'
 lesson_title: Building Better Research Software in Python
-lesson_slug: 2026-07-20-uwmadison-bbrs-py
+lesson_slug: better-research-software
 website: 'https://uw-madison-datascience.github.io/2026-07-20-uwmadison-bbrs-py/'
