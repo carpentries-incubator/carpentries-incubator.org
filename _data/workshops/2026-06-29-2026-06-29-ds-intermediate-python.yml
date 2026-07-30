@@ -3,6 +3,6 @@ country: NL
 startdate: '2026-06-29'
 enddate: '2026-07-01'
 lesson_title: Collaborative Software Development for Reuse
-lesson_slug: 2026-06-29-ds-intermediate-python
+lesson_slug: python-intermediate-development
 website: >-
   https://esciencecenter-digital-skills.github.io/2026-06-29-ds-intermediate-python/
