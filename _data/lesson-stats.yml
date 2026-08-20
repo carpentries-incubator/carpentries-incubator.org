@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 11
 most-recent:
-  title: Parallel Programming in Python
-  url: https://github.com/carpentries-incubator/lesson-parallel-python
-  isodatetime: 2026-08-19T10:00:27
+  title: Using High-Performance Computing Systems
+  url: https://github.com/carpentries-incubator/hpc-intro
+  isodatetime: 2026-08-20T13:28:00
 recently-updated: 9
