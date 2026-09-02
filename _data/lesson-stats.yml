@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 11
 most-recent:
-  title: Bioconductor data science introduction
-  url: https://github.com/carpentries-incubator/bioc-intro
-  isodatetime: 2026-09-01T10:30:31
+  title: Using High-Performance Computing Systems
+  url: https://github.com/carpentries-incubator/hpc-intro
+  isodatetime: 2026-09-02T19:08:16
 recently-updated: 15
