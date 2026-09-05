@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 11
 most-recent:
-  title: A Carpentry style lesson on machine learning with Python and scikit-learn.
-  url: https://github.com/carpentries-incubator/machine-learning-novice-sklearn
-  isodatetime: 2026-09-04T00:24:26
+  title: Structural Neuroimaging Analysis in Python
+  url: https://github.com/carpentries-incubator/SDC-BIDS-sMRI
+  isodatetime: 2026-09-04T21:07:43
 recently-updated: 16
