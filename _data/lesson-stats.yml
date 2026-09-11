@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 11
 most-recent:
-  title: fMRI Imaging Analysis
-  url: https://github.com/carpentries-incubator/SDC-BIDS-fMRI
-  isodatetime: 2026-09-09T18:46:33
-recently-updated: 17
+  title: Workflow management with Nextflow and nf-core
+  url: https://github.com/carpentries-incubator/workflows-nextflow
+  isodatetime: 2026-09-11T06:21:33
+recently-updated: 18
