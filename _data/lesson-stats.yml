@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 11
 most-recent:
-  title: Introduction to Machine Learning with Python
-  url: https://github.com/carpentries-incubator/machine-learning-novice-python
-  isodatetime: 2026-09-21T19:01:21
+  title: Using High-Performance Computing Systems
+  url: https://github.com/carpentries-incubator/hpc-intro
+  isodatetime: 2026-09-24T11:35:05
 recently-updated: 19
