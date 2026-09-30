@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 11
 most-recent:
-  title: Parallel Programming in Python
-  url: https://github.com/carpentries-incubator/lesson-parallel-python
-  isodatetime: 2026-09-30T10:00:36
-recently-updated: 19
+  title: One-day Snakemake workshop.                  
+  url: https://github.com/carpentries-incubator/workflows-snakemake
+  isodatetime: 2026-09-30T15:49:14
+recently-updated: 20
