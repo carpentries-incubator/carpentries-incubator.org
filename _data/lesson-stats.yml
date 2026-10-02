@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 11
 most-recent:
-  title: One-day Snakemake workshop.                  
-  url: https://github.com/carpentries-incubator/workflows-snakemake
-  isodatetime: 2026-09-30T15:49:14
+  title: Using High-Performance Computing Systems
+  url: https://github.com/carpentries-incubator/hpc-intro
+  isodatetime: 2026-10-02T13:51:07
 recently-updated: 15
