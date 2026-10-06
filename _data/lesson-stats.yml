@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 11
 most-recent:
-  title: Using High-Performance Computing Systems
-  url: https://github.com/carpentries-incubator/hpc-intro
-  isodatetime: 2026-10-05T17:41:45
-recently-updated: 13
+  title: Analysis and Interpretation of Bulk RNA-Seq Data using Bioconductor
+  url: https://github.com/carpentries-incubator/bioc-rnaseq
+  isodatetime: 2026-10-06T06:18:32
+recently-updated: 17
