@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 11
 most-recent:
-  title: Analysis and Interpretation of Bulk RNA-Seq Data using Bioconductor
-  url: https://github.com/carpentries-incubator/bioc-rnaseq
-  isodatetime: 2026-10-06T06:18:32
-recently-updated: 17
+  title: Introduction to MRI and BIDS
+  url: https://github.com/carpentries-incubator/SDC-BIDS-IntroMRI
+  isodatetime: 2026-10-06T12:56:37
+recently-updated: 18
