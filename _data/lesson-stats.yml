@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 11
 most-recent:
-  title: Using High-Performance Computing Systems
-  url: https://github.com/carpentries-incubator/hpc-intro
-  isodatetime: 2026-10-07T15:49:11
+  title: Workflow management with Nextflow and nf-core
+  url: https://github.com/carpentries-incubator/workflows-nextflow
+  isodatetime: 2026-10-08T11:35:56
 recently-updated: 19
