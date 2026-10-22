@@ -4,6 +4,6 @@ online: 'on'
 startdate: '2026-11-03'
 enddate: '2026-12-01'
 lesson_title: Intermediate Research Software Development with Python
-lesson_slug: 2026-11-03-ds-intermediate-python
+lesson_slug: python-intermediate-development
 website: >-
   https://esciencecenter-digital-skills.github.io/2026-11-03-ds-intermediate-python/
