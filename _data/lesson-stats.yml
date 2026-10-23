@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 11
 most-recent:
-  title: fMRI Imaging Analysis
-  url: https://github.com/carpentries-incubator/SDC-BIDS-fMRI
-  isodatetime: 2026-10-21T07:37:59
+  title: Bioconductor data science introduction
+  url: https://github.com/carpentries-incubator/bioc-intro
+  isodatetime: 2026-10-23T11:56:14
 recently-updated: 21
