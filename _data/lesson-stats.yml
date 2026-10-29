@@ -9,7 +9,7 @@ perc_pre-alpha: 54
 perc_beta: 14
 help-wanted: 11
 most-recent:
-  title: Introduction to web scraping
-  url: https://github.com/carpentries-incubator/lc-webscraping
-  isodatetime: 2026-10-27T16:48:52
+  title: Intermediate Research Software Development Skills (Python)
+  url: https://github.com/carpentries-incubator/python-intermediate-development
+  isodatetime: 2026-10-29T11:37:54
 recently-updated: 22
