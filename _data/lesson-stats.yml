@@ -1,15 +1,15 @@
-alpha: 27
+alpha: 26
 stable: 2
 pre-alpha: 49
 beta: 13
-total: 91
-perc_alpha: 30
+total: 90
+perc_alpha: 29
 perc_stable: 2
-perc_pre-alpha: 54
+perc_pre-alpha: 55
 perc_beta: 14
 help-wanted: 11
 most-recent:
   title: Intermediate Research Software Development Skills (Python)
   url: https://github.com/carpentries-incubator/python-intermediate-development
   isodatetime: 2026-10-29T11:37:54
-recently-updated: 22
+recently-updated: 21
