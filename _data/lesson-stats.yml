@@ -9,7 +9,7 @@ perc_pre-alpha: 55
 perc_beta: 14
 help-wanted: 11
 most-recent:
-  title: Introduction to web scraping
-  url: https://github.com/carpentries-incubator/lc-webscraping
-  isodatetime: 2026-11-20T23:58:24
-recently-updated: 7
+  title: Introduction to Geospatial Raster and Vector Data with Python
+  url: https://github.com/carpentries-incubator/geospatial-python
+  isodatetime: 2026-11-25T03:56:51
+recently-updated: 8
